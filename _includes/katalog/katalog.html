@@ -72,7 +72,7 @@
 
       <div class="container pt-5">
         <ol class="carousel-indicators">
-          {% for unternehmen in site.data.unternehmen_2023 %}
+          {% for unternehmen in katalog_unternehmen %}
           <li data-target="#katalog-carousel" data-slide-to="{{ forloop.index0 }}"
             class="{% if forloop.first == true %}active{% endif %}">
           </li>
