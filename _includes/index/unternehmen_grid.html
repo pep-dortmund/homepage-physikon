@@ -1,15 +1,17 @@
-%<section class="portfolio" id="portfolio">
-  <div class="container mx-auto">
-    
+<section class="portfolio" id="portfolio">
+  <div class="container pt-5 mx-auto">
+
     <h2 class="text-center text-gray text-uppercase text-secondary mb-0 h2-fontsize">Unternehmen</h2>
     <hr class="star-dark">
 
     <div class="row justify-content-center">
-      {% for unternehmen in site.data.archiv.unternehmen_2023 %}
+      {% for unternehmen in site.data.unternehmen_2023 %}
       <div class="col-xl-3 col-md-4 col-6 grid-col">
-        <a class="mx-auto" href="{{ unternehmen.url }}" target="_blank">
+        <a class="mx-auto"
+          href="{% if unternehmen.text and unternehmen.text != '' %}{% link katalog.html %}#{{ unternehmen.name | url_encode }}{% else %}{{ unternehmen.url }}{% endif %}"
+          {% unless unternehmen.text and unternehmen.text !='' %}target="_blank" {% endunless %}>
           <div class=frame>
-            <img class="logo" src="{{ unternehmen.logo }}" alt="">
+            <img class="logo" src="{{ unternehmen.logo }}" alt="{{ unternehmen.name }}">
           </div>
         </a>
       </div>
@@ -17,4 +19,4 @@
     </div>
 
   </div>
-%</section>
+</section>

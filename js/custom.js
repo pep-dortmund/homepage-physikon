@@ -1,14 +1,18 @@
-var $numberofSlides = $('.carousel-item').length;
-var $currentSlide = Math.floor((Math.random() * $numberofSlides));
-var $item = $('.carousel-item');
+const carouselElement = document.querySelector('#katalog-carousel');
+const numSlides = carouselElement.querySelectorAll('.carousel-item').length;
 
- $('.carousel-indicators li').each(function(){
-  var $slideValue = $(this).attr('data-slide-to');
-  if($currentSlide == $slideValue) {
-    $(this).addClass('active');
-    $item.eq($slideValue).addClass('active');
+function getCarouselIndex(id) {
+  console.log(id);
+  return Array.from(carouselElement.querySelectorAll('.carousel-item').values()).findIndex((element) => element.id == id);
+}
+
+if (carouselElement) {
+  const carousel = new bootstrap.Carousel(carouselElement);
+
+  if (document.location.hash == "") {
+    carousel.to(Math.floor(Math.random() * numSlides));
   } else {
-    $(this).removeClass('active');
-    $item.eq($slideValue).removeClass('active');
+    carousel.to(getCarouselIndex(document.location.hash.substring(1)));
   }
-});
+}
+

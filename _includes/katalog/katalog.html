@@ -5,25 +5,23 @@
   <h2 class="text-center text-gray text-uppercase text-secondary mb-0 h2-fontsize">Unternehmen 2023</h2>
   <hr class="star-dark">
 
-  <p style="font-size: 1.2rem">
-    Hier findet ihr ab dem Frühjahr 2023 den Katalog mit den Unternehmen, die sich euch auf der PhysiKon vorstellen
-    wollen.
-    Seid dabei!
-  </p>
-
-  {% comment %}
   <!-- Carousel -->
-  <div id="{{ include.name }}" class="carousel slide" data-ride="carousel" data-interval="false">
+  <div id="katalog-carousel" class="carousel slide" data-ride="carousel" data-interval="false">
     <div class="carousel-inner">
 
-      {% for unternehmen in site.data.unternehmen_2023 %}
-      <div class="carousel-item {% if forloop.first == true %}active{% endif %}">
+      {% assign katalog_unternehmen = site.data.unternehmen_2023 | where_exp: "unternehmen", "unternehmen.text and
+      unternehmen.text != ''" %}
+      {% for unternehmen in katalog_unternehmen %}
+      <div class="carousel-item {%- if forloop.first == true %} active {%- endif -%}"
+        id="{{ unternehmen.name | url_encode}}">
         <div class="container pt-2">
           <div class="row justify-content-center">
             <div class="col-12 col-xl-8 col-lg-8 col-md-11 col-sm-12">
-              <div class="row pt-3 pb-3 justify-content-center">
-                <img src={{unternehmen.logo}} alt="" style="width:60%;margin:auto">
-              </div>
+              <a class="mx-auto" href="{{ unternehmen.url }}" target="_blank">
+                <div class="row pt-3 pb-3 justify-content-center">
+                  <img src={{unternehmen.logo}} alt="" style="width:60%;margin:auto">
+                </div>
+              </a>
               <div class="container pt-2">
                 <p style="font-size: 1.2rem">
                   {{unternehmen.text}}
@@ -75,7 +73,7 @@
       <div class="container pt-5">
         <ol class="carousel-indicators">
           {% for unternehmen in site.data.unternehmen_2023 %}
-          <li data-target="#{{ include.name }}" data-slide-to="{{ forloop.index0 }}"
+          <li data-target="#katalog-carousel" data-slide-to="{{ forloop.index0 }}"
             class="{% if forloop.first == true %}active{% endif %}">
           </li>
           {% endfor %}
@@ -84,16 +82,14 @@
 
     </div>
 
-    <a class="carousel-control-prev" href="#{{ include.name }}" role="button" data-slide="prev">
+    <a class="carousel-control-prev" href="#katalog-carousel" role="button" data-slide="prev">
       <span class="carousel-control-prev-icon fas fa-angle-left" aria-hidden="true"></span>
       <span class="sr-only">Previous</span>
     </a>
-    <a class="carousel-control-next" href="#{{ include.name }}" role="button" data-slide="next">
+    <a class="carousel-control-next" href="#katalog-carousel" role="button" data-slide="next">
       <span class="carousel-control-next-icon fas fa-angle-right" aria-hidden="true"></span>
       <span class="sr-only">Next</span>
     </a>
   </div>
-
-  {% endcomment %}
 
 </section>
