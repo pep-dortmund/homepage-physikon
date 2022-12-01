@@ -128,5 +128,23 @@
         "qualifications": [
             "keine"
         ]
+    },
+    {
+        "name": "TNG Technology Consulting",
+        "title": "",
+        "caption": "",
+        "logo": "/img/logos/TNG.png",
+        "url": "https://www.tngtech.com/fuer-bewerber/jobs.html",
+        "ad": "img/catalogue_ads/tng.png",
+        "ad_format": "portrait",
+        "branche": "IT & Services",
+        "contact": "<a href='mailto:work@tngtech.com'>work@tngtech.com</a>",
+        "text": "Als partnerschaftlich organisierte IT-Beratung arbeiten wir kundenorientiert an vielfältigen Projekten in den Bereichen agile Softwareentwicklung, Künstliche Intelligenz und DevOps & Cloud. Darüber hinaus beschäftigen wir uns mit Big Data und IoT. Wir verwenden Programmiersprachen aus allen Bereichen, wie Java, C#, JavaScript, Python, etc. Zu unseren Kunden zählen Unternehmen aus unterschiedlichsten Branchen, u.a. Telekommunikation, Sicherheitstechnik, Versicherung, Fintech und Automotive.",
+        "employers": "800+",
+        "locations": "Unterföhring, München, Karlsruhe, Augsburg, Budapest, Melbourne, Tallinn",
+        "qualifications": [
+            "Hohe Lernbereitschaft und Faible für technische Themen", "Schnelle Auffassungsgabe und analytisches Denkvermögen","Freude am Lösen komplexer Kundenprobleme im Team","Sehr guter Abschluss eines Studiums oder einer Promotion in einem naturwissenschaftlichen oder technischen Fach (Informatik, Physik, Mathematik, Chemie, etc.) ", "Erste IT-Kenntnisse und Coding-Erfahrung"
+        ]
     }
+    
 ]
