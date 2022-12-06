@@ -109,8 +109,7 @@
         "text": "",
         "employers": "",
         "locations": "",
-        "qualifications": [
-        ]
+        "qualifications": []
     },
     {
         "name": "ROSEN Technology and Research Center",
@@ -130,6 +129,21 @@
         ]
     },
     {
+        "name": "Materna IPS",
+        "title": "",
+        "caption": "",
+        "logo": "/img/logos/maternaIPS.svg",
+        "url": "https://www.materna-ips.com/",
+        "ad": "",
+        "ad_format": "",
+        "branche": "",
+        "contact": "",
+        "text": "",
+        "employers": "",
+        "locations": "",
+        "qualifications": []
+    },
+    {
         "name": "TNG Technology Consulting",
         "title": "",
         "caption": "",
@@ -143,8 +157,11 @@
         "employers": "800+",
         "locations": "Unterföhring, München, Karlsruhe, Augsburg, Budapest, Melbourne, Tallinn",
         "qualifications": [
-            "Hohe Lernbereitschaft und Faible für technische Themen", "Schnelle Auffassungsgabe und analytisches Denkvermögen","Freude am Lösen komplexer Kundenprobleme im Team","Sehr guter Abschluss eines Studiums oder einer Promotion in einem naturwissenschaftlichen oder technischen Fach (Informatik, Physik, Mathematik, Chemie, etc.) ", "Erste IT-Kenntnisse und Coding-Erfahrung"
+            "Hohe Lernbereitschaft und Faible für technische Themen",
+            "Schnelle Auffassungsgabe und analytisches Denkvermögen",
+            "Freude am Lösen komplexer Kundenprobleme im Team",
+            "Sehr guter Abschluss eines Studiums oder einer Promotion in einem naturwissenschaftlichen oder technischen Fach (Informatik, Physik, Mathematik, Chemie, etc.) ",
+            "Erste IT-Kenntnisse und Coding-Erfahrung"
         ]
     }
-    
 ]
