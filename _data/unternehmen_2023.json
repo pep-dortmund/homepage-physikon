@@ -163,5 +163,24 @@
             "Sehr guter Abschluss eines Studiums oder einer Promotion in einem naturwissenschaftlichen oder technischen Fach (Informatik, Physik, Mathematik, Chemie, etc.) ",
             "Erste IT-Kenntnisse und Coding-Erfahrung"
         ]
+    }, 
+    {
+        "name": "Cohausz&Florack",
+        "ad": "img/catalogue_ads/C+F_ad.jpg",
+        "ad_format": "portrait",
+        "title": "You create - we protect",
+        "caption": "",
+        "url": "https://www.cohausz-florack.de",
+        "logo": "img/logos/COHAUSZ_FLORACK.jpg",
+        "branche": "Rechtsberatung, Dienstleistungen",
+        "contact": "Frau Andrea Funk<br> <a href='mailto:bewerbung@cohausz-florack.de'>bewerbung@cohausz-florack.de</a>",
+        "text": "COHAUSZ & FLORACK ist eine Sozietät, in der Patent- und Rechtsanwälte verschiedener Fachrichtungen interdisziplinär zusammenarbeiten. Alle Patent- und Rechtsanwälte bei COHAUSZ & FLORACK sind Spezialisten für gewerblichen Rechtsschutz, für Wettbewerbs- und Urheberrecht sowie für die daran angrenzenden Rechtsgebiete. Auch in sämtlichen technischen und naturwissenschaftlichen Fachrichtungen kennen wir uns aus und wissen daher um den hohen Wert Ihrer Ideen. Wir suchen Absolventinnen und Absolventen der Fachbereiche Elektro- und Informationstechnik, Maschinenbau, Physik und Chemie für die Ausbildung zum Patentanwalt oder zur Patentanwältin und zum/zur European Patent Attorney.",
+        "employers": "140",
+        "locations": "Düsseldorf (Ausbildungsstandort), München",
+        "qualifications": [
+            "breite Kenntnisse und Fähigkeiten im technischen/ naturwissenschaftlichen Bereich ­— auch über Ihr Studienfach hinaus",
+            "sehr gute Englischkenntnisse",
+            "Spaß am Formulieren von Texten, die technische/ naturwissenschaftliche Zusammenhänge beschreiben",
+        ]
     }
 ]
