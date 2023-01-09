@@ -43,3 +43,16 @@ $ bundle exec jekyll serve
 # PeP et al. PhysiKon website remake
 
 Über ```_data/unternehmen.json``` können weitere Messeteilnehmer zum Carousel hinzugefügt werden.
+
+# Working with git
+
+We use the github workflow in this repository, see <https://guides.github.com/introduction/flow/>.
+
+In short, to contribute:
+
+1. Synchronize latest updates `git fetch`
+1. Create a new branch using `git branch <name>`
+1. Switch to the new branch using `git switch -c <my new branch> origin/main`
+1. Make changes and commit
+1. Push the Branch using `git push -u origin <name>`
+1. Open a Pull Request on github.
