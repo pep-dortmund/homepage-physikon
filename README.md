@@ -44,7 +44,7 @@ $ bundle exec jekyll serve
 
 Über ```_data/unternehmen.json``` können weitere Messeteilnehmer zum Carousel hinzugefügt werden.
 
-## Working with git
+# Working with git
 
 We use the github workflow in this repository, see <https://guides.github.com/introduction/flow/>.
 
