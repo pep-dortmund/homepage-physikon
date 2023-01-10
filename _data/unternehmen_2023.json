@@ -216,5 +216,22 @@
         "qualifications": [
             "Sehr gute Deutsch- und Englischkenntnisse"
         ]
+    },
+{
+        "name": "VetVise",
+        "ad": "img/catalogue_ads/vetvise.png",
+        "ad_format": "portrait",
+        "title": "",
+        "caption": "",
+        "url": "https://vetvise.com/jobs-vetvise/",
+        "logo": "img/logos/logo_vetvise.png",
+        "branche": "Agritech",
+        "contact": "Jakob Wendt <br> <a href='mailto:jobs@vetvise.com'>jobs@vetvise.com</a>",
+        "text": "VetVise kümmert sich um das Wohlbefinden jedes Tieres durch kontinuierliches Monitoring und Machine Learning. Wir helfen durch unsere Technologie und unser Tierwissen den Landwirten zu herausragenden Ergebnissen. Höchster Ertrag ist mit und durch maximales Tierwohl möglich! Denn nur wenn das Tier wieder im Mittelpunkt steht, profitieren alle. Wir tragen zu sicheren Lebensmitteln und einem geringeren ökologischen Fußabdruck bei und helfen, dass die Tierhaltung zukunftsfähig bleibt. <br> Die Datenanalyse bei VetVise legt ihren Fokus primär auf das Verständnis des Verhaltens der beobachteten Tiere. Hierfür verwendet das VetVise-Team sowohl statistische Methoden der Datenanalyse als auch Algorithmen des maschinellen Lernens und der Computer Vision. Viele verschiedene, oft sehr forschungsnahe Herausforderungen bieten ein großes Potential, die Zukunft der Tierhaltung mitzugestalten.",
+        "employers": "20-30 Mitarbeiter",
+        "locations": "Hannover",
+        "qualifications": [
+            "keine"
+        ]
     }
 ]
