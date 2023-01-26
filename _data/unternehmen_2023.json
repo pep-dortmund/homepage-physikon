@@ -79,6 +79,31 @@
         ]
     },
     {
+        "name": "Infineon",
+        "ad": "img/catalogue_ads/infineon_anzeigebild.png",
+        "ad_format": "landscape",
+        "title": "",
+        "caption": "",
+        "url": "https://www.infineon.com/cms/de/",
+        "logo": "img/logos/Infineon.png",
+        "branche": "Halbleitertechnik",
+        "contact": "Katharina Wibberg (Student Talent Attraction Manager) <br> <a href='mailto:Katharina.Wibberg@infineon.com'>Katharina.Wibberg@infineon.com</a> <br> Louise Christina Radüge (Talent Attraction Manager) <br> <a href='mailto:LouiseChristina.Raduege@infineon.com'>LouiseChristina.Raduege@infineon.com</a> <br> Karriereportal für Bewerbungen: <a href='https://www.infineon.com/cms/de/careers/jobsearch/jobsearch/'>www.infineon.com/cms/de/careers/jobsearch/jobsearch/</a>",
+        "text": "Infineon entwirft, entwickelt, fertigt und vertreibt eine Vielzahl an Halbleiter- und Systemlösungen. Dabei liegt der Fokus auf der Automobil- und Industrieelektronik sowie auf mobilen Geräten und chipkartenbasierter Sicherheit. Infineon verbindet unternehmerischen Erfolg mit verantwortungsvollem Handeln und bietet Antworten auf einige der wichtigsten Herausforderungen moderner Gesellschaften: Energieeffizienz, umweltfreundliche Mobilität und Sicherheit in einer vernetzten Welt. Weiterführende Informationen zu unserem R&D- sowie Fertigungsstandort Warstein finden Sie unter: <a href='https://www.infineon.com/warstein'>www.infineon.com/warstein</a>. Wir sind laufend auf der Suche nach engagierten & motivierten Absolventinnen und Absolventen, die sich für einen Einstieg in die Hightechbranche interessieren und Interesse an der Entwicklung neuer ressourcenschonender Produkte mitbringen. Weitere Informationen unter: <a href='https://www.infineon.com/karriere-warstein'>www.infineon.com/karriere-warstein</a>.",
+        "employers": "50.280",
+        "locations": "Hauptsitz: München <br> Inland: u.a. Augsburg, Dresden, Regensburg, Warstein,  Duisburg, Hannover <br> Weltweit: u.a. Villach, Graz, Wien, Bristol, Bukarest, Cegled, Padua, Singapur, Kulim, Malacca, Peking, Shanghai, Wuxi, Milpitas (CA), El Segundo (CA), Nagoya, Osaka, Tokyo",
+        "qualifications": [
+            "Physik",
+            "Elektrotechnik",
+            "Chemie",
+            "Informatik",
+            "Automatisierungstechnik",
+            "Mathematik",
+            "Naturwissenschaften",
+            "Wirtschaftswissenschaften",
+            "Wirtschaftsinformatik"
+        ]
+    },
+    {
         "name": "Point8",
         "ad": "img/catalogue_ads/p8_bild.png",
         "ad_format": "portrait",
