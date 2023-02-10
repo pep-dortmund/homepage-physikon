@@ -51,7 +51,6 @@ We use the github workflow in this repository, see <https://guides.github.com/in
 In short, to contribute:
 
 1. Synchronize latest updates `git fetch`
-1. Create a new branch using `git branch <name>`
 1. Switch to the new branch using `git switch -c <my new branch> origin/main`
 1. Make changes and commit
 1. Push the Branch using `git push -u origin <name>`
