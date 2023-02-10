@@ -155,18 +155,18 @@
     },
     {
         "name": "Materna IPS",
-        "title": "",
-        "caption": "",
+        "title": "WE LOVE TRAVEL!",
+        "caption": "WE LOVE TRAVEL!",
         "logo": "/img/logos/maternaIPS.svg",
         "url": "https://www.materna-ips.com/",
-        "ad": "",
-        "ad_format": "",
-        "branche": "",
-        "contact": "",
-        "text": "",
-        "employers": "",
-        "locations": "",
-        "qualifications": []
+        "ad": "https://www.materna-ips.com/wp-content/uploads/2021/07/IPS-Career-jobs-scaled-e1626937847389.jpeg",
+	"ad_format": "portrait",
+        "branche": "Flugbranche",
+        "contact": "<a href='mailto:recruiting@materna-ips.com'>recruiting@materna-ips.com</a> ",
+        "text": "WE LOVE TRAVEL! Das ist unsere Vision und die unserer Kunden. Tokio, Denver, Bangalore – Egal, aus welchem Teil der Welt du zu deiner nächsten Reise aufbrechen möchtest, du wirst immer direkt oder indirekt mit den Produkten und Lösungen der Materna IPS in Berührung kommen. Mit über 150.000 täglichen Gepäckaufgaben und 300.000 täglichen Check-ins an unseren Self-Bag-Drop und Self-Check-In Automaten ebnen wir den Weg für eine effizientere und angenehmere Reise für Passagiere auf der ganzen Welt.",
+        "employers": "weniger als 200",
+        "locations": "Dortmund",
+        "qualifications": ["keine"]
     },
     {
         "name": "TNG Technology Consulting",
