@@ -31,33 +31,57 @@
     </thead>
     <tr>
       <td>13-14 Uhr</td>
-      <td> <a href="https://www.nrwbank.de/de/die-nrw-bank/karriere/">NRW.BANK</a></td>
-      <td> <a href="katalog.html#VetVise">Vetvise</a></td>
-      <td> <a href="katalog.html#d-fine">d-fine</a></td>
+      <td> <a href="https://www.nrwbank.de/de/die-nrw-bank/karriere/" targe="_blank">NRW.BANK</a></td>
+      {% capture _unternehmen %}VetVise+d-fine{% endcapture %}
+      {% assign __unternehmen = _unternehmen | split: '+' %}
+      {% for unternehmen_name in __unternehmen %}
+      {% assign unternehmen = site.data.unternehmen_2023 | where: "name", unternehmen_name | first %}
+      <td> <a href="{% if unternehmen.text and unternehmen.text != '' %}{% link katalog.html %}#{{ unternehmen.name | url_encode }}{% else %}{{ unternehmen.url }}{% endif %}"
+	      {% unless unternehmen.text and unternehmen.text !='' %}target="_blank" {% endunless %}>{{ unternehmen.name }}</a></td>
+      {% endfor %}
     </tr>
     <tr>
       <td>14-15 Uhr</td>
-      <td> <a href="katalog.html#Schulministerium">Schulministerium NRW </a></td>
-      <td> <a href="katalog.html#Amprion">Amprion </a></td>
-      <td> <a href="katalog.html#Infineon">Infineon </a></td>
+      {% capture _unternehmen %}Schulministerium+Amprion+Infineon{% endcapture %}
+      {% assign __unternehmen = _unternehmen | split: '+' %}
+      {% for unternehmen_name in __unternehmen %}
+      {% assign unternehmen = site.data.unternehmen_2023 | where: "name", unternehmen_name | first %}
+      <td> <a href="{% if unternehmen.text and unternehmen.text != '' %}{% link katalog.html %}#{{ unternehmen.name | url_encode }}{% else %}{{ unternehmen.url }}{% endif %}"
+	      {% unless unternehmen.text and unternehmen.text !='' %}target="_blank" {% endunless %}>{{ unternehmen.name }}</a></td>
+      {% endfor %}
     </tr>
     <tr>
       <td>15-16 Uhr</td>
-      <td> <a href="katalog.html#ROSEN+Technology+and+Research+Center">ROSEN</a></td>
-      <td> <a href="katalog.html#Deichmann">Deichmann</a></td>
-      <td> <a href="katalog.html#Point8">Point 8</a></td>
+      {% capture _unternehmen %}ROSEN+Deichmann+Point8{% endcapture %}
+      {% assign __unternehmen = _unternehmen | split: '+' %}
+      {% for unternehmen_name in __unternehmen %}
+      {% assign unternehmen = site.data.unternehmen_2023 | where: "name", unternehmen_name | first %}
+      <td> <a href="{% if unternehmen.text and unternehmen.text != '' %}{% link katalog.html %}#{{ unternehmen.name | url_encode }}{% else %}{{ unternehmen.url }}{% endif %}"
+	      {% unless unternehmen.text and unternehmen.text !='' %}target="_blank" {% endunless %}>{{ unternehmen.name }}</a></td>
+      {% endfor %}
     </tr>
     <tr>
       <td>16-17 Uhr</td>
-      <td> <a href="">Zeiss</a></td>
-      <td> <a href="katalog.html#Cohausz%26Florack">Cohausz&Florack</a></td>
-      <td> <a href=""> </a></td>
+      {% capture _unternehmen %}Zeiss+Cohausz&Florack{% endcapture %}
+      {% assign __unternehmen = _unternehmen | split: '+' %}
+      {% for unternehmen_name in __unternehmen %}
+      {% assign unternehmen = site.data.unternehmen_2023 | where: "name", unternehmen_name | first %}
+      <td> <a href="{% if unternehmen.text and unternehmen.text != '' %}{% link katalog.html %}#{{ unternehmen.name | url_encode }}{% else %}{{ unternehmen.url }}{% endif %}"
+	      {% unless unternehmen.text and unternehmen.text !='' %}target="_blank" {% endunless %}>{{ unternehmen.name }}</a></td>
+      {% endfor %}
+      <td><a href=""></a></td>
     </tr>
     <tr>
       <td>17-18 Uhr</td>
       <td><a href=""></a></td>
       <td><a href=""></a></td>
-      <td><a href="katalog.html#fzjuelich">Forschungszentrum Jülich</a></td>
+      {% capture _unternehmen %}Forschungszentrum Jülich{% endcapture %}
+      {% assign __unternehmen = _unternehmen | split: '+' %}
+      {% for unternehmen_name in __unternehmen %}
+      {% assign unternehmen = site.data.unternehmen_2023 | where: "name", unternehmen_name | first %}
+      <td> <a href="{% if unternehmen.text and unternehmen.text != '' %}{% link katalog.html %}#{{ unternehmen.name | url_encode }}{% else %}{{ unternehmen.url }}{% endif %}"
+	      {% unless unternehmen.text and unternehmen.text !='' %}target="_blank" {% endunless %}>{{ unternehmen.name }}</a></td>
+      {% endfor %}
     </tr>
   </table>
   
