@@ -62,7 +62,7 @@
     </tr>
     <tr>
       <td>16-17 Uhr</td>
-      {% capture _unternehmen %}Zeiss+Cohausz&Florack{% endcapture %}
+      {% capture _unternehmen %}Zeiss+Cohausz&Florack+CGI{% endcapture %}
       {% assign __unternehmen = _unternehmen | split: '+' %}
       {% for unternehmen_name in __unternehmen %}
       {% assign unternehmen = site.data.unternehmen_2023 | where: "name", unternehmen_name | first %}
