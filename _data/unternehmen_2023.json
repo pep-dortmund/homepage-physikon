@@ -296,5 +296,32 @@
         "qualifications": [
             "keine"
         ]
+    },
+    {
+        "name": "Zeiss",
+        "ad": "img/catalogue_ads/2023_ZEISS_HR_Anzeige_PhysiKon.png",
+        "ad_format": "portrait",
+        "title": "",
+        "caption": "",
+        "url": "https://www.zeiss.de/corporate/karriere.html?vaURL=www.zeiss.de/karriere",
+        "logo": "img/logos/zeiss-logo-tagline_digital_rgb.png",
+        "branche": "Optische und optoelektronische Industrie",
+        "contact": "",
+        "text": "Als weltweit führendes Technologieunternehmen mit über 38.000 Mitarbeitenden und einem Umsatz von über 8,8 Milliarden Euro entwickelt, fertigt und vertreibt ZEISS in einer Vielzahl von Geschäftsfeldern hochinnovative Produkte und Lösungen im Bereich der Optik. Wir suchen Leute mit Empathie und Leidenschaft, die für ihre Ambitionen und für herausfordernde Themen brennen. Die Spitzenleistungen bringen und die Grenzen des Machbaren verschieben wollen. Die sich kontinuierlich weiterentwickeln möchten, anstreben, Verantwortung zu übernehmen und die Gesellschaft weiterzubringen. Im globalen Team von ZEISS. Wenn Du motiviert bist und für Dein Fach brennst, bist Du bei ZEISS genau richtig!",
+        "employers": "über 38.000 weltweit",
+        "locations": "Oberkochen, Jena, Aalen, München, Berlin, Dresden, Karlsruhe, Roßdorf, Göttingen, Wetzlar und Weitere",
+        "qualifications": [
+            "Chemie", 
+            "Elektrotechnik", 
+            "Informatik", 
+            "Luft- und Raumfahrt", 
+            "Maschinenbau", 
+            "Materialwissenschaften", 
+            "Mathematik", 
+            "Mechatronik", 
+            "Medizintechnik", 
+            "Physik", 
+            "Verfahrenstechnik", 
+            "Wirtschaftsinformatik"]
     }
 ]
