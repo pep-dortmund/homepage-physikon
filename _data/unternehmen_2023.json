@@ -137,7 +137,7 @@
         "qualifications": []
     },
     {
-        "name": "ROSEN Technology and Research Center",
+        "name": "ROSEN",
         "title": "",
         "caption": "",
         "logo": "/img/logos/ROSEN_logo.jpg",
@@ -255,6 +255,23 @@
         "text": "VetVise kümmert sich um das Wohlbefinden jedes Tieres durch kontinuierliches Monitoring und Machine Learning. Wir helfen durch unsere Technologie und unser Tierwissen den Landwirten zu herausragenden Ergebnissen. Höchster Ertrag ist mit und durch maximales Tierwohl möglich! Denn nur wenn das Tier wieder im Mittelpunkt steht, profitieren alle. Wir tragen zu sicheren Lebensmitteln und einem geringeren ökologischen Fußabdruck bei und helfen, dass die Tierhaltung zukunftsfähig bleibt. <br> Die Datenanalyse bei VetVise legt ihren Fokus primär auf das Verständnis des Verhaltens der beobachteten Tiere. Hierfür verwendet das VetVise-Team sowohl statistische Methoden der Datenanalyse als auch Algorithmen des maschinellen Lernens und der Computer Vision. Viele verschiedene, oft sehr forschungsnahe Herausforderungen bieten ein großes Potential, die Zukunft der Tierhaltung mitzugestalten.",
         "employers": "20-30 Mitarbeiter",
         "locations": "Hannover",
+        "qualifications": [
+            "keine"
+        ]
+    }, 
+    {
+        "name": "CGI",
+        "ad": "img/catalogue_ads/CGI.png",
+        "ad_format": "landscape",
+        "title": "Insights you can act on",
+        "caption": "",
+        "url": "https://www.cgi.com/de/de/karriere/space/jobs-in-der-raumfahrt",
+        "logo": "img/logos/CGI_logo_color_rgb.png",
+        "branche": "IT",
+        "contact": "Pia König<br> <a href='mailto:pia.koenig@cgi.com'>pia.koenig@cgi.com</a> <br> <a href='https://de.cgi.com'>de.cgi.com</a> <br> +49 171 8676061",
+        "text": "Sind wir das bestgehütete IT-Geheimnis? Das mag sein. Denn wir setzen unsere ganze Energie in die Zufriedenheit unserer Kunden und den Ausbau unseres IT- und Technologie-Know-hows. Seit unserer Gründung im Jahr 1976 bleiben wir unseren Grundsätzen treu: Wir wollen ein Unternehmen gestalten, auf das wir stolz sein können - und in dem das gemeinsame Arbeiten Spaß macht! Heute ist CGI einer der weltweit größten unabhängigen Anbieter von IT- und Geschäftsprozess-Dienstleistungen. Allein in Deutschland sind wir an 25 Standorten mit rund 4.500 Mitarbeiter:innen vertreten.",
+        "employers": "90.000 Mitarbeiter weltweit, 5000 in Deutschland",
+        "locations": "Bochum",
         "qualifications": [
             "keine"
         ]
