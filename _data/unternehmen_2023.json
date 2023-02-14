@@ -217,6 +217,27 @@
             "Sehr gute Deutsch- und Englischkenntnisse"
         ]
     },
+    {
+        "name": "NRW.BANK",
+        "ad": "img/catalogue_ads/NRWBANK.jpg",
+        "ad_format": "portrait",
+        "title": "",
+        "caption": "",
+        "url": "https://www.nrwbank.de/de/die-nrw-bank/karriere/",
+        "logo": "img/logos/NRWbank.png",
+        "branche": "Banken",
+        "contact": "Angela Schepers<br> <a href='mailto:angela.schepers@nrwbank.de'>Angela.schepers@nrwbank.de</a>",
+        "text": "Die NRW.BANK ist die Förderbank für Nordrhein-Westfalen mit Sitz in Düsseldorf und Münster. Sie unterstützt ihren Eigentümer, das Land Nordrhein-Westfalen, bei dessen struktur- und wirtschaftspolitischen Aufgaben. Zudem ist sie verlässlicher Partner für alle Banken und Sparkassen, Unternehmen aller Branchen sowie für Städte und Gemeinden in Nordrhein-Westfalen. Das Einsatzgebiet von MINT-Fachkräften zielt auf IT-Projektmanagement im IT-Kapitalmarkt ab.",
+        "employers": "1500",
+        "locations": "Düsseldorf, Münster",
+        "qualifications": [
+            "Gute Englischkenntnisse",
+            "Erfahrung im Bereich Software-Entwicklung (z.B. objektorientierte Programmiersprachen wie Python, Java, C++)",
+            "Erste Erfahrung im Umgang mit Datenbanken (SQL)",
+            "Erfahrung mit Betriebssystemen wie Windows und UNIX",
+            "Erfahrung in der Leitung von Projekten"
+        ]
+    },
 {
         "name": "VetVise",
         "ad": "img/catalogue_ads/vetvise.png",
