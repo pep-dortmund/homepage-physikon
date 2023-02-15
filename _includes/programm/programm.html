@@ -69,13 +69,10 @@
       <td> <a href="{% if unternehmen.text and unternehmen.text != '' %}{% link katalog.html %}#{{ unternehmen.name | url_encode }}{% else %}{{ unternehmen.url }}{% endif %}"
 	      {% unless unternehmen.text and unternehmen.text !='' %}target="_blank" {% endunless %}>{{ unternehmen.name }}</a></td>
       {% endfor %}
-      <td><a href=""></a></td>
     </tr>
     <tr>
       <td>17-18 Uhr</td>
-      <td><a href=""></a></td>
-      <td><a href=""></a></td>
-      {% capture _unternehmen %}Forschungszentrum Jülich{% endcapture %}
+      {% capture _unternehmen %}Materna IPS+RAITH Nanofabrictions+Forschungszentrum Jülich{% endcapture %}
       {% assign __unternehmen = _unternehmen | split: '+' %}
       {% for unternehmen_name in __unternehmen %}
       {% assign unternehmen = site.data.unternehmen_2023 | where: "name", unternehmen_name | first %}
