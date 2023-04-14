@@ -42,7 +42,7 @@
     </tr>
     <tr>
       <td>14 – 15 Uhr</td>
-      {% capture _unternehmen %}Schulministerium+Amprion+Infineon{% endcapture %}
+      {% capture _unternehmen %}Materna IPS+Amprion+Infineon{% endcapture %}
       {% assign __unternehmen = _unternehmen | split: '+' %}
       {% for unternehmen_name in __unternehmen %}
       {% assign unternehmen = site.data.unternehmen_2023 | where: "name", unternehmen_name | first %}
@@ -72,7 +72,7 @@
     </tr>
     <tr>
       <td>17 – 18 Uhr</td>
-      {% capture _unternehmen %}Materna IPS+RAITH Nanofabrictions+Forschungszentrum Jülich{% endcapture %}
+      {% capture _unternehmen %} +RAITH Nanofabrictions+Forschungszentrum Jülich{% endcapture %}
       {% assign __unternehmen = _unternehmen | split: '+' %}
       {% for unternehmen_name in __unternehmen %}
       {% assign unternehmen = site.data.unternehmen_2023 | where: "name", unternehmen_name | first %}
@@ -81,7 +81,9 @@
       {% endfor %}
     </tr>
   </table>
+  Der Vortrag des Schulministerium am 17.04.23 musste leider abgesagt werden. Falls Ihr Interesse z.B. an einem Quereinstieg in dem Lehrerberuf habt, 
+  könnt ihr Vertreter:innen des Schulmisteriums auf der Messe am 20.04.23 ansprechen.
   
+</p>  
 
-  </p>
 </div>
