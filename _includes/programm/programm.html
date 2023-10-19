@@ -13,11 +13,12 @@
 
 
   <p style="font-size: 1.2rem">
-    Zusätzlich zu der Jobmesse am 20.04.2023 auf dem Campus der TU Dortmund bieten wir im Zeitraum 17. - 19.04.2023 
+    Zusätzlich zu der Jobmesse am 20.04.2023 auf dem Campus der TU Dortmund bieten wir im Zeitraum 17. - 19.04.2023
     ein breites Online-Angebot via Zoom an.
     Hier haben Unternehmen eine Stunde Zeit sich euch im Rahmen eines Vortrags via Zoom vorzustellen.
     Ihr habt hier die Gelegenheit, die Aussteller schon mal kennen zu lernen und sie mit Fragen zu löchern.
-    <a href="https://tu-dortmund.zoom.us/meeting/register/tJEvcO-hqTwoE9XUJGa-DMRQ6jSmnImSYf3J"><b>Hier könnt ihr euch für das Zoom Meeting registrieren.</b></a>
+    <a href="https://tu-dortmund.zoom.us/meeting/register/tJEvcO-hqTwoE9XUJGa-DMRQ6jSmnImSYf3J"><b>Hier könnt ihr euch
+        für das Zoom Meeting registrieren.</b></a>
 
   <table class="styled-table">
 
@@ -36,8 +37,10 @@
       {% assign __unternehmen = _unternehmen | split: '+' %}
       {% for unternehmen_name in __unternehmen %}
       {% assign unternehmen = site.data.unternehmen_2023 | where: "name", unternehmen_name | first %}
-      <td> <a href="{% if unternehmen.text and unternehmen.text != '' %}{% link katalog.html %}#{{ unternehmen.name | url_encode }}{% else %}{{ unternehmen.url }}{% endif %}"
-	      {% unless unternehmen.text and unternehmen.text !='' %}target="_blank" {% endunless %}>{{ unternehmen.name }}</a></td>
+      <td> <a
+          href="{% if unternehmen.text and unternehmen.text != '' %}{% link katalog.html %}#{{ unternehmen.name | url_encode }}{% else %}{{ unternehmen.url }}{% endif %}"
+          {% unless unternehmen.text and unternehmen.text !='' %}target="_blank" {% endunless %}>{{ unternehmen.name
+          }}</a></td>
       {% endfor %}
     </tr>
     <tr>
@@ -46,8 +49,10 @@
       {% assign __unternehmen = _unternehmen | split: '+' %}
       {% for unternehmen_name in __unternehmen %}
       {% assign unternehmen = site.data.unternehmen_2023 | where: "name", unternehmen_name | first %}
-      <td> <a href="{% if unternehmen.text and unternehmen.text != '' %}{% link katalog.html %}#{{ unternehmen.name | url_encode }}{% else %}{{ unternehmen.url }}{% endif %}"
-	      {% unless unternehmen.text and unternehmen.text !='' %}target="_blank" {% endunless %}>{{ unternehmen.name }}</a></td>
+      <td> <a
+          href="{% if unternehmen.text and unternehmen.text != '' %}{% link katalog.html %}#{{ unternehmen.name | url_encode }}{% else %}{{ unternehmen.url }}{% endif %}"
+          {% unless unternehmen.text and unternehmen.text !='' %}target="_blank" {% endunless %}>{{ unternehmen.name
+          }}</a></td>
       {% endfor %}
     </tr>
     <tr>
@@ -56,8 +61,10 @@
       {% assign __unternehmen = _unternehmen | split: '+' %}
       {% for unternehmen_name in __unternehmen %}
       {% assign unternehmen = site.data.unternehmen_2023 | where: "name", unternehmen_name | first %}
-      <td> <a href="{% if unternehmen.text and unternehmen.text != '' %}{% link katalog.html %}#{{ unternehmen.name | url_encode }}{% else %}{{ unternehmen.url }}{% endif %}"
-	      {% unless unternehmen.text and unternehmen.text !='' %}target="_blank" {% endunless %}>{{ unternehmen.name }}</a></td>
+      <td> <a
+          href="{% if unternehmen.text and unternehmen.text != '' %}{% link katalog.html %}#{{ unternehmen.name | url_encode }}{% else %}{{ unternehmen.url }}{% endif %}"
+          {% unless unternehmen.text and unternehmen.text !='' %}target="_blank" {% endunless %}>{{ unternehmen.name
+          }}</a></td>
       {% endfor %}
     </tr>
     <tr>
@@ -66,8 +73,10 @@
       {% assign __unternehmen = _unternehmen | split: '+' %}
       {% for unternehmen_name in __unternehmen %}
       {% assign unternehmen = site.data.unternehmen_2023 | where: "name", unternehmen_name | first %}
-      <td> <a href="{% if unternehmen.text and unternehmen.text != '' %}{% link katalog.html %}#{{ unternehmen.name | url_encode }}{% else %}{{ unternehmen.url }}{% endif %}"
-	      {% unless unternehmen.text and unternehmen.text !='' %}target="_blank" {% endunless %}>{{ unternehmen.name }}</a></td>
+      <td> <a
+          href="{% if unternehmen.text and unternehmen.text != '' %}{% link katalog.html %}#{{ unternehmen.name | url_encode }}{% else %}{{ unternehmen.url }}{% endif %}"
+          {% unless unternehmen.text and unternehmen.text !='' %}target="_blank" {% endunless %}>{{ unternehmen.name
+          }}</a></td>
       {% endfor %}
     </tr>
     <tr>
@@ -76,13 +85,15 @@
       {% assign __unternehmen = _unternehmen | split: '+' %}
       {% for unternehmen_name in __unternehmen %}
       {% assign unternehmen = site.data.unternehmen_2023 | where: "name", unternehmen_name | first %}
-      <td> <a href="{% if unternehmen.text and unternehmen.text != '' %}{% link katalog.html %}#{{ unternehmen.name | url_encode }}{% else %}{{ unternehmen.url }}{% endif %}"
-	      {% unless unternehmen.text and unternehmen.text !='' %}target="_blank" {% endunless %}>{{ unternehmen.name }}</a></td>
+      <td> <a
+          href="{% if unternehmen.text and unternehmen.text != '' %}{% link katalog.html %}#{{ unternehmen.name | url_encode }}{% else %}{{ unternehmen.url }}{% endif %}"
+          {% unless unternehmen.text and unternehmen.text !='' %}target="_blank" {% endunless %}>{{ unternehmen.name
+          }}</a></td>
       {% endfor %}
     </tr>
   </table>
-  Das Ministerium für Schule und Bildung NRW hat seine Teilnahme an der PhysiKon (Onlinevortrag 17.04.23 sowie Messestand am 20.04.23) abgesagt. 
-  
-</p>  
+  Das Ministerium für Schule und Bildung NRW hat seine Teilnahme an der PhysiKon (Onlinevortrag 17.04.23 sowie
+  Messestand am 20.04.23) abgesagt.
+
 
 </div>
