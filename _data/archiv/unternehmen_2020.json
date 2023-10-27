@@ -21,18 +21,18 @@
     "url": "https://www.verfassungsschutz.de/de/karriere"
   },
   {
-   "name": "Cohausz & Florack",
-   "title": "You create – we protect",
-   "caption": "Ideen stecken in jedem klugen Kopf. Und sind bei uns in guten Händen. Wir helfen Ihnen dabei, Ihre Ideen zu schützen.",
-   "logo": "/img/logos/C&F.jpg",
-   "url": "https://www.cohausz-florack.de"
+    "name": "Cohausz & Florack",
+    "title": "You create – we protect",
+    "caption": "Ideen stecken in jedem klugen Kopf. Und sind bei uns in guten Händen. Wir helfen Ihnen dabei, Ihre Ideen zu schützen.",
+    "logo": "/img/logos/C&F.jpg",
+    "url": "https://www.cohausz-florack.de"
   },
   {
-   "name": "Cryoelectra",
-   "title": "",
-   "caption": "",
-   "logo": "/img/logos/cryoelectra.jpeg",
-   "url": "https://www.cryoelectra.com"
+    "name": "Cryoelectra",
+    "title": "",
+    "caption": "",
+    "logo": "/img/logos/cryoelectra.jpeg",
+    "url": "https://www.cryoelectra.com"
   },
   {
     "name": "d-fine",
@@ -110,5 +110,5 @@
     "caption": "",
     "logo": "/img/logos/Safetec.jpg",
     "url": "https://www.safetec-strahlenschutz.de/"
-  },
+  }
 ]
