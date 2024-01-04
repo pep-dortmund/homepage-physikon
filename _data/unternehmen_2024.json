@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Deichmann",
+        "ad": "/img/catalogue_ads/Deichmann_ad.jpg",
+        "ad_format": "landscape",
+        "title": "",
+        "caption": "",
+        "url": "https://www.deichmann-karriere.de/jobsuche/?",
+        "logo": "/img/logos/Deichmann.png",
+        "branche": "Einzelhandel",
+        "contact": "Vanessa Dierig <br> <a href='mailto:vanessa_dierig@deichmann.com'>vanessa_dierig@deichmann.com</a>",
+        "text": "Mit über 42.000 MitarbeiterInnen in 31 Ländern ist die DEICHMANN SE die Nr. 1 im europäischen Schuhhandel. Das Familienunternehmen prägt mit über 4.300 Filialen weltweit als Marktführer den Schuheinzelhandel.<br> <br> IT- und Digitalisierungsstrategien stellen sicher, dass Deichmann auch zukünftig erfolgreich bleibt, weswegen wir exzellent ausgebildete Talente suchen, die neben technischer Expertise auch Begeisterung für große Projekte in einem dynamischen Umfeld mitbringen. Flache Hierarchien, viel Gestaltungsspielraum bieten dabei beste Voraussetzungen, um eine Menge zu bewegen. <br> <br> Hier kannst du wegweisende Projekte und deine Fähigkeiten perfekt weiterentwickeln. Erfahre mehr auf unserer Karriereseite <a href='https://www.deichmann-karriere.de'>Deichmann Jobs & Karrieremöglichkeiten - Deichmann Karriere</a>. Wir freuen uns auf dich!",
+        "employers": "41.000 in 31 Ländern weltweit",
+        "locations": "Essen",
+        "qualifications": [
+            "Programmierkenntnisse (z.B. in python, Scala, o.ä.)",
+            "Statistik & Machine Learning",
+            "Erfahrung in der Verarbeitung großer Datenmengen",
+            "SQL und Datenbanken",
+            "Erfahrung mit Softwareentwicklung"
+        ]
+    }
+]
