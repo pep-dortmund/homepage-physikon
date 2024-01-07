@@ -9,8 +9,8 @@
         "logo": "/img/logos/Deichmann.png",
         "branche": "Einzelhandel",
         "contact": "Vanessa Dierig <br> <a href='mailto:vanessa_dierig@deichmann.com'>vanessa_dierig@deichmann.com</a>",
-        "text": "Mit über 42.000 MitarbeiterInnen in 31 Ländern ist die DEICHMANN SE die Nr. 1 im europäischen Schuhhandel. Das Familienunternehmen prägt mit über 4.300 Filialen weltweit als Marktführer den Schuheinzelhandel.<br> <br> IT- und Digitalisierungsstrategien stellen sicher, dass Deichmann auch zukünftig erfolgreich bleibt, weswegen wir exzellent ausgebildete Talente suchen, die neben technischer Expertise auch Begeisterung für große Projekte in einem dynamischen Umfeld mitbringen. Flache Hierarchien, viel Gestaltungsspielraum bieten dabei beste Voraussetzungen, um eine Menge zu bewegen. <br> <br> Hier kannst du wegweisende Projekte und deine Fähigkeiten perfekt weiterentwickeln. Erfahre mehr auf unserer Karriereseite <a href='https://www.deichmann-karriere.de'>Deichmann Jobs & Karrieremöglichkeiten - Deichmann Karriere</a>. Wir freuen uns auf dich!",
-        "employers": "41.000 in 31 Ländern weltweit",
+        "text": "Mit über 48.000 MitarbeiterInnen in 31 Ländern ist die DEICHMANN SE die Nr. 1 im europäischen Schuhhandel. Das Familienunternehmen prägt mit über 4.600 Filialen weltweit als Marktführer den Schuheinzelhandel.<br> <br> IT- und Digitalisierungsstrategien stellen sicher, dass Deichmann auch zukünftig erfolgreich bleibt, weswegen wir exzellent ausgebildete Talente suchen, die neben technischer Expertise auch Begeisterung für große Projekte in einem dynamischen Umfeld mitbringen. Flache Hierarchien, viel Gestaltungsspielraum bieten dabei beste Voraussetzungen, um eine Menge zu bewegen. <br> <br> Hier kannst du wegweisende Projekte und deine Fähigkeiten perfekt weiterentwickeln. Erfahre mehr auf unserer Karriereseite <a href='https://www.deichmann-karriere.de'>Deichmann Jobs & Karrieremöglichkeiten - Deichmann Karriere</a>. Wir freuen uns auf dich!",
+        "employers": "46.000 in 31 Ländern weltweit",
         "locations": "Essen",
         "qualifications": [
             "Programmierkenntnisse (z.B. in python, Scala, o.ä.)",
@@ -18,6 +18,23 @@
             "Erfahrung in der Verarbeitung großer Datenmengen",
             "SQL und Datenbanken",
             "Erfahrung mit Softwareentwicklung"
+        ]
+    },
+    {
+        "name": "Schulministerium",
+        "ad": "/img/catalogue_ads/schulministerium.jpg",
+        "ad_format": "portrait",
+        "title": "",
+        "caption": "Deine Berufung ist es doch, Lehrkraft zu sein? Du hast aber kein Lehramtsstudium absolviert? Wir verraten dir, wie du als Seiteneinsteiger deinen Traumberuf trotzdem erreichst.",
+        "url": "https://www.lehrer-werden.nrw/was-bringst-du-mit/seiteneinsteiger",
+        "logo": "/img/logos/Ministerium_NRW.jpg",
+        "branche": "Bildung",
+        "contact": "Auskünfte zum Seiteneinstieg erhalten Sie bei der Landesweiten Beratungsstelle für Lehrämter an Schulen. Ebenso stehen Ihnen die Mitarbeiterinnen und Mitarbeiter der Einstellungsbüros der Bezirksregierung für eine individuelle Beratung gerne zur Verfügung. Die Kontaktdaten finden Sie <a href='https://www.schulministerium.nrw.de/BP/LEOTexte/Seiteneinstieg/Service_und_Beratung.pdf'>hier</a> ",
+        "text": "Gegenwärtig gibt es in Nordrhein-Westfalen - insbesondere in den MINT-Fächern - einen sehr hohen Bedarf an Lehrkräften. Dies wird in absehbarer Zeit auch weiterhin so bleiben. <br> Detaillierte Informationen zum Ablauf der unterschiedlichen Bewerbungsverfahren für den Schuldienst des Landes Nordrhein-Westfalen sind auf den nachfolgenden Webseiten veröffentlicht: <br> <br> LEO - Lehrereinstellung in Dauerbeschäftigung (<a href='http://www.leo.nrw.de'>www.leo.nrw.de</a>) <br> Für ausgebildete Lehrkräfte mit Staatsprüfung für eine zeitlich unbefristete Tätigkeit an Schulen<br><br> LOIS - Lehrereinstellung im Seiteneinstieg (<a href='http://www.lois.nrw.de'>www.lois.nrw.de</a>)<br> Für Personen mit Hochschulabschluss (ohne Lehramtsstudium) oder fachspezifischer Ausbildung<br><br> VERENA - Befristete Einstellung (<a href='http://www.verena.nrw.de'>www.verena.nrw.de</a>)<br> Für ausgebildete Lehrkräfte mit Staatsprüfung und Personen mit und ohne Hochschulstudium für eine zeitlich befristete Tätigkeit an Schulen",
+        "employers": "ca. 190.000 Lehrerinnen und Lehrer",
+        "locations": "NRW",
+        "qualifications": [
+            "keine"
         ]
     }
 ]
