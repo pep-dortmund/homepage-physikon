@@ -21,6 +21,24 @@
         ]
     },
     {
+        "name": "Point8",
+        "ad": "/img/catalogue_ads/p8_bild.png",
+        "ad_format": "portrait",
+        "title": "Data Science as a Service",
+        "caption": "Wir bringen Big Data Know-how vom CERN in die Wirtschaft und unterstützen Unternehmen und Organisationen mit Datenanalyse, Machine Learning und Simulationen.",
+        "url": "https://point-8.de/",
+        "logo": "/img/logos/point8_2022.svg",
+        "branche": "KI- und Data-Science-Dienstleister für Wirtschaft und Industrie",
+        "contact": "Florian Kruse <br> <a href='mailto:mitmachen@point-8.de'>mitmachen@point-8.de</a> ",
+        "text": "Point 8 ist ein Dortmunder Dienstleister für Data Science. Wir entwickeln gemeinsam mit unseren Kunden aus Industrie und Wirtschaft individuell zugeschnittene Lösungen - von der Konzeption über die Prototypen-Entwicklung bis zur Integration. Dabei greifen wir auf Datenanalyse, Machine Learning und Simulationen zurück. Wir arbeiten agil an immer neuen Themen und mit verschiedensten Tools und setzen auf ein Team aus klugen Köpfen mit Pioniergeist.",
+        "employers": "25",
+        "locations": "Dortmund",
+        "qualifications": [
+            "Naturwissenschaftlich-technisches Studium (Physik, Informatik, Maschinenbau, Mathematik …)",
+            "Know-how in Data Science oder Softwareentwicklung"
+        ]
+    },
+    {
         "name": "Schulministerium",
         "ad": "/img/catalogue_ads/schulministerium.jpg",
         "ad_format": "portrait",
