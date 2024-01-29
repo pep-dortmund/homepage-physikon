@@ -1,5 +1,44 @@
 [
     {
+        "name": "Amprion",
+        "title": "Amprion verbindet",
+        "caption": "",
+        "logo": "/img/logos/AMPRION_LOGO_RGB_P.png",
+        "url": "https://www.amprion.net/karriere",
+        "ad": "/img/catalogue_ads/Anzeige_A4_Amprion_GmbH.jpg",
+        "ad_format": "portrait",
+        "branche": "Energieversorgung",
+        "contact": "Dr. Sabrina Schuster <br> <a href='mailto:Sabrina.Schuster@amprion.net'>Sabrina.Schuster@amprion.net</a>  <br> +49 231-5849 14266",
+        "text": "Die Amprion GmbH ist einer von vier Übertragungsnetzbetreibern in Deutschland. Unser 11.000 Kilometer langes Höchstspannungsnetz transportiert Strom in einem Gebiet von Niedersachsen bis zu den Alpen. Dort wird ein Drittel der Wirtschaftsleistung Deutschlands erzeugt. Unsere Leitungen sind Lebensadern der Gesellschaft: Sie sichern Arbeitsplätze und Lebensqualität von 29 Millionen Menschen. Wir halten das Netz stabil und sicher – und bereiten den Weg für ein klimaverträgliches Energiesystem, indem wir unser Netz ausbauen. Rund 2.200 Beschäftigte in Dortmund und an mehr als 30 weiteren Standorten tragen dazu bei, dass die Lichter immer leuchten. Zudem übernehmen wir übergreifende Aufgaben für die Verbundnetze in Deutschland und Europa.",
+        "employers": "rund 2.200",
+        "locations": "Dortmund, Pulheim - Brauweiler bei Köln, Hoheneck bei Stuttgart und weitere 30 Standorte in Deutschland",
+        "qualifications": [
+            "Hohe Eigenverantwortung ",
+            "Bereitschaft zu bereichsübergreifender Teamarbeit",
+            "Interesse an Projektarbeit",
+            "Begeisterung, die Energiewende mitzugestalten"
+        ]
+    },
+    {
+        "name": "Cohausz&Florack",
+        "ad": "/img/catalogue_ads/C+F_ad.jpg",
+        "ad_format": "portrait",
+        "title": "You create - we protect",
+        "caption": "",
+        "url": "https://www.cohausz-florack.de",
+        "logo": "/img/logos/COHAUSZ_FLORACK.jpg",
+        "branche": "Rechtsberatung, Dienstleistungen",
+        "contact": "Frau Andrea Funk<br> <a href='mailto:bewerbung@cohausz-florack.de'>bewerbung@cohausz-florack.de</a>",
+        "text": "COHAUSZ & FLORACK ist eine Sozietät, in der Patent- und Rechtsanwälte verschiedener Fachrichtungen interdisziplinär zusammenarbeiten. Alle Patent- und Rechtsanwälte bei COHAUSZ & FLORACK sind Spezialisten für gewerblichen Rechtsschutz, für Wettbewerbs- und Urheberrecht sowie für die daran angrenzenden Rechtsgebiete. Auch in sämtlichen technischen und naturwissenschaftlichen Fachrichtungen kennen wir uns aus und wissen daher um den hohen Wert Ihrer Ideen. Wir suchen Absolventinnen und Absolventen der Fachbereiche Elektro- und Informationstechnik, Maschinenbau, Physik und Chemie für die Ausbildung zum Patentanwalt oder zur Patentanwältin und zum/zur European Patent Attorney.",
+        "employers": "140",
+        "locations": "Düsseldorf (Ausbildungsstandort), München",
+        "qualifications": [
+            "breite Kenntnisse und Fähigkeiten im technischen/ naturwissenschaftlichen Bereich ­— auch über Ihr Studienfach hinaus",
+            "sehr gute Englischkenntnisse",
+            "Spaß am Formulieren von Texten, die technische/ naturwissenschaftliche Zusammenhänge beschreiben"
+        ]
+    },
+    {
         "name": "Deichmann",
         "ad": "/img/catalogue_ads/Deichmann_ad.jpg",
         "ad_format": "landscape",
@@ -18,6 +57,102 @@
             "Erfahrung in der Verarbeitung großer Datenmengen",
             "SQL und Datenbanken",
             "Erfahrung mit Softwareentwicklung"
+        ]
+    },
+    {
+        "name": "elmos",
+        "ad": "/img/catalogue_ads/elmos_1.jpg",
+        "ad_format": "landscape",
+        "title": "",
+        "caption": "",
+        "url": "https://www.elmos.com/",
+        "logo": "/img/logos/elmos-logo_rgb_rz.png",
+        "branche": "Halbleiter",
+        "contact": "Barbara Schulte <br>  <a href='mailto:recruitment@elmos.com'>recruitment@elmos.com</a>",
+        "text": "Im Jahre 1984 wurde Elmos als eines der ersten Unternehmen im Technologiepark Dortmund gegründet. Heute ist Elmos weltweit an Standorten in Europa, den USA und Asien mit über 1.300 Mitarbeitern vertreten, rund 850 davon am Hauptsitz in Dortmund. Elmos-Halbleiter kommen dort zum Einsatz, wo es auf Innovationen ankommt wie bei den Herausforderungen der zukünftigen Megatrends autonomes Fahren, Elektromobilität / weniger CO2 sowie mehr Sicherheit, Vernetzung und Komfort. Elmos ist schon Weltmarktführer für die Einparkhilfe und die Gestensteuerung im Auto und noch einiges mehr. Gehe mit uns den Weg weiter - bis zum selbstfahrenden Auto!",
+        "employers": "850 am Standort Dortmund, 1.300 weltweit",
+        "locations": "Dortmund Düsseldorf Bruchsal Berlin Dreseden Frankfurt / Oder",
+        "qualifications": "keine"
+    },
+    {
+        "name": "Infineon",
+        "ad": "/img/catalogue_ads/infineon_anzeigebild.png",
+        "ad_format": "landscape",
+        "title": "",
+        "caption": "",
+        "url": "https://www.infineon.com/cms/de/",
+        "logo": "/img/logos/Infineon.png",
+        "branche": "Halbleitertechnik",
+        "contact": "Katharina Wibberg (Student Talent Attraction Manager) <br> <a href='mailto:Katharina.Wibberg@infineon.com'>Katharina.Wibberg@infineon.com</a> <br> Louise Christina Radüge (Talent Attraction Manager) <br> <a href='mailto:LouiseChristina.Raduege@infineon.com'>LouiseChristina.Raduege@infineon.com</a> <br> Karriereportal für Bewerbungen: <a href='https://www.infineon.com/cms/de/careers/jobsearch/jobsearch/'>www.infineon.com/cms/de/careers/jobsearch/jobsearch/</a>",
+        "text": "Infineon entwirft, entwickelt, fertigt und vertreibt eine Vielzahl an Halbleiter- und Systemlösungen. Dabei liegt der Fokus auf der Automobil- und Industrieelektronik sowie auf mobilen Geräten und chipkartenbasierter Sicherheit. Infineon verbindet unternehmerischen Erfolg mit verantwortungsvollem Handeln und bietet Antworten auf einige der wichtigsten Herausforderungen moderner Gesellschaften: Energieeffizienz, umweltfreundliche Mobilität und Sicherheit in einer vernetzten Welt. Weiterführende Informationen zu unserem R&D- sowie Fertigungsstandort Warstein finden Sie unter: <a href='https://www.infineon.com/warstein'>www.infineon.com/warstein</a>. Wir sind laufend auf der Suche nach engagierten & motivierten Absolventinnen und Absolventen, die sich für einen Einstieg in die Hightechbranche interessieren und Interesse an der Entwicklung neuer ressourcenschonender Produkte mitbringen. Weitere Informationen unter: <a href='https://www.infineon.com/karriere-warstein'>www.infineon.com/karriere-warstein</a>.",
+        "employers": "50.280",
+        "locations": "Hauptsitz: München <br> Inland: u.a. Augsburg, Dresden, Regensburg, Warstein,  Duisburg, Hannover <br> Weltweit: u.a. Villach, Graz, Wien, Bristol, Bukarest, Cegled, Padua, Singapur, Kulim, Malacca, Peking, Shanghai, Wuxi, Milpitas (CA), El Segundo (CA), Nagoya, Osaka, Tokyo",
+        "qualifications": [
+            "Physik",
+            "Elektrotechnik",
+            "Chemie",
+            "Informatik",
+            "Automatisierungstechnik",
+            "Mathematik",
+            "Naturwissenschaften",
+            "Wirtschaftswissenschaften",
+            "Wirtschaftsinformatik"
+        ]
+    },
+    {
+        "name": "KPMG",
+        "ad": "",
+        "ad_format": "landscape",
+        "title": "",
+        "caption": "",
+        "url": "",
+        "logo": "",
+        "branche": "",
+        "contact": "",
+        "text": "",
+        "employers": "",
+        "locations": "",
+        "qualifications": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Materna IPS",
+        "title": "WE LOVE TRAVEL!",
+        "caption": "WE LOVE TRAVEL!",
+        "logo": "/img/logos/maternaIPS.svg",
+        "url": "https://www.materna-ips.com/",
+        "ad": "https://www.materna-ips.com/wp-content/uploads/2021/07/IPS-Career-jobs-scaled-e1626937847389.jpeg",
+        "ad_format": "portrait",
+        "branche": "Flugbranche",
+        "contact": "<a href='mailto:info-ips@materna.group'>info-ips@materna.group</a> ",
+        "text": "WE LOVE TRAVEL! Das ist unsere Vision und die unserer Kunden. Tokio, Denver, Bangalore – Egal, aus welchem Teil der Welt du zu deiner nächsten Reise aufbrechen möchtest, du wirst immer direkt oder indirekt mit den Produkten und Lösungen der Materna IPS in Berührung kommen. Mit über 150.000 täglichen Gepäckaufgaben und 300.000 täglichen Check-ins an unseren Self-Bag-Drop und Self-Check-In Automaten ebnen wir den Weg für eine effizientere und angenehmere Reise für Passagiere auf der ganzen Welt.",
+        "employers": "weniger als 200",
+        "locations": "Dortmund",
+        "qualifications": [
+            "keine"
+        ]
+    },
+    {
+        "name": "NRW.BANK",
+        "ad": "/img/catalogue_ads/NRWBANK.jpg",
+        "ad_format": "portrait",
+        "title": "",
+        "caption": "",
+        "url": "https://www.nrwbank.de/de/die-nrw-bank/karriere/",
+        "logo": "/img/logos/NRWbank.png",
+        "branche": "Banken",
+        "contact": "Angela Schepers<br> <a href='mailto:angela.schepers@nrwbank.de'>Angela.schepers@nrwbank.de</a>",
+        "text": "Die NRW.BANK ist die Förderbank für Nordrhein-Westfalen mit Sitz in Düsseldorf und Münster. Sie unterstützt ihren Eigentümer, das Land Nordrhein-Westfalen, bei dessen struktur- und wirtschaftspolitischen Aufgaben. Zudem ist sie verlässlicher Partner für alle Banken und Sparkassen, Unternehmen aller Branchen sowie für Städte und Gemeinden in Nordrhein-Westfalen. Das Einsatzgebiet von MINT-Fachkräften zielt auf IT-Projektmanagement im IT-Kapitalmarkt ab.",
+        "employers": "1500",
+        "locations": "Düsseldorf, Münster",
+        "qualifications": [
+            "Gute Englischkenntnisse",
+            "Erfahrung im Bereich Software-Entwicklung (z.B. objektorientierte Programmiersprachen wie Python, Java, C++)",
+            "Erste Erfahrung im Umgang mit Datenbanken (SQL)",
+            "Erfahrung mit Betriebssystemen wie Windows und UNIX",
+            "Erfahrung in der Leitung von Projekten"
         ]
     },
     {
@@ -53,6 +188,34 @@
         "locations": "NRW",
         "qualifications": [
             "keine"
+        ]
+    },
+    {
+        "name": "Zeiss",
+        "ad": "/img/catalogue_ads/2023_ZEISS_HR_Anzeige_PhysiKon.png",
+        "ad_format": "portrait",
+        "title": "",
+        "caption": "",
+        "url": "https://www.zeiss.de/corporate/karriere.html?vaURL=www.zeiss.de/karriere",
+        "logo": "/img/logos/zeiss-logo-tagline_digital_rgb.png",
+        "branche": "Optische und optoelektronische Industrie",
+        "contact": "",
+        "text": "Als weltweit führendes Technologieunternehmen mit über 38.000 Mitarbeitenden und einem Umsatz von über 8,8 Milliarden Euro entwickelt, fertigt und vertreibt ZEISS in einer Vielzahl von Geschäftsfeldern hochinnovative Produkte und Lösungen im Bereich der Optik. Wir suchen Leute mit Empathie und Leidenschaft, die für ihre Ambitionen und für herausfordernde Themen brennen. Die Spitzenleistungen bringen und die Grenzen des Machbaren verschieben wollen. Die sich kontinuierlich weiterentwickeln möchten, anstreben, Verantwortung zu übernehmen und die Gesellschaft weiterzubringen. Im globalen Team von ZEISS. Wenn Du motiviert bist und für Dein Fach brennst, bist Du bei ZEISS genau richtig!",
+        "employers": "über 38.000 weltweit",
+        "locations": "Oberkochen, Jena, Aalen, München, Berlin, Dresden, Karlsruhe, Roßdorf, Göttingen, Wetzlar und Weitere",
+        "qualifications": [
+            "Chemie",
+            "Elektrotechnik",
+            "Informatik",
+            "Luft- und Raumfahrt",
+            "Maschinenbau",
+            "Materialwissenschaften",
+            "Mathematik",
+            "Mechatronik",
+            "Medizintechnik",
+            "Physik",
+            "Verfahrenstechnik",
+            "Wirtschaftsinformatik"
         ]
     }
 ]
