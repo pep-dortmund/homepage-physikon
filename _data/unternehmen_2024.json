@@ -83,9 +83,9 @@
         "url": "https://www.infineon.com/cms/de/",
         "logo": "/img/logos/Infineon.png",
         "branche": "Halbleitertechnik",
-        "contact": "Katharina Wibberg (Student Talent Attraction Manager) <br> <a href='mailto:Katharina.Wibberg@infineon.com'>Katharina.Wibberg@infineon.com</a> <br> Louise Christina Radüge (Talent Attraction Manager) <br> <a href='mailto:LouiseChristina.Raduege@infineon.com'>LouiseChristina.Raduege@infineon.com</a> <br> Karriereportal für Bewerbungen: <a href='https://www.infineon.com/cms/de/careers/jobsearch/jobsearch/'>www.infineon.com/cms/de/careers/jobsearch/jobsearch/</a>",
+        "contact": "Katharina Wibberg (Specialist Emerging Talent Acquisition & University Relations) <br> <a href='mailto:Katharina.Wibberg@infineon.com'>Katharina.Wibberg@infineon.com</a> <br> Luca Schulte (Specialist Emerging Talent Acquisition & University Relations) <br> <a href='mailto:Luca.Schulte@infineon.com'>Luca.Schulte@infineon.com</a> <br> Karriereportal für Bewerbungen: <a href='https://www.infineon.com/cms/de/careers/jobsearch/jobsearch/'>www.infineon.com/cms/de/careers/jobsearch/jobsearch/</a>",
         "text": "Infineon entwirft, entwickelt, fertigt und vertreibt eine Vielzahl an Halbleiter- und Systemlösungen. Dabei liegt der Fokus auf der Automobil- und Industrieelektronik sowie auf mobilen Geräten und chipkartenbasierter Sicherheit. Infineon verbindet unternehmerischen Erfolg mit verantwortungsvollem Handeln und bietet Antworten auf einige der wichtigsten Herausforderungen moderner Gesellschaften: Energieeffizienz, umweltfreundliche Mobilität und Sicherheit in einer vernetzten Welt. Weiterführende Informationen zu unserem R&D- sowie Fertigungsstandort Warstein finden Sie unter: <a href='https://www.infineon.com/warstein'>www.infineon.com/warstein</a>. Wir sind laufend auf der Suche nach engagierten & motivierten Absolventinnen und Absolventen, die sich für einen Einstieg in die Hightechbranche interessieren und Interesse an der Entwicklung neuer ressourcenschonender Produkte mitbringen. Weitere Informationen unter: <a href='https://www.infineon.com/karriere-warstein'>www.infineon.com/karriere-warstein</a>.",
-        "employers": "50.280",
+        "employers": "58.600",
         "locations": "Hauptsitz: München <br> Inland: u.a. Augsburg, Dresden, Regensburg, Warstein,  Duisburg, Hannover <br> Weltweit: u.a. Villach, Graz, Wien, Bristol, Bukarest, Cegled, Padua, Singapur, Kulim, Malacca, Peking, Shanghai, Wuxi, Milpitas (CA), El Segundo (CA), Nagoya, Osaka, Tokyo",
         "qualifications": [
             "Physik",
@@ -192,7 +192,7 @@
     },
     {
         "name": "Zeiss",
-        "ad": "/img/catalogue_ads/2023_ZEISS_HR_Anzeige_PhysiKon.png",
+        "ad": "/img/catalogue_ads/2024_ZEISS_HR_Anzeige_PhysiKon.pdf",
         "ad_format": "portrait",
         "title": "",
         "caption": "",
@@ -200,9 +200,9 @@
         "logo": "/img/logos/zeiss-logo-tagline_digital_rgb.png",
         "branche": "Optische und optoelektronische Industrie",
         "contact": "",
-        "text": "Als weltweit führendes Technologieunternehmen mit über 38.000 Mitarbeitenden und einem Umsatz von über 8,8 Milliarden Euro entwickelt, fertigt und vertreibt ZEISS in einer Vielzahl von Geschäftsfeldern hochinnovative Produkte und Lösungen im Bereich der Optik. Wir suchen Leute mit Empathie und Leidenschaft, die für ihre Ambitionen und für herausfordernde Themen brennen. Die Spitzenleistungen bringen und die Grenzen des Machbaren verschieben wollen. Die sich kontinuierlich weiterentwickeln möchten, anstreben, Verantwortung zu übernehmen und die Gesellschaft weiterzubringen. Im globalen Team von ZEISS. Wenn Du motiviert bist und für Dein Fach brennst, bist Du bei ZEISS genau richtig!",
-        "employers": "über 38.000 weltweit",
-        "locations": "Oberkochen, Jena, Aalen, München, Berlin, Dresden, Karlsruhe, Roßdorf, Göttingen, Wetzlar und Weitere",
+        "text": "ZEISS ist Technologie. ZEISS ist Optik und Innovation. Unsere etwa 43.000  Kolleginnen und Kollegen entwickeln, fertigen und vertreiben für unsere Kunden in einer Vielzahl von Geschäftsfeldern hochinnovative Produkte und Lösungen. Als weltweit führendes Technologieunternehmen und mit einem auf Wachstumsfelder der Zukunft, wie Digitalisierung, Gesundheit und Industrie 4.0, ausgerichteten Portfolio, gestalten wir die Zukunft weit über die optische und optoelektronische Branche hinaus.",
+        "employers": "Weltweit rund 43.000, davon mehr als 20.000 in Deutschland",
+        "locations": "Hautsitz in Oberkochen, Deutschland; weltweit ist ZEISS in rund 50 Ländern vertreten",
         "qualifications": [
             "Chemie",
             "Elektrotechnik",
