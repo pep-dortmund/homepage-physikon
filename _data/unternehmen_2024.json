@@ -101,20 +101,20 @@
     },
     {
         "name": "KPMG",
-        "ad": "",
+        "ad": "/img/catalogue_ads/KPMG_Anzeige 2024_MINT_A4_druck.pdf",
         "ad_format": "landscape",
         "title": "",
         "caption": "",
-        "url": "",
-        "logo": "",
-        "branche": "",
-        "contact": "",
-        "text": "",
-        "employers": "",
-        "locations": "",
+        "url": "https://karriere.kpmg.de/",
+        "logo": "/img/logos/KPMG_Logo.png",
+        "branche": "Unternehmensberatung / Financial Services",
+        "contact": "Bettina Alexandra Schulte <br>  <a href='mailto:bettinaschulte@kpmg.com'>bettinaschulte@kpmg.com</a>",
+        "text": "KPMG ist den meisten Menschen vor allem als Wirtschaftsprüfungsgesellschaft bekannt. Dabei macht mittlerweile das Beratungsgeschäft einen mindestens ebenso großen Anteil am Unternehmenserfolg aus. Gerade im Bereich Financial Services, also allem was sich um Banken, Versicherungen und Vermögensverwalter dreht, werden dabei mehr und mehr auch quantitativ veranlagte Talente aus dem MINT-Bereich gesucht, bspw. bei der Entwicklung statistischer Modelle oder dem Aufbau zukunftsfähiger IT-Systeme.",
+        "employers": "~13.000, 2700 in Financial Services",
+        "locations": "27 Standorte deutschlandweit, in NRW:  Köln, Düsseldorf, Dortmund, Essen, Münster, Bielefeld",
         "qualifications": [
-            "",
-            ""
+            "Neugier auf neue Themen",
+            "Programmiererfahrung ist hilfreich, aber kein Must-Have"
         ]
     },
     {
