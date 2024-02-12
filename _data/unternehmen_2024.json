@@ -217,5 +217,22 @@
             "Verfahrenstechnik",
             "Wirtschaftsinformatik"
         ]
+    },
+    {
+        "name": "Fraunhofer IMS",
+        "ad": "/img/catalogue_ads/FH_Galvanik_Aetztechnik_Motiv_I_2_RGB_72ppi.jpg",
+        "ad_format": "portrait",
+        "title": "",
+        "caption": "",
+        "url": "https://www.ims.fraunhofer.de/de/Karriere.html",
+        "logo": "/img/logos/IMS-Logo_RGB_Vektorformat.png",
+        "branche": "Anwendungsorientierte Forschung",
+        "contact": "Für Studierende: Irini Tsiftsi <br> <a href='mailto:irini.tsiftsi@ims.fraunhofer.de'>irini.tsiftsi@ims.fraunhofer.de</a> <br> Für Berufseinsteiger/innen: Anja Schwarzkopf <br> <a href='mailto:anja.schwarzkopf@ims.fraunhofer.de'>anja.schwarzkopf@ims.fraunhofer.de</a> <br> Bewerbungen dürfen ausschließlich über das Online-Bewerbungssystem auf unserer Karriereseite eingereicht werden.",
+        "text": "Elektronik für die Energiewende, Sensoren für eine sichere Lebensmittelversorgung oder KI für personalisierte Medizin – diese Themen möchtest du gerne vorantreiben? Wir am Fraunhofer IMS bieten dir dafür das inspirierende Umfeld: von kreativen Teams, die mit dir gemeinsam wilde Gedanken in sinnvolle Ideen kanalisieren bis hin zu unseren Reinräumen, wo diese Ideen Schritt für Schritt in Industriequalität Realität werden. Steig studienbegleitend im Rahmen eines Praktikums oder als studentische Hilfskraft ein oder starte nach dem Master direkt mit der Promotion durch.",
+        "employers": "240 Mitarbeitende (davon ca. 50 Studierende)",
+        "locations": "Duisburg",
+        "qualifications": [
+            "je nach Stelle unterschiedlich "
+        ]
     }
 ]
