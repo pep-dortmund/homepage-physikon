@@ -9,8 +9,8 @@
         "ad_format": "portrait",
         "branche": "Energieversorgung",
         "contact": "Dr. Sabrina Schuster <br> <a href='mailto:Sabrina.Schuster@amprion.net'>Sabrina.Schuster@amprion.net</a>  <br> +49 231-5849 14266",
-        "text": "Die Amprion GmbH ist einer von vier Übertragungsnetzbetreibern in Deutschland. Unser 11.000 Kilometer langes Höchstspannungsnetz transportiert Strom in einem Gebiet von Niedersachsen bis zu den Alpen. Dort wird ein Drittel der Wirtschaftsleistung Deutschlands erzeugt. Unsere Leitungen sind Lebensadern der Gesellschaft: Sie sichern Arbeitsplätze und Lebensqualität von 29 Millionen Menschen. Wir halten das Netz stabil und sicher – und bereiten den Weg für ein klimaverträgliches Energiesystem, indem wir unser Netz ausbauen. Rund 2.200 Beschäftigte in Dortmund und an mehr als 30 weiteren Standorten tragen dazu bei, dass die Lichter immer leuchten. Zudem übernehmen wir übergreifende Aufgaben für die Verbundnetze in Deutschland und Europa.",
-        "employers": "rund 2.200",
+        "text": "Die Amprion GmbH ist einer von vier Übertragungsnetzbetreibern in Deutschland. Unser 11.000 Kilometer langes Höchstspannungsnetz transportiert Strom in einem Gebiet von der Nordsee bis zu den Alpen. Dort wird ein Drittel der Wirtschaftsleistung Deutschlands erzeugt. Unsere Leitungen sind Lebensadern der Gesellschaft: Sie sichern Arbeitsplätze und Lebensqualität von 29 Millionen Menschen. Wir halten das Netz stabil und sicher – und bereiten den Weg für ein klimaverträgliches Energiesystem, indem wir unser Netz ausbauen. Rund 2.300 Beschäftigte in Dortmund und an mehr als 30 weiteren Standorten tragen dazu bei, dass die Lichter immer leuchten. Zudem übernehmen wir übergreifende Aufgaben für die Verbundnetze in Deutschland und Europa.",
+        "employers": "rund 2.300",
         "locations": "Dortmund, Pulheim - Brauweiler bei Köln, Hoheneck bei Stuttgart und weitere 30 Standorte in Deutschland",
         "qualifications": [
             "Hohe Eigenverantwortung ",
@@ -101,8 +101,8 @@
     },
     {
         "name": "KPMG",
-        "ad": "/img/catalogue_ads/KPMG_Anzeige 2024_MINT_A4_druck.pdf",
-        "ad_format": "landscape",
+        "ad": "/img/catalogue_ads/KPMG_Anzeige_2024_MINT_A4_druck.png",
+        "ad_format": "portrait",
         "title": "",
         "caption": "",
         "url": "https://karriere.kpmg.de/",
@@ -192,7 +192,7 @@
     },
     {
         "name": "Zeiss",
-        "ad": "/img/catalogue_ads/2024_ZEISS_HR_Anzeige_PhysiKon.pdf",
+        "ad": "/img/catalogue_ads/2024_ZEISS_HR_Anzeige_PhysiKon.png",
         "ad_format": "portrait",
         "title": "",
         "caption": "",
