@@ -39,6 +39,21 @@
         ]
     },
     {
+        "name": "comnovo",
+        "ad": "/img/catalogue_ads/comnovo_together.jpg",
+        "ad_format": "portrait",
+        "title": "",
+        "caption": "",
+        "url": "https://www.comnovo.de/jobs",
+        "logo": "/img/logos/comnovo.jpg",
+        "branche": "Embedded Software, Intralogistik",
+        "contact": "Frau Daniela Krumnacker<br> <a href='mailto:krumnacker@comnovo.de'>krumnacker@comnovo.de</a>",
+        "text": "Wofür wir stehen: Wir schützen Menschen vor Unfällen mit Gabelstaplern - mit dieser Mission haben unsere drei Gründer im Jahr 2013 den Schritt in die Selbstständigkeit gewagt. Als Vorreiter in der Entwicklung von Assistenzsystemen für die Intralogistik, sorgen wir dafür, dass täglich tausende Menschen sicher von der Arbeit nach Hause kommen. Mit eigenen Technologien digitalisieren unsere Teams aus Forschung und Entwicklung das Warenlager von Morgen. Wir bieten die einzigartige Möglichkeit, Teil eines hochmotivierten Teams zu sein und an spannenden Projekten mitzuwirken, die die Zukunft unserer Branche prägen.",
+        "employers": "60",
+        "locations": "Dortmund, Frankfurt, Aschaffenburg, Hamburg, Barcelona",
+        "qualifications": "keine"
+    },
+    {
         "name": "Deichmann",
         "ad": "/img/catalogue_ads/Deichmann_ad.jpg",
         "ad_format": "landscape",
