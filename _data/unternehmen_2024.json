@@ -190,19 +190,20 @@
     },
     {
         "name": "Schulministerium",
-        "ad": "/img/catalogue_ads/schulministerium.jpg",
+        "ad": "/img/catalogue_ads/Schulministerium_2024.jpg",
         "ad_format": "portrait",
         "title": "",
         "caption": "Deine Berufung ist es doch, Lehrkraft zu sein? Du hast aber kein Lehramtsstudium absolviert? Wir verraten dir, wie du als Seiteneinsteiger deinen Traumberuf trotzdem erreichst.",
-        "url": "https://www.lehrer-werden.nrw/was-bringst-du-mit/seiteneinsteiger",
+        "url": "https://www.lehrkraft-werden.nrw/seiteneinstieg-ins-lehramt",
         "logo": "/img/logos/Ministerium_NRW.jpg",
         "branche": "Bildung",
         "contact": "Auskünfte zum Seiteneinstieg erhalten Sie bei der Landesweiten Beratungsstelle für Lehrämter an Schulen. Ebenso stehen Ihnen die Mitarbeiterinnen und Mitarbeiter der Einstellungsbüros der Bezirksregierung für eine individuelle Beratung gerne zur Verfügung. Die Kontaktdaten finden Sie <a href='https://www.schulministerium.nrw.de/BP/LEOTexte/Seiteneinstieg/Service_und_Beratung.pdf'>hier</a> ",
-        "text": "Gegenwärtig gibt es in Nordrhein-Westfalen - insbesondere in den MINT-Fächern - einen sehr hohen Bedarf an Lehrkräften. Dies wird in absehbarer Zeit auch weiterhin so bleiben. <br> Detaillierte Informationen zum Ablauf der unterschiedlichen Bewerbungsverfahren für den Schuldienst des Landes Nordrhein-Westfalen sind auf den nachfolgenden Webseiten veröffentlicht: <br> <br> LEO - Lehrereinstellung in Dauerbeschäftigung (<a href='http://www.leo.nrw.de'>www.leo.nrw.de</a>) <br> Für ausgebildete Lehrkräfte mit Staatsprüfung für eine zeitlich unbefristete Tätigkeit an Schulen<br><br> LOIS - Lehrereinstellung im Seiteneinstieg (<a href='http://www.lois.nrw.de'>www.lois.nrw.de</a>)<br> Für Personen mit Hochschulabschluss (ohne Lehramtsstudium) oder fachspezifischer Ausbildung<br><br> VERENA - Befristete Einstellung (<a href='http://www.verena.nrw.de'>www.verena.nrw.de</a>)<br> Für ausgebildete Lehrkräfte mit Staatsprüfung und Personen mit und ohne Hochschulstudium für eine zeitlich befristete Tätigkeit an Schulen",
-        "employers": "ca. 190.000 Lehrerinnen und Lehrer",
+        "text": "Flexibilität, Erfahrung oder Lernbereitschaft sind nur einige der Qualitäten, die Sie beim Seiteneinstieg als Lehrerin oder Lehrer mitbringen können. Im Lehramt können Sie ihre Berufserfahrung in einer abwechslungsreichen und erfüllenden Tätigkeit einbringen. Ob Handwerksmeister, Diplom, Bachelor oder Master, wir verraten Ihnen, wie Sie im Seiteneistieg den Beruf einer Lehrkraft ergreifen können. <br> Informationen und weitere Beratung erhalten Sie hier: <br><ul><li><a href=https://www.lehrkraft-werden.nrw/seiteneinstieg-ins-lehramt>Website</a></li><li><a href=https://broschuerenservice.nrw.de/msb-duesseldorf/shop/Seiteneinstieg_in_den_Schuldienst>Broschüre</a></li></ul>",
+        "employers": "ca. 200.000 Lehrerinnen und Lehrer",
         "locations": "NRW",
         "qualifications": [
-            "keine"
+            "Meisterbrief",
+            "Hochschulabschluss (Bachelor, Master, Diplom)"
         ]
     },
     {
