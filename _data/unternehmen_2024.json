@@ -142,7 +142,7 @@
         "ad_format": "portrait",
         "branche": "Flugbranche",
         "contact": "<a href='mailto:info-ips@materna.group'>info-ips@materna.group</a> ",
-        "text": "WE LOVE TRAVEL! Das ist unsere Vision und die unserer Kunden. Tokio, Denver, Bangalore – Egal, aus welchem Teil der Welt du zu deiner nächsten Reise aufbrechen möchtest, du wirst immer direkt oder indirekt mit den Produkten und Lösungen der Materna IPS in Berührung kommen. Mit über 150.000 täglichen Gepäckaufgaben und 300.000 täglichen Check-ins an unseren Self-Bag-Drop und Self-Check-In Automaten ebnen wir den Weg für eine effizientere und angenehmere Reise für Passagiere auf der ganzen Welt.",
+        "text": "WE LOVE TRAVEL! Das ist unsere Vision und die unserer Kunden. Wir sind die Aviation-Marke und 100%tige Tochter der Materna-Gruppe die in Deutschland vor allem im öffentlichen Sektor als IT-Dienstleister bekannt ist. Die Materna IPS GmbH ist primär in der Luftfahrtindustrie tätig. Ob Tokio, Orlando oder Mumbai – Egal, aus welchem Teil der Welt du zu deiner nächsten Reise aufbrechen möchtest, du wirst immer direkt oder indirekt mit den Produkten und Lösungen der Materna IPS in Berührung kommen. Mit unseren Self-Bag-Drop und Self-Check-In Automaten ebnen wir den Weg für eine effizientere und angenehmere Reise für Passagiere auf der ganzen Welt. Unser Team arbeitet von überall auf der Welt aus und wir haben neben unserem Hauptsitz in Dortmund mehrere internationale Niederlassungen in Kanada, den USA, Indien und dem Vereinigten Königreich. Trotz der räumlichen Entfernung arbeiten wir eng zusammen und stellen sicher, dass wir ein enges Verhältnis zu unseren internationalen Mitarbeitern pflegen.",
         "employers": "weniger als 200",
         "locations": "Dortmund",
         "qualifications": [
@@ -218,7 +218,7 @@
         "contact": "",
         "text": "ZEISS ist Technologie. ZEISS ist Optik und Innovation. Unsere etwa 43.000  Kolleginnen und Kollegen entwickeln, fertigen und vertreiben für unsere Kunden in einer Vielzahl von Geschäftsfeldern hochinnovative Produkte und Lösungen. Als weltweit führendes Technologieunternehmen und mit einem auf Wachstumsfelder der Zukunft, wie Digitalisierung, Gesundheit und Industrie 4.0, ausgerichteten Portfolio, gestalten wir die Zukunft weit über die optische und optoelektronische Branche hinaus.",
         "employers": "Weltweit rund 43.000, davon mehr als 20.000 in Deutschland",
-        "locations": "Hautsitz in Oberkochen, Deutschland; weltweit ist ZEISS in rund 50 Ländern vertreten",
+        "locations": "Hauptsitz in Oberkochen, Deutschland; weltweit ist ZEISS in rund 50 Ländern vertreten",
         "qualifications": [
             "Chemie",
             "Elektrotechnik",
@@ -247,6 +247,23 @@
         "text": "Elektronik für die Energiewende, Sensoren für eine sichere Lebensmittelversorgung oder KI für personalisierte Medizin – diese Themen möchtest du gerne vorantreiben? Wir am Fraunhofer IMS bieten dir dafür das inspirierende Umfeld: von kreativen Teams, die mit dir gemeinsam wilde Gedanken in sinnvolle Ideen kanalisieren bis hin zu unseren Reinräumen, wo diese Ideen Schritt für Schritt in Industriequalität Realität werden. Steig studienbegleitend im Rahmen eines Praktikums oder als studentische Hilfskraft ein oder starte nach dem Master direkt mit der Promotion durch.",
         "employers": "240 Mitarbeitende (davon ca. 50 Studierende)",
         "locations": "Duisburg",
+        "qualifications": [
+            "je nach Stelle unterschiedlich "
+        ]
+    },
+    {
+        "name": "RI Research Instruments",
+        "ad": "/img/catalogue_ads/RI_reinraeume_ad.jpg",
+        "ad_format": "portrait",
+        "title": "",
+        "caption": "",
+        "url": "https://research-instruments.de/en/career/who-we-are",
+        "logo": "/img/logos/RI_Research_Instruments.jpg",
+        "branche": "High-Tech-Branche, Wissenschaftsindustrie",
+        "contact": "Annika Selbach <br> <a href='mailto:annika.selbach@research-instruments.de'>",
+        "text": "RI Research Instruments GmbH ist ein weltweit agierendes Unternehmen aus Bergisch Gladbach, das innovative Komponenten und Systeme für Forschung, Medizin und Industrie entwickelt und herstellt. Mit einem Team von über 400 Mitarbeitenden bietet RI maßgeschneiderte Lösungen von Prototypen bis hin zu schlüsselfertigen Systemen. Das Unternehmen fördert eine dynamische Arbeitsumgebung, die persönliche und berufliche Entwicklung unterstützt und nach motivierten Talenten für verschiedene technische und kaufmännische Bereiche sucht.",
+        "employers": "Mehr als 400",
+        "locations": "Hauptsitz in Bergisch Gladbach. Weiterer Standort in Dortmund.",
         "qualifications": [
             "je nach Stelle unterschiedlich "
         ]
