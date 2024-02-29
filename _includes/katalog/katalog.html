@@ -5,14 +5,11 @@
   <h2 class="text-center text-gray text-uppercase text-secondary mb-0 h2-fontsize">Unternehmen 2024</h2>
   <hr class="star-dark">
 
-  Hier werden demnächst die Unternehmen der PhysiKon 2024 vorgestellt.
-
-  {% comment %}
   <!-- Carousel -->
   <div id="katalog-carousel" class="carousel slide" data-ride="carousel" data-interval="false">
     <div class="carousel-inner">
 
-      {% assign katalog_unternehmen = site.data.unternehmen_2023 | where_exp: "unternehmen", "unternehmen.text and
+      {% assign katalog_unternehmen = site.data.unternehmen_2024 | where_exp: "unternehmen", "unternehmen.text and
       unternehmen.text != ''" %}
       {% for unternehmen in katalog_unternehmen %}
       <div class="carousel-item {%- if forloop.first == true %} active {%- endif -%}"
@@ -94,7 +91,5 @@
       <span class="sr-only">Next</span>
     </a>
   </div>
-
-  {% endcomment %}
 
 </section>

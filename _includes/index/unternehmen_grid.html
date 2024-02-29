@@ -5,7 +5,7 @@
     <hr class="star-dark">
 
     <div class="row justify-content-center">
-      {% for unternehmen in site.data.unternehmen_2023 %}
+      {% for unternehmen in site.data.unternehmen_2024 %}
       <div class="col-xl-3 col-md-4 col-6 grid-col">
         <a class="mx-auto"
           href="{% if unternehmen.text and unternehmen.text != '' %}{% link katalog.html %}#{{ unternehmen.name | url_encode }}{% else %}{{ unternehmen.url }}{% endif %}"
