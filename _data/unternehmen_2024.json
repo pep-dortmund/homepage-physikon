@@ -260,12 +260,46 @@
         "url": "https://research-instruments.de/en/career/who-we-are",
         "logo": "/img/logos/RI_Research_Instruments.jpg",
         "branche": "High-Tech-Branche, Wissenschaftsindustrie",
-        "contact": "Annika Selbach <br> <a href='mailto:annika.selbach@research-instruments.de'>",
+        "contact": "Annika Selbach <br> <a href='mailto:annika.selbach@research-instruments.de'>annika.selbach@research-instruments.de</a>",
         "text": "RI Research Instruments GmbH ist ein weltweit agierendes Unternehmen aus Bergisch Gladbach, das innovative Komponenten und Systeme für Forschung, Medizin und Industrie entwickelt und herstellt. Mit einem Team von über 400 Mitarbeitenden bietet RI maßgeschneiderte Lösungen von Prototypen bis hin zu schlüsselfertigen Systemen. Das Unternehmen fördert eine dynamische Arbeitsumgebung, die persönliche und berufliche Entwicklung unterstützt und nach motivierten Talenten für verschiedene technische und kaufmännische Bereiche sucht.",
         "employers": "Mehr als 400",
         "locations": "Hauptsitz in Bergisch Gladbach. Weiterer Standort in Dortmund.",
         "qualifications": [
             "je nach Stelle unterschiedlich "
+        ]
+    },
+    {
+        "name": "Grant Thornton",
+        "ad": "/img/catalogue_ads/1800x480_Banner.jpg",
+        "ad_format": "portrait",
+        "title": "",
+        "caption": "",
+        "url": "https://www.grantthornton.de/karriere/",
+        "logo": "/img/logos/gt_4cep_cmyk.jpeg",
+        "branche": "Wirtschaftsprüfung, Steuerberatung, Unternehmensberatung",
+        "contact": "Mandy Zingsem <br> Recruiting & Personalmarketing <br> <a href='mailto:mandy.zingsem@de.gt.com'>mandy.zingsem@de.gt.com</a>",
+        "text": "Grant Thornton gehört zu den zehn größten Wirtschaftsprüfungsgesellschaften in Deutschland. Rund 1.900 Mitarbeitende betreuen an zehn Standorten neben dem gehobenen nationalen und internationalen Mittelstand auch börsennotierte Unternehmen. Das Prüfungs- und Beratungsunternehmen besteht aus den Geschäftsbereichen Audit & Assurance, Tax, Advisory und Legal. Die Gesellschaft ist das deutsche Mitglied von Grant Thornton International Ltd. Mit über 73.000 Mitarbeitenden in rund 150 Ländern berät das Grant Thornton Netzwerk Unternehmen auf der ganzen Welt.",
+        "employers": "1900",
+        "locations": "Berlin • Düsseldorf • Frankfurt • Hamburg • Köln • Leipzig • München • Stuttgart • Viersen • Wiesbaden",
+        "qualifications": [
+            "keine"
+        ]
+    },
+    {
+        "name": "Forschungszentrum Jülich",
+        "ad": "/img/catalogue_ads/FZJcollage_anzeige_philou3.jpg",
+        "ad_format": "portrait",
+        "title": "",
+        "caption": "",
+        "url": "https://www.fz-juelich.de/karriere",
+        "logo": "/img/logos/Slogan_FZ_Jülich_blau_CMYK-1.png",
+        "branche": "Wissenschaft und Forschung",
+        "contact": "Alissa Aarts <br> Personalentwicklung und Recruiting <br> <a href='mailto:a.aarts@fz-juelich.de'>a.aarts@fz-juelich.de</a>",
+        "text": "Forschung für eine Gesellschaft im Wandel: Das ist unser Antrieb im Forschungszentrum Jülich. Als Mitglied der Helmholtz-Gemeinschaft stellen wir uns großen Herausforderungen unserer Zeit: Wie können uns die Energiewende und eine Begrenzung des Klimawandels gelingen? Welche Herausforderungen ergeben sich durch die zunehmende Digitalisierung der Gesellschaft? Wird es uns gelingen, das menschliche Gehirn zu verstehen? Und wie können wir den Wandel hin zu einem biobasierten und nachhaltigen Wirtschaften ermöglichen? Bei uns arbeiten Sie gemeinsam mit über 7.400 Kolleginnen und Kollegen in einem der größten Forschungszentren Europas und leisten einen Beitrag zur Lösung gesellschaftlicher Fragestellungen. Gestalten Sie den Wandel mit uns!<br><br>Unseren Mitarbeiter:innen bieten wir ein internationales und interdisziplinäres Arbeitsumfeld auf einem attraktiven Forschungscampus sowie spannende und abwechslungsreiche Aufgaben. Die Zusammenarbeit ist geprägt durch Kollegialität, die von dem Engagement und der Begeisterung aller lebt. Sie zeigt sich im wertschätzenden Umgang miteinander, in verantwortungsbewusster Führung, Verlässlichkeit und der Bereitschaft, stetig voneinander zu lernen. <br><br>Jährlich sind mehr als 750 Stellen für Auszubildende, Studierende, Promovierende, wissenschaftliche Mitarbeitende, Postdocs und Führungspositionen in der Wissenschaft sowie für Berufseinsteiger:innen und Berufserfahrene in Wissenschaft, technischer und administrativer Infrastruktur sowie im Wissenschaftsmanagement zu besetzen. <br><br>Bei uns zählen Ihre Persönlichkeit und Qualifikation – unabhängig von Alter, Geschlecht, Behinderung, sexueller Orientierung / Identität sowie sozialer, ethnischer und religiöser Herkunft. Wir bieten Ihnen ein respektvolles Arbeitsumfeld und freuen uns auf Bewerbungen von Menschen mit vielfältigen Hintergründen!",
+        "employers": "Über 7400 Mitarbeiter:innen",
+        "locations": "Jülich, Berlin, Rostock, München-Garching, Düsseldorf, Münster, Erlangen-Nürnberg, Bonn, Hamburg, Freiburg",
+        "qualifications": [
+            "Die Anforderungen sind je nach Stelle individuell. <br>Grundsätzlich sollten Bewerber:innen im wissenschaftlichen Umfeld arbeiten, Neugier an der Lösung herausfordernder Fragestellungen mitbringen und an der Arbeit in internationalen und interdisziplinären Teams interessiert sein. "
         ]
     }
 ]
