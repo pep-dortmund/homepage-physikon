@@ -15,9 +15,9 @@
     Zusätzlich zu der Jobmesse am 18.04.2024 auf dem Campus der TU Dortmund bieten wir im Zeitraum 15. - 17.04.2024
     ein breites Online-Angebot via Zoom an.
     Hier haben Unternehmen eine Stunde Zeit sich euch im Rahmen eines Vortrags via Zoom vorzustellen.
-    Ihr habt hier die Gelegenheit, die Aussteller schon mal kennenzulernen und sie mit Fragen zu löchern.
-    <!-- <a href="https://tu-dortmund.zoom.us/meeting/register/tJEvcO-hqTwoE9XUJGa-DMRQ6jSmnImSYf3J"><b>Hier könnt ihr euch -->
-    <!-- für das Zoom Meeting registrieren.</b></a> -->
+    Ihr habt hier die Gelegenheit, die Aussteller schon mal kennen zu lernen und sie mit Fragen zu löchern.<br>
+    <a href="https://tu-dortmund.zoom.us/meeting/register/tJAlc-uuqTsvGNz64fjy7vCRk8b7ymf_ErPi"><b>Hier könnt ihr euch
+        für das Zoom Meeting registrieren.</b></a>
 
   <table class="styled-table">
 
@@ -67,7 +67,7 @@
     </tr>
     <tr>
       <td>16 – 17 Uhr</td>
-      {% capture _unternehmen %}Fraunhofer IMS+Point8+{% endcapture %}
+      {% capture _unternehmen %}Fraunhofer IMS+Point8+RI Research Instruments{% endcapture %}
       {% assign __unternehmen = _unternehmen | split: '+' %}
       {% for unternehmen_name in __unternehmen %}
       {% assign unternehmen = site.data.unternehmen_2024 | where: "name", unternehmen_name | first %}
