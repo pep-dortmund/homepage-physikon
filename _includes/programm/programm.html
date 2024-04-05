@@ -67,7 +67,7 @@
     </tr>
     <tr>
       <td>16 – 17 Uhr</td>
-      {% capture _unternehmen %}Fraunhofer IMS+Point8+{% endcapture %}
+      {% capture _unternehmen %}Fraunhofer IMS+Point8+RI Research Instruments{% endcapture %}
       {% assign __unternehmen = _unternehmen | split: '+' %}
       {% for unternehmen_name in __unternehmen %}
       {% assign unternehmen = site.data.unternehmen_2024 | where: "name", unternehmen_name | first %}
