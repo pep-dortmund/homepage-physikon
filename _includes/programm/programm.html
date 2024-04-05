@@ -79,7 +79,7 @@
     </tr>
     <tr>
       <td>17 – 18 Uhr</td>
-      {% capture _unternehmen %}+Forschungszentrum Jülich+{% endcapture %}
+      {% capture _unternehmen %}+Forschungszentrum Jülich+Materna IPS{% endcapture %}
       {% assign __unternehmen = _unternehmen | split: '+' %}
       {% for unternehmen_name in __unternehmen %}
       {% assign unternehmen = site.data.unternehmen_2024 | where: "name", unternehmen_name | first %}
