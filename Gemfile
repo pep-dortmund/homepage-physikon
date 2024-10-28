@@ -30,4 +30,4 @@ gem "html-proofer", "~> 3.19"
 
 gem "kramdown", "~> 2.3"
 
-gem "webrick", "~> 1.7"
+gem "webrick", "~> 1.8"
