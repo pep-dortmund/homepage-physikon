@@ -2,100 +2,109 @@
 <section class="container">
 
   <!-- Carousel Header -->
-  <h2 class="text-center text-gray text-uppercase text-secondary mb-0 h2-fontsize">Unternehmen 2024</h2>
+  <h2 class="text-center text-gray text-uppercase text-secondary mb-0 h2-fontsize">Unternehmen 2025</h2>
   <hr class="star-dark">
 
-  <!-- Carousel -->
-  <div id="katalog-carousel" class="carousel slide" data-ride="carousel" data-interval="false">
-    <div class="carousel-inner">
 
-      {% assign katalog_unternehmen = site.data.unternehmen_2024 | where_exp: "unternehmen", "unternehmen.text and
-      unternehmen.text != ''" %}
-      {% for unternehmen in katalog_unternehmen %}
-      <div class="carousel-item {%- if forloop.first == true %} active {%- endif -%}"
-        id="{{ unternehmen.name | url_encode}}">
-        <div class="container pt-2">
-          <div class="row justify-content-center">
-            <div class="col-12 col-xl-8 col-lg-8 col-md-11 col-sm-12">
-              <a class="mx-auto" href="{{ unternehmen.url }}" target="_blank">
-                <div class="row pt-3 pb-3 justify-content-center">
-                  <img src={{unternehmen.logo}} alt="" style="width:60%;margin:auto">
-                </div>
-              </a>
-              <div class="container pt-2">
-                <p style="font-size: 1.2rem">
-                  {{unternehmen.text}}
-                </p>
-              </div>
-              <div class="row pt-3 py-5 justify-content-center">
-                <img src={{unternehmen.ad}} alt="" style="width:90%;">
-              </div>
-            </div>
-            <div class="col-12 col-xl-4 col-lg-4">
-              <div class="row pt-3 py-3" style="row-gap: 20px;">
-                <div class="container pt-2 bg-secondary text-white rcorners">
-                  <h5> Kontakt </h5>
-                  <p style="font-size: 1.2rem">
-                    {{unternehmen.contact}}
-                  </p>
-                </div>
-                <div class="container pt-2 bg-secondary text-white rcorners">
-                  <h5> Branche </h5>
-                  <p style="font-size: 1.2rem">
-                    {{unternehmen.branche}}
-                  </p>
-                </div>
-                <div class="container pt-2 bg-secondary text-white rcorners">
-                  <h5> Standorte </h5>
-                  <p style="font-size: 1.2rem">
-                    {{unternehmen.locations}}
-                  </p>
-                </div>
-                <div class="container pt-2 bg-secondary text-white rcorners">
-                  <h5> Anzahl Mitarbeitende </h5>
-                  <p style="font-size: 1.2rem">
-                    {{unternehmen.employers}}
-                  </p>
-                </div>
-                <div class="container pt-2 bg-secondary text-white rcorners">
-                  <h5> Gewünschte Zusatzqualifikationen </h5>
-                  <ul class="a">
-                    {% for quali in unternehmen.qualifications %}
+  <div class="container pt-5">
+    Wir freuen uns sehr an dieser Stelle die Unternehmen der PhysiKon 2025 vorstellen zu dürfen. Schaut gegen Ende
+    Januar
+    2025
+    nochmal vorbei, bis bald!
+    {% comment %}
+    <!-- Carousel -->
+    <div id="katalog-carousel" class="carousel slide" data-ride="carousel" data-interval="false">
+      <div class="carousel-inner">
 
-                    <li>
-                      <p style="font-size: 1.2rem">{{quali}} </p>
-                    </li>
-                    {% endfor %}
-                  </ul>
+        {% assign katalog_unternehmen = site.data.unternehmen_2024 | where_exp: "unternehmen", "unternehmen.text and
+        unternehmen.text != ''" %}
+        {% for unternehmen in katalog_unternehmen %}
+        <div class="carousel-item {%- if forloop.first == true %} active {%- endif -%}"
+          id="{{ unternehmen.name | url_encode}}">
+          <div class="container pt-2">
+            <div class="row justify-content-center">
+              <div class="col-12 col-xl-8 col-lg-8 col-md-11 col-sm-12">
+                <a class="mx-auto" href="{{ unternehmen.url }}" target="_blank">
+                  <div class="row pt-3 pb-3 justify-content-center">
+                    <img src={{unternehmen.logo}} alt="" style="width:60%;margin:auto">
+                  </div>
+                </a>
+                <div class="container pt-2">
+                  <p style="font-size: 1.2rem">
+                    {{unternehmen.text}}
+                  </p>
+                </div>
+                <div class="row pt-3 py-5 justify-content-center">
+                  <img src={{unternehmen.ad}} alt="" style="width:90%;">
+                </div>
+              </div>
+              <div class="col-12 col-xl-4 col-lg-4">
+                <div class="row pt-3 py-3" style="row-gap: 20px;">
+                  <div class="container pt-2 bg-secondary text-white rcorners">
+                    <h5> Kontakt </h5>
+                    <p style="font-size: 1.2rem">
+                      {{unternehmen.contact}}
+                    </p>
+                  </div>
+                  <div class="container pt-2 bg-secondary text-white rcorners">
+                    <h5> Branche </h5>
+                    <p style="font-size: 1.2rem">
+                      {{unternehmen.branche}}
+                    </p>
+                  </div>
+                  <div class="container pt-2 bg-secondary text-white rcorners">
+                    <h5> Standorte </h5>
+                    <p style="font-size: 1.2rem">
+                      {{unternehmen.locations}}
+                    </p>
+                  </div>
+                  <div class="container pt-2 bg-secondary text-white rcorners">
+                    <h5> Anzahl Mitarbeitende </h5>
+                    <p style="font-size: 1.2rem">
+                      {{unternehmen.employers}}
+                    </p>
+                  </div>
+                  <div class="container pt-2 bg-secondary text-white rcorners">
+                    <h5> Gewünschte Zusatzqualifikationen </h5>
+                    <ul class="a">
+                      {% for quali in unternehmen.qualifications %}
+
+                      <li>
+                        <p style="font-size: 1.2rem">{{quali}} </p>
+                      </li>
+                      {% endfor %}
+                    </ul>
+                  </div>
                 </div>
               </div>
             </div>
           </div>
         </div>
+        {% endfor %}
+
+
+        <div class="container pt-5">
+          <ol class="carousel-indicators">
+            {% for unternehmen in katalog_unternehmen %}
+            <li data-target="#katalog-carousel" data-slide-to="{{ forloop.index0 }}"
+              class="{% if forloop.first == true %}active{% endif %}">
+            </li>
+            {% endfor %}
+          </ol>
+        </div>
+
       </div>
-      {% endfor %}
 
-
-      <div class="container pt-5">
-        <ol class="carousel-indicators">
-          {% for unternehmen in katalog_unternehmen %}
-          <li data-target="#katalog-carousel" data-slide-to="{{ forloop.index0 }}"
-            class="{% if forloop.first == true %}active{% endif %}">
-          </li>
-          {% endfor %}
-        </ol>
-      </div>
-
+      <a class="carousel-control-prev" href="#katalog-carousel" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon fas fa-angle-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#katalog-carousel" role="button" data-slide="next">
+        <span class="carousel-control-next-icon fas fa-angle-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
     </div>
 
-    <a class="carousel-control-prev" href="#katalog-carousel" role="button" data-slide="prev">
-      <span class="carousel-control-prev-icon fas fa-angle-left" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
-    </a>
-    <a class="carousel-control-next" href="#katalog-carousel" role="button" data-slide="next">
-      <span class="carousel-control-next-icon fas fa-angle-right" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
-    </a>
-  </div>
+    {% endcomment %}
 
 </section>
