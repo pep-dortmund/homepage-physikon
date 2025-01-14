@@ -17,10 +17,12 @@
     Hier haben Unternehmen eine Stunde Zeit sich euch im Rahmen eines Vortrags via Zoom vorzustellen.
     Ihr habt hier die Gelegenheit, die Aussteller schon mal kennen zu lernen und sie mit Fragen zu löchern.<br><br>
 
+    {% comment %}
     Ab Ende Januar 2025 wird hier das Programm für die PhysiKon 2025 erscheinen. Wir freuen uns schon sehr auf euch, bis
     bald!
-    {% comment %}
-    <a href="https://tu-dortmund.zoom.us/meeting/register/tJAlc-uuqTsvGNz64fjy7vCRk8b7ymf_ErPi"><b>Hier könnt ihr euch
+    {% endcomment %}
+
+    <a href="https://tu-dortmund.zoom.us/meeting/register/lbq6KdsnRD--O51hqzQPcA"><b>Hier könnt ihr euch
         für das Zoom Meeting registrieren.</b></a>
 
   <table class="styled-table">
@@ -35,10 +37,10 @@
     </thead>
     <tr>
       <td>13 – 14 Uhr</td>
-      {% capture _unternehmen %}KPMG+Zeiss+NRW.BANK{% endcapture %}
+      {% capture _unternehmen %}Schulministerium+Schulministerium+Schulministerium{% endcapture %}
       {% assign __unternehmen = _unternehmen | split: '+' %}
       {% for unternehmen_name in __unternehmen %}
-      {% assign unternehmen = site.data.unternehmen_2024 | where: "name", unternehmen_name | first %}
+      {% assign unternehmen = site.data.unternehmen_2025 | where: "name", unternehmen_name | first %}
       <td> <a
           href="{% if unternehmen.text and unternehmen.text != '' %}{% link katalog.html %}#{{ unternehmen.name | url_encode }}{% else %}{{ unternehmen.url }}{% endif %}"
           {% unless unternehmen.text and unternehmen.text !='' %}target="_blank" {% endunless %}>{{ unternehmen.name
@@ -47,10 +49,10 @@
     </tr>
     <tr>
       <td>14 – 15 Uhr</td>
-      {% capture _unternehmen %}Elmos+Deichmann+COHAUSZ & FLORACK{% endcapture %}
+      {% capture _unternehmen %}Schulministerium+Schulministerium+Schulministerium{% endcapture %}
       {% assign __unternehmen = _unternehmen | split: '+' %}
       {% for unternehmen_name in __unternehmen %}
-      {% assign unternehmen = site.data.unternehmen_2024 | where: "name", unternehmen_name | first %}
+      {% assign unternehmen = site.data.unternehmen_2025 | where: "name", unternehmen_name | first %}
       <td> <a
           href="{% if unternehmen.text and unternehmen.text != '' %}{% link katalog.html %}#{{ unternehmen.name | url_encode }}{% else %}{{ unternehmen.url }}{% endif %}"
           {% unless unternehmen.text and unternehmen.text !='' %}target="_blank" {% endunless %}>{{ unternehmen.name
@@ -59,10 +61,10 @@
     </tr>
     <tr>
       <td>15 – 16 Uhr</td>
-      {% capture _unternehmen %}Amprion+Infineon+Comnovo{% endcapture %}
+      {% capture _unternehmen %}Schulministerium+Schulministerium+Schulministerium{% endcapture %}
       {% assign __unternehmen = _unternehmen | split: '+' %}
       {% for unternehmen_name in __unternehmen %}
-      {% assign unternehmen = site.data.unternehmen_2024 | where: "name", unternehmen_name | first %}
+      {% assign unternehmen = site.data.unternehmen_2025 | where: "name", unternehmen_name | first %}
       <td> <a
           href="{% if unternehmen.text and unternehmen.text != '' %}{% link katalog.html %}#{{ unternehmen.name | url_encode }}{% else %}{{ unternehmen.url }}{% endif %}"
           {% unless unternehmen.text and unternehmen.text !='' %}target="_blank" {% endunless %}>{{ unternehmen.name
@@ -71,22 +73,10 @@
     </tr>
     <tr>
       <td>16 – 17 Uhr</td>
-      {% capture _unternehmen %}Fraunhofer IMS+Point8+RI Research Instruments{% endcapture %}
+      {% capture _unternehmen %}Schulministerium+Schulministerium+Schulministerium{% endcapture %}
       {% assign __unternehmen = _unternehmen | split: '+' %}
       {% for unternehmen_name in __unternehmen %}
-      {% assign unternehmen = site.data.unternehmen_2024 | where: "name", unternehmen_name | first %}
-      <td> <a
-          href="{% if unternehmen.text and unternehmen.text != '' %}{% link katalog.html %}#{{ unternehmen.name | url_encode }}{% else %}{{ unternehmen.url }}{% endif %}"
-          {% unless unternehmen.text and unternehmen.text !='' %}target="_blank" {% endunless %}>{{ unternehmen.name
-          }}</a></td>
-      {% endfor %}
-    </tr>
-    <tr>
-      <td>17 – 18 Uhr</td>
-      {% capture _unternehmen %}+Forschungszentrum Jülich+Materna IPS{% endcapture %}
-      {% assign __unternehmen = _unternehmen | split: '+' %}
-      {% for unternehmen_name in __unternehmen %}
-      {% assign unternehmen = site.data.unternehmen_2024 | where: "name", unternehmen_name | first %}
+      {% assign unternehmen = site.data.unternehmen_2025 | where: "name", unternehmen_name | first %}
       <td> <a
           href="{% if unternehmen.text and unternehmen.text != '' %}{% link katalog.html %}#{{ unternehmen.name | url_encode }}{% else %}{{ unternehmen.url }}{% endif %}"
           {% unless unternehmen.text and unternehmen.text !='' %}target="_blank" {% endunless %}>{{ unternehmen.name
@@ -95,7 +85,6 @@
     </tr>
   </table>
 
-  {% endcomment %}
 
 
 </div>
