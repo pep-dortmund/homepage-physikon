@@ -7,16 +7,18 @@
 
 
   <div class="container pt-5">
-    Wir freuen uns sehr an dieser Stelle die Unternehmen der PhysiKon 2025 vorstellen zu dürfen. Schaut gegen Ende
-    Januar
-    2025
-    nochmal vorbei, bis bald!
     {% comment %}
+
+    Wir freuen uns sehr an dieser Stelle die Unternehmen der PhysiKon 2025 vorstellen zu dürfen.
+
+    Schaut gegen Ende Januar 2025 nochmal vorbei, bis bald!
+    {% endcomment %}
+
     <!-- Carousel -->
     <div id="katalog-carousel" class="carousel slide" data-ride="carousel" data-interval="false">
       <div class="carousel-inner">
 
-        {% assign katalog_unternehmen = site.data.unternehmen_2024 | where_exp: "unternehmen", "unternehmen.text and
+        {% assign katalog_unternehmen = site.data.unternehmen_2025 | where_exp: "unternehmen", "unternehmen.text and
         unternehmen.text != ''" %}
         {% for unternehmen in katalog_unternehmen %}
         <div class="carousel-item {%- if forloop.first == true %} active {%- endif -%}"
@@ -105,7 +107,6 @@
       </a>
     </div>
 
-    {% endcomment %}
   </div>
 
 </section>
