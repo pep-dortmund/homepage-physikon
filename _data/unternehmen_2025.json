@@ -1,5 +1,31 @@
 [
     {
+        "name": "COHAUSZ & FLORACK",
+        "ad": "/img/catalogue_ads/CohauszFlorack_ad_2025.png",
+        "ad_format": "portrait",
+        "title": "Great ideas start with you.",
+        "caption": "",
+        "url": "https://www.cohausz-florack.de/karriere/studierende-absolventen/",
+        "logo": "/img/logos/COHAUSZ_FLORACK.jpg",
+        "branche": "Rechtsberatung, Dienstleistungen",
+        "contact": "Frau Andrea Funk<br> <a href='mailto:bewerbung@cohausz-florack.de'>bewerbung@cohausz-florack.de</a>",
+        "text": [
+            "COHAUSZ & FLORACK ist eine Sozietät aus Patent- und Rechtsanwälten, die sich seit über 70 Jahren als Kanzlei dafür einsetzt, dass Ideen geschützt werden – zum Beispiel in Form von Patenten, Marken und Designs.", 
+            "Zu unseren Mandanten gehören internationale Konzerne ebenso wie mittelständische Unternehmen aus Deutschland, denen wir bei allen Fragen rund um den gewerblichen Rechtsschutz, unlauteren Wettbewerb, Urheberrecht sowie in angrenzenden Rechtsgebieten beiseite stehen.", 
+            "Unser Team besteht derzeit aus rund 145 Mitarbeitenden, die gemeinsam dafür sorgen, dass es sich lohnt, erfinderisch zu sein und so dazu beitragen, dass unsere Gesellschaft innovationsfreudig sowie wettbewerbsfähig bleibt und sich gut und gerne weiterentwickelt.", 
+            "Unseren Erfolg als Kanzlei verdanken wir vor allem unserem Team. Damit das so bleibt, haben wir ein Umfeld geschaffen, in dem man gerne arbeitet. Wir legen großen Wert auf ein freundliches und kollegiales Miteinander sowie eine respektvolle und offene Kommunikation.", 
+            "Wir suchen Absolventinnen und Absolventen der Fachbereiche Elektro- und Informationstechnik, Maschinenbau, Physik und Chemie für die Ausbildung zum Patentanwalt oder zur Patentanwältin und zum/zur European Patent Attorney."
+        ],
+        "employers": "ca. 145",
+        "locations": "Düsseldorf (Haupt- und Ausbildungsstandort), München",
+        "qualifications": [
+            "breite Kenntnisse und Fähigkeiten im technischen/naturwissenschaftlichen Bereich ­— auch über Ihr Studienfach hinaus",
+            "sehr gute Englischkenntnisse",
+            "Spaß am Formulieren von Texten, die technische/naturwissenschaftliche Zusammenhänge beschreiben"
+        ]
+    },
+    
+    {
         "name": "Schulministerium",
         "ad": "/img/catalogue_ads/Schulministerium_2024.jpg",
         "ad_format": "portrait",
