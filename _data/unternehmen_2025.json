@@ -42,5 +42,56 @@
             "Meisterbrief oder",
             "Hochschulabschluss (Bachelor, Master, Diplom)"
         ]
+    },
+    {
+        "name": "Forschungszentrum Jülich",
+        "ad": "/img/catalogue_ads/FZJ_ad.jpg",
+        "ad_format": "portrait",
+        "title": "",
+        "caption": "",
+        "url": "https://www.fz-juelich.de/karriere",
+        "logo": "/img/logos/FZJ_Logo.png",
+        "branche": "Wissenschaft und Forschung",
+        "contact": "Alissa Aarts <br> Personalentwicklung und Recruiting <br> <a href='mailto:a.aarts@fz-juelich.de'>a.aarts@fz-juelich.de</a>",
+        "text": "Forschung für eine Gesellschaft im Wandel: Das ist unser Antrieb im Forschungszentrum Jülich. Als Mitglied der Helmholtz-Gemeinschaft stellen wir uns großen Herausforderungen unserer Zeit: Wie können uns die Energiewende und eine Begrenzung des Klimawandels gelingen? Welche Herausforderungen ergeben sich durch die zunehmende Digitalisierung der Gesellschaft? Wird es uns gelingen, das menschliche Gehirn zu verstehen? Und wie können wir den Wandel hin zu einem biobasierten und nachhaltigen Wirtschaften ermöglichen? Bei uns arbeiten Sie gemeinsam mit über 7.400 Kolleginnen und Kollegen in einem der größten Forschungszentren Europas und leisten einen Beitrag zur Lösung gesellschaftlicher Fragestellungen. Gestalten Sie den Wandel mit uns!<br><br>Unseren Mitarbeiter:innen bieten wir ein internationales und interdisziplinäres Arbeitsumfeld auf einem attraktiven Forschungscampus sowie spannende und abwechslungsreiche Aufgaben. Die Zusammenarbeit ist geprägt durch Kollegialität, die von dem Engagement und der Begeisterung aller lebt. Sie zeigt sich im wertschätzenden Umgang miteinander, in verantwortungsbewusster Führung, Verlässlichkeit und der Bereitschaft, stetig voneinander zu lernen. <br><br>Jährlich sind mehr als 750 Stellen für Auszubildende, Studierende, Promovierende, wissenschaftliche Mitarbeitende, Postdocs und Führungspositionen in der Wissenschaft sowie für Berufseinsteiger:innen und Berufserfahrene in Wissenschaft, technischer und administrativer Infrastruktur sowie im Wissenschaftsmanagement zu besetzen. <br><br>Bei uns zählen Ihre Persönlichkeit und Qualifikation – unabhängig von Alter, Geschlecht, Behinderung, sexueller Orientierung / Identität sowie sozialer, ethnischer und religiöser Herkunft. Wir bieten Ihnen ein respektvolles Arbeitsumfeld und freuen uns auf Bewerbungen von Menschen mit vielfältigen Hintergründen!",
+        "employers": "Über 7400 Mitarbeiter:innen",
+        "locations": "Jülich, Berlin, Rostock, München-Garching, Düsseldorf, Münster, Erlangen-Nürnberg, Bonn, Hamburg, Freiburg",
+        "qualifications": [
+            "Die Anforderungen sind je nach Stelle individuell. <br>Grundsätzlich sollten Bewerber:innen im wissenschaftlichen Umfeld arbeiten, Neugier an der Lösung herausfordernder Fragestellungen mitbringen und an der Arbeit in internationalen und interdisziplinären Teams interessiert sein. "
+        ]
+    },
+    {
+        "name": "Green IT",
+        "ad": "/img/catalogue_ads/GREEN_IT_ad.jpg",
+        "ad_format": "portrait",
+        "title": "",
+        "caption": "",
+        "url": " https://jobs.greenit.systems/jobportal/#!/portal",
+        "logo": "/img/logos/GREEN_IT_Logo.svg",
+        "branche": "IT-Dienstleistungen",
+        "contact": "Alina Wiele <br> People & Culture Manager <br> <a href='mailto:bewerbung@greenit.systems'>bewerbung@greenit.systems</a>",
+        "text": "Wir sind ein IT-Dienstleister mit Hauptsitz in Dortmund, Standorten in Oberhausen, Hagen und Hannover und Service-Centern in Herdecke, Hamburg und München. Unser Spezialgebiet: nachhaltige und skalierbare Lösungskonzepte für den digitalen Büroalltag. Unsere Kunden: angefangen bei Kleinunternehmen bis hin zu Großkonzernen. Unsere Mission: maximale Kundenzufriedenheit und ein wertvoller Beitrag zum Umweltschutz durch den Einsatz ressourcenschonender Technologien.",
+        "employers": "260",
+        "locations": "Dortmund, Hagen, Oberhausen Hannover, Herdecke",
+        "qualifications": [
+            "Keine"
+        ]
+    },
+    {
+        "name": "Fraunhofer IMS",
+        "ad": "/img/catalogue_ads/FIMS_ad.jpg",
+        "ad_format": "portrait",
+        "title": "",
+        "caption": "",
+        "url": "https://www.ims.fraunhofer.de/de/Karriere.html",
+        "logo": "/img/logos/FIMS_Logo.svg",
+        "branche": "Öffentlicher Dienst, angewandte Forschung",
+        "contact": "Für studierende: Irini Tsiftsi <br> <a href='mailto:irini.tsiftsi@ims.fraunhofer.de'>irini.tsiftsi@ims.fraunhofer.de</a> <br> Für Berufseinsteiger/innen: Adam Smieja <br> <a href='mailto:adam.smieja@ims.fraunhofer.de'>adam.smieja@ims.fraunhofer.de</a> <br>Bewerbungen dürfen ausschließlich über das Online-Bewerbungssystem auf unserer Karriereseite eingereicht werden.",
+        "text": "Elektronik für die Energiewende, Sensoren für eine sichere Lebensmittelversorgung oder KI für personalisierte Medizin – diese Themen möchtest du gerne vorantreiben? Wir am Fraunhofer IMS bieten dir dafür das inspirierende Umfeld: von kreativen Teams, die mit dir gemeinsam erste Gedanken in sinnvolle Ideen kanalisieren bis hin zu unseren Reinräumen, wo diese Ideen Schritt für Schritt in Industriequalität Realität werden. Steig studienbegleitend im Rahmen eines Praktikums oder als studentische Hilfskraft ein oder starte nach dem Master direkt mit der Promotion durch. ",
+        "employers": "Ca. 250 in Duisburg",
+        "locations": "Duisburg",
+        "qualifications": [
+            "Je nach Stelle unterschiedlich"
+        ]
     }
 ]
