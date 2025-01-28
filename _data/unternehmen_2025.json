@@ -8,12 +8,12 @@
         "url": "https://www.cohausz-florack.de/karriere/studierende-absolventen/",
         "logo": "/img/logos/COHAUSZ_FLORACK.jpg",
         "branche": "Rechtsberatung, Dienstleistungen",
-        "contact": "Frau Andrea Funk<br> <a href='mailto:bewerbung@cohausz-florack.de'>bewerbung@cohausz-florack.de</a>",
+        "contact": "Andrea Funk<br> <a href='mailto:bewerbung@cohausz-florack.de'>bewerbung@cohausz-florack.de</a>",
         "text": [
-            "COHAUSZ & FLORACK ist eine Sozietät aus Patent- und Rechtsanwälten, die sich seit über 70 Jahren als Kanzlei dafür einsetzt, dass Ideen geschützt werden – zum Beispiel in Form von Patenten, Marken und Designs.", 
-            "Zu unseren Mandanten gehören internationale Konzerne ebenso wie mittelständische Unternehmen aus Deutschland, denen wir bei allen Fragen rund um den gewerblichen Rechtsschutz, unlauteren Wettbewerb, Urheberrecht sowie in angrenzenden Rechtsgebieten beiseite stehen.", 
-            "Unser Team besteht derzeit aus rund 145 Mitarbeitenden, die gemeinsam dafür sorgen, dass es sich lohnt, erfinderisch zu sein und so dazu beitragen, dass unsere Gesellschaft innovationsfreudig sowie wettbewerbsfähig bleibt und sich gut und gerne weiterentwickelt.", 
-            "Unseren Erfolg als Kanzlei verdanken wir vor allem unserem Team. Damit das so bleibt, haben wir ein Umfeld geschaffen, in dem man gerne arbeitet. Wir legen großen Wert auf ein freundliches und kollegiales Miteinander sowie eine respektvolle und offene Kommunikation.", 
+            "COHAUSZ & FLORACK ist eine Sozietät aus Patent- und Rechtsanwälten, die sich seit über 70 Jahren als Kanzlei dafür einsetzt, dass Ideen geschützt werden – zum Beispiel in Form von Patenten, Marken und Designs.<br>",
+            "Zu unseren Mandanten gehören internationale Konzerne ebenso wie mittelständische Unternehmen aus Deutschland, denen wir bei allen Fragen rund um den gewerblichen Rechtsschutz, unlauteren Wettbewerb, Urheberrecht sowie in angrenzenden Rechtsgebieten beiseite stehen.<br>",
+            "Unser Team besteht derzeit aus rund 145 Mitarbeitenden, die gemeinsam dafür sorgen, dass es sich lohnt, erfinderisch zu sein und so dazu beitragen, dass unsere Gesellschaft innovationsfreudig sowie wettbewerbsfähig bleibt und sich gut und gerne weiterentwickelt.<br>",
+            "Unseren Erfolg als Kanzlei verdanken wir vor allem unserem Team. Damit das so bleibt, haben wir ein Umfeld geschaffen, in dem man gerne arbeitet. Wir legen großen Wert auf ein freundliches und kollegiales Miteinander sowie eine respektvolle und offene Kommunikation.<br>",
             "Wir suchen Absolventinnen und Absolventen der Fachbereiche Elektro- und Informationstechnik, Maschinenbau, Physik und Chemie für die Ausbildung zum Patentanwalt oder zur Patentanwältin und zum/zur European Patent Attorney."
         ],
         "employers": "ca. 145",
@@ -22,25 +22,6 @@
             "breite Kenntnisse und Fähigkeiten im technischen/naturwissenschaftlichen Bereich ­— auch über Ihr Studienfach hinaus",
             "sehr gute Englischkenntnisse",
             "Spaß am Formulieren von Texten, die technische/naturwissenschaftliche Zusammenhänge beschreiben"
-        ]
-    },
-    
-    {
-        "name": "Schulministerium",
-        "ad": "/img/catalogue_ads/Schulministerium_2024.jpg",
-        "ad_format": "portrait",
-        "title": "",
-        "caption": "Deine Berufung ist es doch, Lehrkraft zu sein? Du hast aber kein Lehramtsstudium absolviert? Wir verraten dir, wie du als Seiteneinsteiger deinen Traumberuf trotzdem erreichst.",
-        "url": "https://www.lehrkraft-werden.nrw/seiteneinstieg-ins-lehramt",
-        "logo": "/img/logos/Ministerium_NRW.jpg",
-        "branche": "Bildung",
-        "contact": "Auskünfte zum Seiteneinstieg erhalten Sie bei der Landesweiten Beratungsstelle für Lehrämter an Schulen. Ebenso stehen Ihnen die Mitarbeiterinnen und Mitarbeiter der Einstellungsbüros der Bezirksregierung für eine individuelle Beratung gerne zur Verfügung. Die Kontaktdaten finden Sie <a href='https://www.schulministerium.nrw.de/BP/LEOTexte/Seiteneinstieg/Service_und_Beratung.pdf'>hier</a> ",
-        "text": "Flexibilität, Erfahrung oder Lernbereitschaft sind nur einige der Qualitäten, die Sie beim Seiteneinstieg als Lehrerin oder Lehrer mitbringen können. Im Lehramt können Sie ihre Berufserfahrung in einer abwechslungsreichen und erfüllenden Tätigkeit einbringen. Ob Handwerksmeister, Diplom, Bachelor oder Master, wir verraten Ihnen, wie Sie im Seiteneinstieg den Beruf einer Lehrkraft ergreifen können. <br> Informationen und weitere Beratung erhalten Sie hier: <br><ul><li><a href=https://www.lehrkraft-werden.nrw/seiteneinstieg-ins-lehramt>Website</a></li><li><a href=https://broschuerenservice.nrw.de/msb-duesseldorf/shop/Seiteneinstieg_in_den_Schuldienst>Broschüre</a></li></ul><p>",
-        "employers": "ca. 200.000 Lehrerinnen und Lehrer",
-        "locations": "NRW",
-        "qualifications": [
-            "Meisterbrief oder",
-            "Hochschulabschluss (Bachelor, Master, Diplom)"
         ]
     },
     {
@@ -61,6 +42,23 @@
         ]
     },
     {
+        "name": "Fraunhofer IMS",
+        "ad": "/img/catalogue_ads/FIMS_ad.jpg",
+        "ad_format": "portrait",
+        "title": "",
+        "caption": "",
+        "url": "https://www.ims.fraunhofer.de/de/Karriere.html",
+        "logo": "/img/logos/FIMS_Logo.svg",
+        "branche": "Öffentlicher Dienst, angewandte Forschung",
+        "contact": "Für Studierende: <br>Irini Tsiftsi <br> <a href='mailto:irini.tsiftsi@ims.fraunhofer.de'>irini.tsiftsi@ims.fraunhofer.de</a> <br> Für Berufseinsteiger/innen: <br>Adam Smieja <br> <a href='mailto:adam.smieja@ims.fraunhofer.de'>adam.smieja@ims.fraunhofer.de</a> <br>Bewerbungen dürfen ausschließlich über das Online-Bewerbungssystem auf unserer Karriereseite eingereicht werden.",
+        "text": "Elektronik für die Energiewende, Sensoren für eine sichere Lebensmittelversorgung oder KI für personalisierte Medizin - diese Themen möchtest du gerne vorantreiben? <br><br> Wir am Fraunhofer IMS bieten dir dafür das inspirierende Umfeld: von kreativen Teams, die mit dir gemeinsam erste Gedanken in sinnvolle Ideen kanalisieren bis hin zu unseren Reinräumen, wo diese Ideen Schritt für Schritt in Industriequalität Realität werden. <br>Steig studienbegleitend im Rahmen eines Praktikums oder als studentische Hilfskraft ein oder starte nach dem Master direkt mit der Promotion durch. ",
+        "employers": "Ca. 250 in Duisburg",
+        "locations": "Duisburg",
+        "qualifications": [
+            "Je nach Stelle unterschiedlich"
+        ]
+    },
+    {
         "name": "Green IT",
         "ad": "/img/catalogue_ads/GREEN_IT_ad.jpg",
         "ad_format": "portrait",
@@ -70,7 +68,7 @@
         "logo": "/img/logos/GREEN_IT_Logo.svg",
         "branche": "IT-Dienstleistungen",
         "contact": "Alina Wiele <br> People & Culture Manager <br> <a href='mailto:bewerbung@greenit.systems'>bewerbung@greenit.systems</a>",
-        "text": "Wir sind ein IT-Dienstleister mit Hauptsitz in Dortmund, Standorten in Oberhausen, Hagen und Hannover und Service-Centern in Herdecke, Hamburg und München. Unser Spezialgebiet: nachhaltige und skalierbare Lösungskonzepte für den digitalen Büroalltag. Unsere Kunden: angefangen bei Kleinunternehmen bis hin zu Großkonzernen. Unsere Mission: maximale Kundenzufriedenheit und ein wertvoller Beitrag zum Umweltschutz durch den Einsatz ressourcenschonender Technologien.",
+        "text": "Wir sind ein IT-Dienstleister mit Hauptsitz in Dortmund, Standorten in Oberhausen, Hagen und Hannover und Service-Centern in Herdecke, Hamburg und München.<br>Unser Spezialgebiet: nachhaltige und skalierbare Lösungskonzepte für den digitalen Büroalltag. <br>Unsere Kunden: angefangen bei Kleinunternehmen bis hin zu Großkonzernen. <br>Unsere Mission: maximale Kundenzufriedenheit und ein wertvoller Beitrag zum Umweltschutz durch den Einsatz ressourcenschonender Technologien.",
         "employers": "260",
         "locations": "Dortmund, Hagen, Oberhausen Hannover, Herdecke",
         "qualifications": [
@@ -78,20 +76,38 @@
         ]
     },
     {
-        "name": "Fraunhofer IMS",
-        "ad": "/img/catalogue_ads/FIMS_ad.jpg",
-        "ad_format": "portrait",
+        "name": "ROSEN",
         "title": "",
         "caption": "",
-        "url": "https://www.ims.fraunhofer.de/de/Karriere.html",
-        "logo": "/img/logos/FIMS_Logo.svg",
-        "branche": "Öffentlicher Dienst, angewandte Forschung",
-        "contact": "Für studierende: Irini Tsiftsi <br> <a href='mailto:irini.tsiftsi@ims.fraunhofer.de'>irini.tsiftsi@ims.fraunhofer.de</a> <br> Für Berufseinsteiger/innen: Adam Smieja <br> <a href='mailto:adam.smieja@ims.fraunhofer.de'>adam.smieja@ims.fraunhofer.de</a> <br>Bewerbungen dürfen ausschließlich über das Online-Bewerbungssystem auf unserer Karriereseite eingereicht werden.",
-        "text": "Elektronik für die Energiewende, Sensoren für eine sichere Lebensmittelversorgung oder KI für personalisierte Medizin – diese Themen möchtest du gerne vorantreiben? Wir am Fraunhofer IMS bieten dir dafür das inspirierende Umfeld: von kreativen Teams, die mit dir gemeinsam erste Gedanken in sinnvolle Ideen kanalisieren bis hin zu unseren Reinräumen, wo diese Ideen Schritt für Schritt in Industriequalität Realität werden. Steig studienbegleitend im Rahmen eines Praktikums oder als studentische Hilfskraft ein oder starte nach dem Master direkt mit der Promotion durch. ",
-        "employers": "Ca. 250 in Duisburg",
-        "locations": "Duisburg",
+        "logo": "/img/logos/ROSEN_logo.jpg",
+        "url": "https://www.rosen-group.com/en/careers",
+        "ad": "/img/catalogue_ads/Rosen_Anzeige.jpg",
+        "ad_format": "landscape",
+        "branche": "Dienstleistung für Öl- und Gasbranche",
+        "contact": "Kerstin Lange <br> <a href='mailto:hr-lin@rosen-group.com'>hr-lin@rosen-group.com</a>",
+        "text": "Die ROSEN Gruppe ist ein weltweit führender Anbieter von innovativen Lösungen in allen Bereichen der Integritätsprozesskette. Seit den Anfängen als Ein-Mann-Betrieb im Jahr 1981 ist ROSEN rasant gewachsen und ist heute eine in mehr als 110 Ländern operierende Technologiegruppe mit über 4.000 hochqualifizierten MitarbeiterInnen. <br> Der Leistungsumfang der ROSEN Gruppe: <br><ul style='font-size: 1.2rem'><li>Inspektionen von industriellen Anlagen, um den sicheren und verlässlichen Betrieb nach den höchsten Standards zu gewährleisten </li><li>Individuelles Engineering, das effizientes Anlagen-Integritätsmanagement ermöglicht</li><li>Produktion und Vertrieb mit neuartigen Produkten und Systemen</li><li>Marktorientierte, aktuelle Forschung und Entwicklung nach dem neuesten Stand der Technik, die Produkte und Dienstleistungen mit <q>Mehrwert</q> bietet</li></ul>",
+        "employers": "4.000 weltweit, davon ca. 1.800 in Deutschland",
+        "locations": "25 weltweit, in Deutschland in Lingen (Ems), Osnabrück und Stutensee (Raum Karlsruhe)",
         "qualifications": [
-            "Je nach Stelle unterschiedlich"
+            "Programmierkenntnisse mit Python"
+        ]
+    },
+    {
+        "name": "Schulministerium",
+        "ad": "/img/catalogue_ads/Schulministerium_2024.jpg",
+        "ad_format": "portrait",
+        "title": "",
+        "caption": "Deine Berufung ist es doch, Lehrkraft zu sein? Du hast aber kein Lehramtsstudium absolviert? Wir verraten dir, wie du als Seiteneinsteiger deinen Traumberuf trotzdem erreichst.",
+        "url": "https://www.lehrkraft-werden.nrw/seiteneinstieg-ins-lehramt",
+        "logo": "/img/logos/Ministerium_NRW.jpg",
+        "branche": "Öffentlicher Dienst",
+        "contact": "Persönliche Beratung: <br> Tel.: +49 231 9369 7770 <br> <a href='mailto:beratung@lehrer-werden.nrw.de'>beratung@lehrer-werden.nrw.de</a>",
+        "text": "Flexibilität, Erfahrung oder Lernbereitschaft sind nur einige der Qualitäten, die Sie beim Seiteneinstieg als Lehrerin oder Lehrer mitbringen können. Im Lehramt können Sie ihre Berufserfahrung in einer abwechslungsreichen und erfüllenden Tätigkeit einbringen. Ob Handwerksmeister, Diplom, Bachelor oder Master, wir verraten Ihnen, wie Sie im Seiteneinstieg den Beruf einer Lehrkraft ergreifen können. <br> Informationen und weitere Beratung erhalten Sie hier: <br><ul style='font-size: 1.2rem'><li><a href='https://www.lehrkraft-werden.nrw/seiteneinstieg-ins-lehramt'>Webseite</a></li><li><a href='https://www.schulministerium.nrw.de/BP/LEOTexte/Seiteneinstieg/Service_und_Beratung.pdf'>Broschüre</a></li><li><a href='https://www.schulministerium.nrw.de/BiPo/LOIS/angebote'>Stellenportal</a></li></ul><p>",
+        "employers": "Circa 200.000 Lehrerinnen und Lehrer",
+        "locations": "Schulen in ganz Nordrhein-Westfalen",
+        "qualifications": [
+            "Hochschulabschluss (Bachelor, Master, Diplom) oder Meistertitel",
+            "Architektur, Bauingenieurwesen, Chemie, Chem.-Ing / Verf.-technik, Elektrotechnik, Fahrzeugtechnik, Feinwerktechnik, Informatik, Luft- und Raumfahrttechnik, Maschinenbau, Materialwissenschaften, Mathematik, Mechatronik, Medizin, Physik, Technische Informatik, Verfahrenstechnik, Wirt.-Ing. Bauingenieur, Wirt.-Ing. Elektrotechnik, Wirt.-Ing., Maschinenbau, Wirtschaftsinformatik"
         ]
     }
 ]
