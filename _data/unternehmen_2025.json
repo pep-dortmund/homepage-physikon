@@ -76,6 +76,28 @@
         ]
     },
     {
+        "name": "RI Research Instruments",
+        "ad": "/img/catalogue_ads/RI_reinraeume_ad.jpg",
+        "ad_format": "portrait",
+        "title": "",
+        "caption": "",
+        "url": "https://research-instruments.de/de/career/",
+        "logo": "/img/logos/RI_Research_Instruments.jpg",
+        "branche": "Maschinenbau, wissenschaftlicher Apparatebau, Semicon",
+        "contact": "Annika Selbach <br> <a href='mailto:bewerbung@research-instruments.de'>bewerbung@research-instruments.de</a>",
+        "text": "RI Research Instruments steht für Innovation und Hightech. Als modernes, expandierendes und weltweit tätiges Ingenieur- und Fertigungsunternehmen entwickeln und fertigen wir Hochleistungskomponenten und -systeme für Wissenschaft und Industrie – von Prototypen und maßgeschneiderten Komponenten bis hin zur Serienfertigung und schlüsselfertigen Systemen. Unser Ziel: selbst die anspruchsvollsten Anforderungen unserer Kunden zu erfüllen. Denn bei uns lautet die Devise: „Geht nicht, gibt’s nicht!“.",
+        "employers": "> 400",
+        "locations": "Bergisch Gladbach, Dortmund",
+        "qualifications": [
+            "Technische Expertise",
+            "Innovation und Kreativität",
+            "Teamfähigkeit",
+            "Analytische Fähigkeit",
+            "Projektmanagement",
+            "Kommunikationsfähigkeit"
+        ]
+    },
+    {
         "name": "ROSEN",
         "title": "",
         "caption": "",
@@ -108,28 +130,6 @@
         "qualifications": [
             "Hochschulabschluss (Bachelor, Master, Diplom) oder Meistertitel",
             "Architektur, Bauingenieurwesen, Chemie, Chem.-Ing / Verf.-technik, Elektrotechnik, Fahrzeugtechnik, Feinwerktechnik, Informatik, Luft- und Raumfahrttechnik, Maschinenbau, Materialwissenschaften, Mathematik, Mechatronik, Medizin, Physik, Technische Informatik, Verfahrenstechnik, Wirt.-Ing. Bauingenieur, Wirt.-Ing. Elektrotechnik, Wirt.-Ing., Maschinenbau, Wirtschaftsinformatik"
-        ]
-    },
-    {
-        "name": "RI Research Instruments",
-        "ad": "/img/catalogue_ads/RI_reinraeume_ad.jpg",
-        "ad_format": "portrait",
-        "title": "",
-        "caption": "",
-        "url": "https://research-instruments.de/de/career/",
-        "logo": "/img/logos/RI_Research_Instruments.jpg",
-        "branche": "Maschinenbau, wissenschaftlicher Apparatebau, Semicon",
-        "contact": "Annika Selbach <br> <a href='mailto:bewerbung@research-instruments.de'>bewerbung@research-instruments.de</a>",
-        "text": "RI Research Instruments steht für Innovation und Hightech. Als modernes, expandierendes und weltweit tätiges Ingenieur- und Fertigungsunternehmen entwickeln und fertigen wir Hochleistungskomponenten und -systeme für Wissenschaft und Industrie – von Prototypen und maßgeschneiderten Komponenten bis hin zur Serienfertigung und schlüsselfertigen Systemen. Unser Ziel: selbst die anspruchsvollsten Anforderungen unserer Kunden zu erfüllen. Denn bei uns lautet die Devise: „Geht nicht, gibt’s nicht!“.",
-        "employers": "> 400",
-        "locations": "Bergisch Gladbach, Dortmund",
-        "qualifications": [
-            "Technische Expertise",
-            "Innovation und Kreativität",
-            "Teamfähigkeit",
-            "Analytische Fähigkeit",
-            "Projektmanagement",
-            "Kommunikationsfähigkeit"
         ]
     }
 ]
