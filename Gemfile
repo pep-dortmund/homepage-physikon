@@ -31,3 +31,6 @@ gem "html-proofer", "~> 3.19"
 gem "kramdown", "~> 2.3"
 
 gem "webrick", "~> 1.8"
+gem "logger"
+gem "csv"
+gem "base64"
