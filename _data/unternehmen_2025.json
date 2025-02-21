@@ -25,6 +25,21 @@
         ]
     },
     {
+        "name": "Finanz Informatik",
+        "ad": "/img/catalogue_ads/ad_fi.jpg",
+        "ad_format": "landscape",
+        "title": "",
+        "caption": "",
+        "url": "https://www.f-i.de/",
+        "logo": "/img/logos/fi_logo.jpg",
+        "branche": "IT-Dienstleistung",
+        "contact": "Aylin Shahabi <br>  <a href='mailto:aylin.shahabi@f-i.de'>aylin.shahabi@f-i.de</a>",
+        "text": "Die Finanz Informatik mit Standorten in Münster, Hannover und Frankfurt ist der IT-Dienstleister und Digitalisierungspartner der Sparkassen-Finanzgruppe und treibt maßgeblich das Banking der Zukunft voran. Wir bieten spannende Werkstudententätigkeiten, Traineeprogramme sowie Stellen für den Direkteinstieg für Young Professionals und Professionals an. Egal ob Informatik, Wirtschaft, Naturwissenschaften oder eine andere spannende Fachrichtung - wir freuen uns darauf, Dich kennenzulernen!",
+        "employers": "Über 5000",
+        "locations": "Frankfurt, Hannover, Münster",
+        "qualifications": "keine"
+    },
+    {
         "name": "Forschungszentrum Jülich",
         "ad": "/img/catalogue_ads/FZJ_ad.jpg",
         "ad_format": "portrait",
@@ -130,6 +145,24 @@
         "qualifications": [
             "Hochschulabschluss (Bachelor, Master, Diplom) oder Meistertitel",
             "Architektur, Bauingenieurwesen, Chemie, Chem.-Ing / Verf.-technik, Elektrotechnik, Fahrzeugtechnik, Feinwerktechnik, Informatik, Luft- und Raumfahrttechnik, Maschinenbau, Materialwissenschaften, Mathematik, Mechatronik, Medizin, Physik, Technische Informatik, Verfahrenstechnik, Wirt.-Ing. Bauingenieur, Wirt.-Ing. Elektrotechnik, Wirt.-Ing., Maschinenbau, Wirtschaftsinformatik"
+        ]
+    },
+    {
+        "name": "Wetteronline",
+        "ad": "/img/catalogue_ads/wetteronline_ad.png",
+        "ad_format": "portrait",
+        "title": "",
+        "caption": "",
+        "url": "https://wo.wetteronline.de/karriere/",
+        "logo": "/img/logos/wetteronline_logo.png",
+        "branche": "Dienstleistungen",
+        "contact": "Marie Rentschler & Mejgan Baumann <br> <a href='mailto:bewerbung@wetteronline.de'>bewerbung@wetteronline.de</a>",
+        "text": "Rund 160 Mitarbeiter sorgen weltweit bei WetterOnline nicht nur für eine besonders präzise Wettervorhersage, sondern auch für ein gutes Arbeitsklima. Ein engagiertes Team mit vielen Aufgabenbereichen und eigenem Entwicklungsspielraum erwartet dich. Egal, ob du uns an einem unserer vier Standorte (Bonn, Bornheim, Coventry, Miami) oder nach vorheriger Absprache remote bereicherst – wir freuen uns auf deine Unterstützung.",
+        "employers": "164",
+        "locations": "Bonn, Bornheim, Coventry, Miami",
+        "qualifications": [
+            "In Stellenanzeige gewünschte Qualifikationen",
+            "Grundsätzliches Interesse am Thema Wetter"
         ]
     }
 ]
