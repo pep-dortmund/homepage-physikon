@@ -25,6 +25,21 @@
         ]
     },
     {
+        "name": "Finanz Informatik",
+        "ad": "/img/catalogue_ads/ad_fi.jpg",
+        "ad_format": "landscape",
+        "title": "",
+        "caption": "",
+        "url": "https://www.f-i.de/",
+        "logo": "/img/logos/fi_logo.jpg",
+        "branche": "IT-Dienstleistung",
+        "contact": "Aylin Shahabi <br>  <a href='mailto:aylin.shahabi@f-i.de'>aylin.shahabi@f-i.de</a>",
+        "text": "Die Finanz Informatik mit Standorten in Münster, Hannover und Frankfurt ist der IT-Dienstleister und Digitalisierungspartner der Sparkassen-Finanzgruppe und treibt maßgeblich das Banking der Zukunft voran. Wir bieten spannende Werkstudententätigkeiten, Traineeprogramme sowie Stellen für den Direkteinstieg für Young Professionals und Professionals an. Egal ob Informatik, Wirtschaft, Naturwissenschaften oder eine andere spannende Fachrichtung - wir freuen uns darauf, Dich kennenzulernen!",
+        "employers": "Über 5000",
+        "locations": "Frankfurt, Hannover, Münster",
+        "qualifications": "keine"
+    },
+    {
         "name": "Forschungszentrum Jülich",
         "ad": "/img/catalogue_ads/FZJ_ad.jpg",
         "ad_format": "portrait",
@@ -149,20 +164,5 @@
             "In Stellenanzeige gewünschte Qualifikationen",
             "Grundsätzliches Interesse am Thema Wetter"
         ]
-    },
-    {
-        "name": "Finanz Informatik",
-        "ad": "/img/catalogue_ads/ad_fi.jpg",
-        "ad_format": "landscape",
-        "title": "",
-        "caption": "",
-        "url": "https://www.f-i.de/",
-        "logo": "/img/logos/fi_logo.jpg",
-        "branche": "IT-Dienstleistung",
-        "contact": "Aylin Shahabi <br>  <a href='mailto:aylin.shahabi@f-i.de'>aylin.shahabi@f-i.de</a>",
-        "text": "Die Finanz Informatik mit Standorten in Münster, Hannover und Frankfurt ist der IT-Dienstleister und Digitalisierungspartner der Sparkassen-Finanzgruppe und treibt maßgeblich das Banking der Zukunft voran. Wir bieten spannende Werkstudententätigkeiten, Traineeprogramme sowie Stellen für den Direkteinstieg für Young Professionals und Professionals an. Egal ob Informatik, Wirtschaft, Naturwissenschaften oder eine andere spannende Fachrichtung - wir freuen uns darauf, Dich kennenzulernen!",
-        "employers": "Über 5000",
-        "locations": "Frankfurt, Hannover, Münster",
-        "qualifications": "keine"
     }
 ]
