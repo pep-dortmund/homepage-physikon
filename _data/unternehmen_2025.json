@@ -91,6 +91,25 @@
         ]
     },
     {
+        "name": "Powerlines Energy Germany",
+        "ad": "/img/catalogue_ads/Powerlines_Anzeigenbild.jpg",
+        "ad_format": "portrait",
+        "title": "",
+        "caption": "",
+        "url": "http://karriere.powerlines-group.com/",
+        "logo": "/img/logos/Powerlines_Logo_cropped.jpg",
+        "branche": "Freileitungsbau mit Engineeringabteilung (Trassierung und Statik)",
+        "contact": "Hildegard Gack <br> Bereichsleiterin Personal <br> <a href='mailto:hildegard.gack@powerlines-group.com'>hildegard.gack@powerlines-group.com</a>",
+        "text": "Die Powerlines Energy ist ein führender Anbieter in der Errichtung von Energieübertragungsinfrastruktur im deutschsprachigen Raum. Wir haben die Expertise und das Know-how für die Planung, Errichtung und Wartung von Hochspannungsleitungen bis 400 kV. <br><br>Als Generalunternehmer bieten wir unseren Kunden das komplette Leistungsspektrum und unterstützen sie bei der zuverlässigen Abwicklung ihrer Infrastrukturprojekte. <br><br>Unsere Mitarbeiter:innen arbeiten tagtäglich an der sicheren Stromversorgung der Zukunft – werden auch Sie ein Teil unseres Teams!",
+        "employers": "185",
+        "locations": "Zentrale Achstetten, <br>Niederlassung in Kirchlengern,<br> Projektbüros in Karlstein und Halle/Saale;<br> Grevenmacher (LUX)",
+        "qualifications": [
+            "Kenntnisse in Bau- oder Energietechnik",
+            "Projektmanagement",
+            "kaufm. Kenntnisse und Interesse für kaufm. Zusammenhänge"
+        ]
+    },
+    {
         "name": "RI Research Instruments",
         "ad": "/img/catalogue_ads/RI_reinraeume_ad.jpg",
         "ad_format": "portrait",
