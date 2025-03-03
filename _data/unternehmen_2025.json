@@ -1,187 +1,201 @@
 [
-    {
-        "name": "COHAUSZ & FLORACK",
-        "ad": "/img/catalogue_ads/CohauszFlorack_ad_2025.png",
-        "ad_format": "portrait",
-        "title": "Great ideas start with you.",
-        "caption": "",
-        "url": "https://www.cohausz-florack.de/karriere/studierende-absolventen/",
-        "logo": "/img/logos/COHAUSZ_FLORACK.jpg",
-        "branche": "Rechtsberatung, Dienstleistungen",
-        "contact": "Andrea Funk<br> <a href='mailto:bewerbung@cohausz-florack.de'>bewerbung@cohausz-florack.de</a>",
-        "text": [
-            "COHAUSZ & FLORACK ist eine Sozietät aus Patent- und Rechtsanwälten, die sich seit über 70 Jahren als Kanzlei dafür einsetzt, dass Ideen geschützt werden – zum Beispiel in Form von Patenten, Marken und Designs.<br>",
-            "Zu unseren Mandanten gehören internationale Konzerne ebenso wie mittelständische Unternehmen aus Deutschland, denen wir bei allen Fragen rund um den gewerblichen Rechtsschutz, unlauteren Wettbewerb, Urheberrecht sowie in angrenzenden Rechtsgebieten beiseite stehen.<br>",
-            "Unser Team besteht derzeit aus rund 145 Mitarbeitenden, die gemeinsam dafür sorgen, dass es sich lohnt, erfinderisch zu sein und so dazu beitragen, dass unsere Gesellschaft innovationsfreudig sowie wettbewerbsfähig bleibt und sich gut und gerne weiterentwickelt.<br>",
-            "Unseren Erfolg als Kanzlei verdanken wir vor allem unserem Team. Damit das so bleibt, haben wir ein Umfeld geschaffen, in dem man gerne arbeitet. Wir legen großen Wert auf ein freundliches und kollegiales Miteinander sowie eine respektvolle und offene Kommunikation.<br>",
-            "Wir suchen Absolventinnen und Absolventen der Fachbereiche Elektro- und Informationstechnik, Maschinenbau, Physik und Chemie für die Ausbildung zum Patentanwalt oder zur Patentanwältin und zum/zur European Patent Attorney."
-        ],
-        "employers": "ca. 145",
-        "locations": "Düsseldorf (Haupt- und Ausbildungsstandort), München",
-        "qualifications": [
-            "breite Kenntnisse und Fähigkeiten im technischen/naturwissenschaftlichen Bereich ­— auch über Ihr Studienfach hinaus",
-            "sehr gute Englischkenntnisse",
-            "Spaß am Formulieren von Texten, die technische/naturwissenschaftliche Zusammenhänge beschreiben"
-        ]
-    },
-    {
-        "name": "Finanz Informatik",
-        "ad": "/img/catalogue_ads/ad_fi.jpg",
-        "ad_format": "landscape",
-        "title": "",
-        "caption": "",
-        "url": "https://www.f-i.de/",
-        "logo": "/img/logos/fi_logo.jpg",
-        "branche": "IT-Dienstleistung",
-        "contact": "Aylin Shahabi <br>  <a href='mailto:aylin.shahabi@f-i.de'>aylin.shahabi@f-i.de</a>",
-        "text": "Die Finanz Informatik mit Standorten in Münster, Hannover und Frankfurt ist der IT-Dienstleister und Digitalisierungspartner der Sparkassen-Finanzgruppe und treibt maßgeblich das Banking der Zukunft voran. Wir bieten spannende Werkstudententätigkeiten, Traineeprogramme sowie Stellen für den Direkteinstieg für Young Professionals und Professionals an. Egal ob Informatik, Wirtschaft, Naturwissenschaften oder eine andere spannende Fachrichtung - wir freuen uns darauf, Dich kennenzulernen!",
-        "employers": "Über 5000",
-        "locations": "Frankfurt, Hannover, Münster",
-        "qualifications": "keine"
-    },
-    {
-        "name": "Forschungszentrum Jülich",
-        "ad": "/img/catalogue_ads/FZJ_ad.jpg",
-        "ad_format": "portrait",
-        "title": "",
-        "caption": "",
-        "url": "https://www.fz-juelich.de/karriere",
-        "logo": "/img/logos/FZJ_Logo.png",
-        "branche": "Wissenschaft und Forschung",
-        "contact": "Alissa Aarts <br> Personalentwicklung und Recruiting <br> <a href='mailto:a.aarts@fz-juelich.de'>a.aarts@fz-juelich.de</a>",
-        "text": "Forschung für eine Gesellschaft im Wandel: Das ist unser Antrieb im Forschungszentrum Jülich. Als Mitglied der Helmholtz-Gemeinschaft stellen wir uns den großen gesellschaftlichen Herausforderungen unserer Zeit und erforschen interdisziplinär die digitalisierte Gesellschaft, ein klimaschonendes Energiesystem und nachhaltiges Wirtschaften. Arbeite gemeinsam mit mehr als 7.400 Kolleginnen und Kollegen in einem der größten Forschungszentren Europas und gestalte den Wandel mit uns!",
-        "employers": "Über 7400 Mitarbeiter:innen",
-        "locations": "Jülich, Berlin, Rostock, München-Garching, Düsseldorf, Münster, Erlangen-Nürnberg, Bonn, Hamburg, Freiburg",
-        "qualifications": [
-            "Die Anforderungen sind je nach Stelle individuell. <br>Grundsätzlich sollten Bewerber:innen im wissenschaftlichen Umfeld arbeiten, Neugier an der Lösung herausfordernder Fragestellungen mitbringen und an der Arbeit in internationalen und interdisziplinären Teams interessiert sein. "
-        ]
-    },
-    {
-        "name": "Fraunhofer IMS",
-        "ad": "/img/catalogue_ads/FIMS_ad.jpg",
-        "ad_format": "portrait",
-        "title": "",
-        "caption": "",
-        "url": "https://www.ims.fraunhofer.de/de/Karriere.html",
-        "logo": "/img/logos/FIMS_Logo.svg",
-        "branche": "Öffentlicher Dienst, angewandte Forschung",
-        "contact": "Für Studierende: <br>Irini Tsiftsi <br> <a href='mailto:irini.tsiftsi@ims.fraunhofer.de'>irini.tsiftsi@ims.fraunhofer.de</a> <br> Für Berufseinsteiger/innen: <br>Adam Smieja <br> <a href='mailto:adam.smieja@ims.fraunhofer.de'>adam.smieja@ims.fraunhofer.de</a> <br>Bewerbungen dürfen ausschließlich über das Online-Bewerbungssystem auf unserer Karriereseite eingereicht werden.",
-        "text": "Elektronik für die Energiewende, Sensoren für eine sichere Lebensmittelversorgung oder KI für personalisierte Medizin - diese Themen möchtest du gerne vorantreiben? <br><br> Wir am Fraunhofer IMS bieten dir dafür das inspirierende Umfeld: von kreativen Teams, die mit dir gemeinsam erste Gedanken in sinnvolle Ideen kanalisieren bis hin zu unseren Reinräumen, wo diese Ideen Schritt für Schritt in Industriequalität Realität werden. <br>Steig studienbegleitend im Rahmen eines Praktikums oder als studentische Hilfskraft ein oder starte nach dem Master direkt mit der Promotion durch. ",
-        "employers": "Ca. 250 in Duisburg",
-        "locations": "Duisburg",
-        "qualifications": [
-            "Je nach Stelle unterschiedlich"
-        ]
-    },
-    {
-        "name": "Green IT",
-        "ad": "/img/catalogue_ads/GREEN_IT_ad.jpg",
-        "ad_format": "portrait",
-        "title": "",
-        "caption": "",
-        "url": " https://jobs.greenit.systems/jobportal/#!/portal",
-        "logo": "/img/logos/GREEN_IT_Logo.svg",
-        "branche": "IT-Dienstleistungen",
-        "contact": "Alina Wiele <br> People & Culture Manager <br> <a href='mailto:bewerbung@greenit.systems'>bewerbung@greenit.systems</a>",
-        "text": "Wir sind ein IT-Dienstleister mit Hauptsitz in Dortmund, Standorten in Oberhausen, Hagen und Hannover und Service-Centern in Herdecke, Hamburg und München.<br>Unser Spezialgebiet: nachhaltige und skalierbare Lösungskonzepte für den digitalen Büroalltag. <br>Unsere Kunden: angefangen bei Kleinunternehmen bis hin zu Großkonzernen. <br>Unsere Mission: maximale Kundenzufriedenheit und ein wertvoller Beitrag zum Umweltschutz durch den Einsatz ressourcenschonender Technologien.",
-        "employers": "260",
-        "locations": "Dortmund, Hagen, Oberhausen Hannover, Herdecke",
-        "qualifications": [
-            "Keine"
-        ]
-    },
-    {
-        "name": "Powerlines Energy Germany",
-        "ad": "/img/catalogue_ads/Powerlines_Anzeigenbild.jpg",
-        "ad_format": "portrait",
-        "title": "",
-        "caption": "",
-        "url": "http://karriere.powerlines-group.com/",
-        "logo": "/img/logos/Powerlines_Logo_cropped.jpg",
-        "branche": "Freileitungsbau mit Engineeringabteilung (Trassierung und Statik)",
-        "contact": "Hildegard Gack <br> Bereichsleiterin Personal <br> <a href='mailto:hildegard.gack@powerlines-group.com'>hildegard.gack@powerlines-group.com</a>",
-        "text": "Die Powerlines Energy ist ein führender Anbieter in der Errichtung von Energieübertragungsinfrastruktur im deutschsprachigen Raum. Wir haben die Expertise und das Know-how für die Planung, Errichtung und Wartung von Hochspannungsleitungen bis 400 kV. <br><br>Als Generalunternehmer bieten wir unseren Kunden das komplette Leistungsspektrum und unterstützen sie bei der zuverlässigen Abwicklung ihrer Infrastrukturprojekte. <br><br>Unsere Mitarbeiter:innen arbeiten tagtäglich an der sicheren Stromversorgung der Zukunft – werden auch Sie ein Teil unseres Teams!",
-        "employers": "185",
-        "locations": "Zentrale Achstetten, <br>Niederlassung in Kirchlengern,<br> Projektbüros in Karlstein und Halle/Saale;<br> Grevenmacher (LUX)",
-        "qualifications": [
-            "Kenntnisse in Bau- oder Energietechnik",
-            "Projektmanagement",
-            "kaufm. Kenntnisse und Interesse für kaufm. Zusammenhänge"
-        ]
-    },
-    {
-        "name": "RI Research Instruments",
-        "ad": "/img/catalogue_ads/RI_reinraeume_ad.jpg",
-        "ad_format": "portrait",
-        "title": "",
-        "caption": "",
-        "url": "https://research-instruments.de/de/career/",
-        "logo": "/img/logos/RI_Research_Instruments.jpg",
-        "branche": "Maschinenbau, wissenschaftlicher Apparatebau, Semicon",
-        "contact": "Annika Selbach <br> <a href='mailto:bewerbung@research-instruments.de'>bewerbung@research-instruments.de</a>",
-        "text": "RI Research Instruments steht für Innovation und Hightech. Als modernes, expandierendes und weltweit tätiges Ingenieur- und Fertigungsunternehmen entwickeln und fertigen wir Hochleistungskomponenten und -systeme für Wissenschaft und Industrie – von Prototypen und maßgeschneiderten Komponenten bis hin zur Serienfertigung und schlüsselfertigen Systemen. Unser Ziel: selbst die anspruchsvollsten Anforderungen unserer Kunden zu erfüllen. Denn bei uns lautet die Devise: „Geht nicht, gibt’s nicht!“.",
-        "employers": "> 400",
-        "locations": "Bergisch Gladbach, Dortmund",
-        "qualifications": [
-            "Technische Expertise",
-            "Innovation und Kreativität",
-            "Teamfähigkeit",
-            "Analytische Fähigkeit",
-            "Projektmanagement",
-            "Kommunikationsfähigkeit"
-        ]
-    },
-    {
-        "name": "ROSEN",
-        "title": "",
-        "caption": "",
-        "logo": "/img/logos/ROSEN_logo.jpg",
-        "url": "https://www.rosen-group.com/en/careers",
-        "ad": "/img/catalogue_ads/Rosen_Anzeige.jpg",
-        "ad_format": "landscape",
-        "branche": "Dienstleistung für Öl- und Gasbranche",
-        "contact": "Kerstin Lange <br> <a href='mailto:hr-lin@rosen-group.com'>hr-lin@rosen-group.com</a>",
-        "text": "Die ROSEN Gruppe ist ein weltweit führender Anbieter von innovativen Lösungen in allen Bereichen der Integritätsprozesskette. Seit den Anfängen als Ein-Mann-Betrieb im Jahr 1981 ist ROSEN rasant gewachsen und ist heute eine in mehr als 110 Ländern operierende Technologiegruppe mit über 4.000 hochqualifizierten MitarbeiterInnen. <br> Der Leistungsumfang der ROSEN Gruppe: <br></p><ul style='font-size: 1.2rem'><li>Inspektionen von industriellen Anlagen, um den sicheren und verlässlichen Betrieb nach den höchsten Standards zu gewährleisten </li><li>Individuelles Engineering, das effizientes Anlagen-Integritätsmanagement ermöglicht</li><li>Produktion und Vertrieb mit neuartigen Produkten und Systemen</li><li>Marktorientierte, aktuelle Forschung und Entwicklung nach dem neuesten Stand der Technik, die Produkte und Dienstleistungen mit <q>Mehrwert</q> bietet</li></ul><p>",
-        "employers": "4.000 weltweit, davon ca. 1.800 in Deutschland",
-        "locations": "25 weltweit, in Deutschland in Lingen (Ems), Osnabrück und Stutensee (Raum Karlsruhe)",
-        "qualifications": [
-            "Programmierkenntnisse mit Python"
-        ]
-    },
-    {
-        "name": "Schulministerium",
-        "ad": "/img/catalogue_ads/Schulministerium_2024.jpg",
-        "ad_format": "portrait",
-        "title": "",
-        "caption": "Deine Berufung ist es doch, Lehrkraft zu sein? Du hast aber kein Lehramtsstudium absolviert? Wir verraten dir, wie du als Seiteneinsteiger deinen Traumberuf trotzdem erreichst.",
-        "url": "https://www.lehrkraft-werden.nrw/seiteneinstieg-ins-lehramt",
-        "logo": "/img/logos/Ministerium_NRW.jpg",
-        "branche": "Öffentlicher Dienst",
-        "contact": "Persönliche Beratung: <br> Tel.: +49 231 9369 7770 <br> <a href='mailto:beratung@lehrer-werden.nrw.de'>beratung@lehrer-werden.nrw.de</a>",
-        "text": "Flexibilität, Erfahrung oder Lernbereitschaft sind nur einige der Qualitäten, die Sie beim Seiteneinstieg als Lehrerin oder Lehrer mitbringen können. Im Lehramt können Sie ihre Berufserfahrung in einer abwechslungsreichen und erfüllenden Tätigkeit einbringen. Ob Handwerksmeister, Diplom, Bachelor oder Master, wir verraten Ihnen, wie Sie im Seiteneinstieg den Beruf einer Lehrkraft ergreifen können. <br> Informationen und weitere Beratung erhalten Sie hier: <br></p><ul style='font-size: 1.2rem'><li><a href='https://www.lehrkraft-werden.nrw/seiteneinstieg-ins-lehramt'>Webseite</a></li><li><a href='https://www.schulministerium.nrw.de/BP/LEOTexte/Seiteneinstieg/Service_und_Beratung.pdf'>Broschüre</a></li><li><a href='https://www.schulministerium.nrw.de/BiPo/LOIS/angebote'>Stellenportal</a></li></ul><p>",
-        "employers": "Circa 200.000 Lehrerinnen und Lehrer",
-        "locations": "Schulen in ganz Nordrhein-Westfalen",
-        "qualifications": [
-            "Hochschulabschluss (Bachelor, Master, Diplom) oder Meistertitel",
-            "Architektur, Bauingenieurwesen, Chemie, Chem.-Ing / Verf.-technik, Elektrotechnik, Fahrzeugtechnik, Feinwerktechnik, Informatik, Luft- und Raumfahrttechnik, Maschinenbau, Materialwissenschaften, Mathematik, Mechatronik, Medizin, Physik, Technische Informatik, Verfahrenstechnik, Wirt.-Ing. Bauingenieur, Wirt.-Ing. Elektrotechnik, Wirt.-Ing., Maschinenbau, Wirtschaftsinformatik"
-        ]
-    },
-    {
-        "name": "Wetteronline",
-        "ad": "/img/catalogue_ads/wetteronline_ad.png",
-        "ad_format": "portrait",
-        "title": "",
-        "caption": "",
-        "url": "https://wo.wetteronline.de/karriere/",
-        "logo": "/img/logos/wetteronline_logo.png",
-        "branche": "Dienstleistungen",
-        "contact": "Marie Rentschler & Mejgan Baumann <br> <a href='mailto:bewerbung@wetteronline.de'>bewerbung@wetteronline.de</a>",
-        "text": "Rund 160 Mitarbeiter sorgen weltweit bei WetterOnline nicht nur für eine besonders präzise Wettervorhersage, sondern auch für ein gutes Arbeitsklima. Ein engagiertes Team mit vielen Aufgabenbereichen und eigenem Entwicklungsspielraum erwartet dich. Egal, ob du uns an einem unserer vier Standorte (Bonn, Bornheim, Coventry, Miami) oder nach vorheriger Absprache remote bereicherst – wir freuen uns auf deine Unterstützung.",
-        "employers": "164",
-        "locations": "Bonn, Bornheim, Coventry, Miami",
-        "qualifications": [
-            "In Stellenanzeige gewünschte Qualifikationen",
-            "Grundsätzliches Interesse am Thema Wetter"
-        ]
-    }
+  {
+    "name": "Amprion",
+    "title": "Amprion verbindet",
+    "caption": "",
+    "logo": "/img/logos/AMPRION_LOGO_RGB_P.png",
+    "url": "https://www.amprion.net/karriere",
+    "ad": "/img/catalogue_ads/Anzeige_A4_Amprion_GmbH.jpg",
+    "ad_format": "portrait",
+    "branche": "Energieversorgung",
+    "contact": "",
+    "text": "Die Amprion GmbH ist einer von vier Übertragungsnetzbetreibern in Deutschland. Unser 11.000 Kilometer langes Höchstspannungsnetz transportiert Strom in einem Gebiet von der Nordsee bis zu den Alpen. Dort wird ein Drittel der Wirtschaftsleistung Deutschlands erzeugt. Unsere Leitungen sind Lebensadern der Gesellschaft: Sie sichern Arbeitsplätze und Lebensqualität von 29 Millionen Menschen. Wir halten das Netz stabil und sicher – und bereiten den Weg für ein klimaverträgliches Energiesystem, indem wir unser Netz ausbauen. Rund 2.300 Beschäftigte in Dortmund und an mehr als 30 weiteren Standorten tragen dazu bei, dass die Lichter immer leuchten. Zudem übernehmen wir übergreifende Aufgaben für die Verbundnetze in Deutschland und Europa.",
+    "employers": "rund 2.300",
+    "locations": "Dortmund, Pulheim - Brauweiler bei Köln, Hoheneck bei Stuttgart und weitere 30 Standorte in Deutschland",
+    "qualifications": [
+      "Hohe Eigenverantwortung ",
+      "Bereitschaft zu bereichsübergreifender Teamarbeit",
+      "Interesse an Projektarbeit",
+      "Begeisterung, die Energiewende mitzugestalten"
+    ]
+  },
+  {
+    "name": "COHAUSZ & FLORACK",
+    "ad": "/img/catalogue_ads/CohauszFlorack_ad_2025.png",
+    "ad_format": "portrait",
+    "title": "Great ideas start with you.",
+    "caption": "",
+    "url": "https://www.cohausz-florack.de/karriere/studierende-absolventen/",
+    "logo": "/img/logos/COHAUSZ_FLORACK.jpg",
+    "branche": "Rechtsberatung, Dienstleistungen",
+    "contact": "Andrea Funk<br> <a href='mailto:bewerbung@cohausz-florack.de'>bewerbung@cohausz-florack.de</a>",
+    "text": [
+      "COHAUSZ & FLORACK ist eine Sozietät aus Patent- und Rechtsanwälten, die sich seit über 70 Jahren als Kanzlei dafür einsetzt, dass Ideen geschützt werden – zum Beispiel in Form von Patenten, Marken und Designs.<br>",
+      "Zu unseren Mandanten gehören internationale Konzerne ebenso wie mittelständische Unternehmen aus Deutschland, denen wir bei allen Fragen rund um den gewerblichen Rechtsschutz, unlauteren Wettbewerb, Urheberrecht sowie in angrenzenden Rechtsgebieten beiseite stehen.<br>",
+      "Unser Team besteht derzeit aus rund 145 Mitarbeitenden, die gemeinsam dafür sorgen, dass es sich lohnt, erfinderisch zu sein und so dazu beitragen, dass unsere Gesellschaft innovationsfreudig sowie wettbewerbsfähig bleibt und sich gut und gerne weiterentwickelt.<br>",
+      "Unseren Erfolg als Kanzlei verdanken wir vor allem unserem Team. Damit das so bleibt, haben wir ein Umfeld geschaffen, in dem man gerne arbeitet. Wir legen großen Wert auf ein freundliches und kollegiales Miteinander sowie eine respektvolle und offene Kommunikation.<br>",
+      "Wir suchen Absolventinnen und Absolventen der Fachbereiche Elektro- und Informationstechnik, Maschinenbau, Physik und Chemie für die Ausbildung zum Patentanwalt oder zur Patentanwältin und zum/zur European Patent Attorney."
+    ],
+    "employers": "ca. 145",
+    "locations": "Düsseldorf (Haupt- und Ausbildungsstandort), München",
+    "qualifications": [
+      "breite Kenntnisse und Fähigkeiten im technischen/naturwissenschaftlichen Bereich ­— auch über Ihr Studienfach hinaus",
+      "sehr gute Englischkenntnisse",
+      "Spaß am Formulieren von Texten, die technische/naturwissenschaftliche Zusammenhänge beschreiben"
+    ]
+  },
+  {
+    "name": "Finanz Informatik",
+    "ad": "/img/catalogue_ads/ad_fi.jpg",
+    "ad_format": "landscape",
+    "title": "",
+    "caption": "",
+    "url": "https://www.f-i.de/",
+    "logo": "/img/logos/fi_logo.jpg",
+    "branche": "IT-Dienstleistung",
+    "contact": "Aylin Shahabi <br>  <a href='mailto:aylin.shahabi@f-i.de'>aylin.shahabi@f-i.de</a>",
+    "text": "Die Finanz Informatik mit Standorten in Münster, Hannover und Frankfurt ist der IT-Dienstleister und Digitalisierungspartner der Sparkassen-Finanzgruppe und treibt maßgeblich das Banking der Zukunft voran. Wir bieten spannende Werkstudententätigkeiten, Traineeprogramme sowie Stellen für den Direkteinstieg für Young Professionals und Professionals an. Egal ob Informatik, Wirtschaft, Naturwissenschaften oder eine andere spannende Fachrichtung - wir freuen uns darauf, Dich kennenzulernen!",
+    "employers": "Über 5000",
+    "locations": "Frankfurt, Hannover, Münster",
+    "qualifications": "keine"
+  },
+  {
+    "name": "Forschungszentrum Jülich",
+    "ad": "/img/catalogue_ads/FZJ_ad.jpg",
+    "ad_format": "portrait",
+    "title": "",
+    "caption": "",
+    "url": "https://www.fz-juelich.de/karriere",
+    "logo": "/img/logos/FZJ_Logo.png",
+    "branche": "Wissenschaft und Forschung",
+    "contact": "Alissa Aarts <br> Personalentwicklung und Recruiting <br> <a href='mailto:a.aarts@fz-juelich.de'>a.aarts@fz-juelich.de</a>",
+    "text": "Forschung für eine Gesellschaft im Wandel: Das ist unser Antrieb im Forschungszentrum Jülich. Als Mitglied der Helmholtz-Gemeinschaft stellen wir uns den großen gesellschaftlichen Herausforderungen unserer Zeit und erforschen interdisziplinär die digitalisierte Gesellschaft, ein klimaschonendes Energiesystem und nachhaltiges Wirtschaften. Arbeite gemeinsam mit mehr als 7.400 Kolleginnen und Kollegen in einem der größten Forschungszentren Europas und gestalte den Wandel mit uns!",
+    "employers": "Über 7400 Mitarbeiter:innen",
+    "locations": "Jülich, Berlin, Rostock, München-Garching, Düsseldorf, Münster, Erlangen-Nürnberg, Bonn, Hamburg, Freiburg",
+    "qualifications": [
+      "Die Anforderungen sind je nach Stelle individuell. <br>Grundsätzlich sollten Bewerber:innen im wissenschaftlichen Umfeld arbeiten, Neugier an der Lösung herausfordernder Fragestellungen mitbringen und an der Arbeit in internationalen und interdisziplinären Teams interessiert sein. "
+    ]
+  },
+  {
+    "name": "Fraunhofer IMS",
+    "ad": "/img/catalogue_ads/FIMS_ad.jpg",
+    "ad_format": "portrait",
+    "title": "",
+    "caption": "",
+    "url": "https://www.ims.fraunhofer.de/de/Karriere.html",
+    "logo": "/img/logos/FIMS_Logo.svg",
+    "branche": "Öffentlicher Dienst, angewandte Forschung",
+    "contact": "Für Studierende: <br>Irini Tsiftsi <br> <a href='mailto:irini.tsiftsi@ims.fraunhofer.de'>irini.tsiftsi@ims.fraunhofer.de</a> <br> Für Berufseinsteiger/innen: <br>Adam Smieja <br> <a href='mailto:adam.smieja@ims.fraunhofer.de'>adam.smieja@ims.fraunhofer.de</a> <br>Bewerbungen dürfen ausschließlich über das Online-Bewerbungssystem auf unserer Karriereseite eingereicht werden.",
+    "text": "Elektronik für die Energiewende, Sensoren für eine sichere Lebensmittelversorgung oder KI für personalisierte Medizin - diese Themen möchtest du gerne vorantreiben? <br><br> Wir am Fraunhofer IMS bieten dir dafür das inspirierende Umfeld: von kreativen Teams, die mit dir gemeinsam erste Gedanken in sinnvolle Ideen kanalisieren bis hin zu unseren Reinräumen, wo diese Ideen Schritt für Schritt in Industriequalität Realität werden. <br>Steig studienbegleitend im Rahmen eines Praktikums oder als studentische Hilfskraft ein oder starte nach dem Master direkt mit der Promotion durch. ",
+    "employers": "Ca. 250 in Duisburg",
+    "locations": "Duisburg",
+    "qualifications": ["Je nach Stelle unterschiedlich"]
+  },
+  {
+    "name": "Green IT",
+    "ad": "/img/catalogue_ads/GREEN_IT_ad.jpg",
+    "ad_format": "portrait",
+    "title": "",
+    "caption": "",
+    "url": " https://jobs.greenit.systems/jobportal/#!/portal",
+    "logo": "/img/logos/GREEN_IT_Logo.svg",
+    "branche": "IT-Dienstleistungen",
+    "contact": "Alina Wiele <br> People & Culture Manager <br> <a href='mailto:bewerbung@greenit.systems'>bewerbung@greenit.systems</a>",
+    "text": "Wir sind ein IT-Dienstleister mit Hauptsitz in Dortmund, Standorten in Oberhausen, Hagen und Hannover und Service-Centern in Herdecke, Hamburg und München.<br>Unser Spezialgebiet: nachhaltige und skalierbare Lösungskonzepte für den digitalen Büroalltag. <br>Unsere Kunden: angefangen bei Kleinunternehmen bis hin zu Großkonzernen. <br>Unsere Mission: maximale Kundenzufriedenheit und ein wertvoller Beitrag zum Umweltschutz durch den Einsatz ressourcenschonender Technologien.",
+    "employers": "260",
+    "locations": "Dortmund, Hagen, Oberhausen Hannover, Herdecke",
+    "qualifications": ["Keine"]
+  },
+  {
+    "name": "Powerlines Energy Germany",
+    "ad": "/img/catalogue_ads/Powerlines_Anzeigenbild.jpg",
+    "ad_format": "portrait",
+    "title": "",
+    "caption": "",
+    "url": "http://karriere.powerlines-group.com/",
+    "logo": "/img/logos/Powerlines_Logo_cropped.jpg",
+    "branche": "Freileitungsbau mit Engineeringabteilung (Trassierung und Statik)",
+    "contact": "Hildegard Gack <br> Bereichsleiterin Personal <br> <a href='mailto:hildegard.gack@powerlines-group.com'>hildegard.gack@powerlines-group.com</a>",
+    "text": "Die Powerlines Energy ist ein führender Anbieter in der Errichtung von Energieübertragungsinfrastruktur im deutschsprachigen Raum. Wir haben die Expertise und das Know-how für die Planung, Errichtung und Wartung von Hochspannungsleitungen bis 400 kV. <br><br>Als Generalunternehmer bieten wir unseren Kunden das komplette Leistungsspektrum und unterstützen sie bei der zuverlässigen Abwicklung ihrer Infrastrukturprojekte. <br><br>Unsere Mitarbeiter:innen arbeiten tagtäglich an der sicheren Stromversorgung der Zukunft – werden auch Sie ein Teil unseres Teams!",
+    "employers": "185",
+    "locations": "Zentrale Achstetten, <br>Niederlassung in Kirchlengern,<br> Projektbüros in Karlstein und Halle/Saale;<br> Grevenmacher (LUX)",
+    "qualifications": [
+      "Kenntnisse in Bau- oder Energietechnik",
+      "Projektmanagement",
+      "kaufm. Kenntnisse und Interesse für kaufm. Zusammenhänge"
+    ]
+  },
+  {
+    "name": "RI Research Instruments",
+    "ad": "/img/catalogue_ads/RI_reinraeume_ad.jpg",
+    "ad_format": "portrait",
+    "title": "",
+    "caption": "",
+    "url": "https://research-instruments.de/de/career/",
+    "logo": "/img/logos/RI_Research_Instruments.jpg",
+    "branche": "Maschinenbau, wissenschaftlicher Apparatebau, Semicon",
+    "contact": "Annika Selbach <br> <a href='mailto:bewerbung@research-instruments.de'>bewerbung@research-instruments.de</a>",
+    "text": "RI Research Instruments steht für Innovation und Hightech. Als modernes, expandierendes und weltweit tätiges Ingenieur- und Fertigungsunternehmen entwickeln und fertigen wir Hochleistungskomponenten und -systeme für Wissenschaft und Industrie – von Prototypen und maßgeschneiderten Komponenten bis hin zur Serienfertigung und schlüsselfertigen Systemen. Unser Ziel: selbst die anspruchsvollsten Anforderungen unserer Kunden zu erfüllen. Denn bei uns lautet die Devise: „Geht nicht, gibt’s nicht!“.",
+    "employers": "> 400",
+    "locations": "Bergisch Gladbach, Dortmund",
+    "qualifications": [
+      "Technische Expertise",
+      "Innovation und Kreativität",
+      "Teamfähigkeit",
+      "Analytische Fähigkeit",
+      "Projektmanagement",
+      "Kommunikationsfähigkeit"
+    ]
+  },
+  {
+    "name": "ROSEN",
+    "title": "",
+    "caption": "",
+    "logo": "/img/logos/ROSEN_logo.jpg",
+    "url": "https://www.rosen-group.com/en/careers",
+    "ad": "/img/catalogue_ads/Rosen_Anzeige.jpg",
+    "ad_format": "landscape",
+    "branche": "Dienstleistung für Öl- und Gasbranche",
+    "contact": "Kerstin Lange <br> <a href='mailto:hr-lin@rosen-group.com'>hr-lin@rosen-group.com</a>",
+    "text": "Die ROSEN Gruppe ist ein weltweit führender Anbieter von innovativen Lösungen in allen Bereichen der Integritätsprozesskette. Seit den Anfängen als Ein-Mann-Betrieb im Jahr 1981 ist ROSEN rasant gewachsen und ist heute eine in mehr als 110 Ländern operierende Technologiegruppe mit über 4.000 hochqualifizierten MitarbeiterInnen. <br> Der Leistungsumfang der ROSEN Gruppe: <br></p><ul style='font-size: 1.2rem'><li>Inspektionen von industriellen Anlagen, um den sicheren und verlässlichen Betrieb nach den höchsten Standards zu gewährleisten </li><li>Individuelles Engineering, das effizientes Anlagen-Integritätsmanagement ermöglicht</li><li>Produktion und Vertrieb mit neuartigen Produkten und Systemen</li><li>Marktorientierte, aktuelle Forschung und Entwicklung nach dem neuesten Stand der Technik, die Produkte und Dienstleistungen mit <q>Mehrwert</q> bietet</li></ul><p>",
+    "employers": "4.000 weltweit, davon ca. 1.800 in Deutschland",
+    "locations": "25 weltweit, in Deutschland in Lingen (Ems), Osnabrück und Stutensee (Raum Karlsruhe)",
+    "qualifications": ["Programmierkenntnisse mit Python"]
+  },
+  {
+    "name": "Schulministerium",
+    "ad": "/img/catalogue_ads/Schulministerium_2024.jpg",
+    "ad_format": "portrait",
+    "title": "",
+    "caption": "Deine Berufung ist es doch, Lehrkraft zu sein? Du hast aber kein Lehramtsstudium absolviert? Wir verraten dir, wie du als Seiteneinsteiger deinen Traumberuf trotzdem erreichst.",
+    "url": "https://www.lehrkraft-werden.nrw/seiteneinstieg-ins-lehramt",
+    "logo": "/img/logos/Ministerium_NRW.jpg",
+    "branche": "Öffentlicher Dienst",
+    "contact": "Persönliche Beratung: <br> Tel.: +49 231 9369 7770 <br> <a href='mailto:beratung@lehrer-werden.nrw.de'>beratung@lehrer-werden.nrw.de</a>",
+    "text": "Flexibilität, Erfahrung oder Lernbereitschaft sind nur einige der Qualitäten, die Sie beim Seiteneinstieg als Lehrerin oder Lehrer mitbringen können. Im Lehramt können Sie ihre Berufserfahrung in einer abwechslungsreichen und erfüllenden Tätigkeit einbringen. Ob Handwerksmeister, Diplom, Bachelor oder Master, wir verraten Ihnen, wie Sie im Seiteneinstieg den Beruf einer Lehrkraft ergreifen können. <br> Informationen und weitere Beratung erhalten Sie hier: <br></p><ul style='font-size: 1.2rem'><li><a href='https://www.lehrkraft-werden.nrw/seiteneinstieg-ins-lehramt'>Webseite</a></li><li><a href='https://www.schulministerium.nrw.de/BP/LEOTexte/Seiteneinstieg/Service_und_Beratung.pdf'>Broschüre</a></li><li><a href='https://www.schulministerium.nrw.de/BiPo/LOIS/angebote'>Stellenportal</a></li></ul><p>",
+    "employers": "Circa 200.000 Lehrerinnen und Lehrer",
+    "locations": "Schulen in ganz Nordrhein-Westfalen",
+    "qualifications": [
+      "Hochschulabschluss (Bachelor, Master, Diplom) oder Meistertitel",
+      "Architektur, Bauingenieurwesen, Chemie, Chem.-Ing / Verf.-technik, Elektrotechnik, Fahrzeugtechnik, Feinwerktechnik, Informatik, Luft- und Raumfahrttechnik, Maschinenbau, Materialwissenschaften, Mathematik, Mechatronik, Medizin, Physik, Technische Informatik, Verfahrenstechnik, Wirt.-Ing. Bauingenieur, Wirt.-Ing. Elektrotechnik, Wirt.-Ing., Maschinenbau, Wirtschaftsinformatik"
+    ]
+  },
+  {
+    "name": "Wetteronline",
+    "ad": "/img/catalogue_ads/wetteronline_ad.png",
+    "ad_format": "portrait",
+    "title": "",
+    "caption": "",
+    "url": "https://wo.wetteronline.de/karriere/",
+    "logo": "/img/logos/wetteronline_logo.png",
+    "branche": "Dienstleistungen",
+    "contact": "Marie Rentschler & Mejgan Baumann <br> <a href='mailto:bewerbung@wetteronline.de'>bewerbung@wetteronline.de</a>",
+    "text": "Rund 160 Mitarbeiter sorgen weltweit bei WetterOnline nicht nur für eine besonders präzise Wettervorhersage, sondern auch für ein gutes Arbeitsklima. Ein engagiertes Team mit vielen Aufgabenbereichen und eigenem Entwicklungsspielraum erwartet dich. Egal, ob du uns an einem unserer vier Standorte (Bonn, Bornheim, Coventry, Miami) oder nach vorheriger Absprache remote bereicherst – wir freuen uns auf deine Unterstützung.",
+    "employers": "164",
+    "locations": "Bonn, Bornheim, Coventry, Miami",
+    "qualifications": [
+      "In Stellenanzeige gewünschte Qualifikationen",
+      "Grundsätzliches Interesse am Thema Wetter"
+    ]
+  }
 ]
