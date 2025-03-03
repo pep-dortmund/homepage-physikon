@@ -37,13 +37,7 @@
     </thead>
     <tr>
       <td>13 – 14 Uhr</td>
-<<<<<<< HEAD
-      {% capture _unternehmen %}++{% endcapture %}
-||||||| parent of b2196d5 (Update Programm)
-      {% capture _unternehmen %}Wetteronline++{% endcapture %}
-=======
-      {% capture _unternehmen %}Wetteronline+Fraunhofer IMS+{% endcapture %}
->>>>>>> b2196d5 (Update Programm)
+      {% capture _unternehmen %}+Fraunhofer IMS+{% endcapture %}
       {% assign __unternehmen = _unternehmen | split: '+' %}
       {% for unternehmen_name in __unternehmen %}
       {% assign unternehmen = site.data.unternehmen_2025 | where: "name", unternehmen_name | first %}
@@ -67,7 +61,7 @@
     </tr>
     <tr>
       <td>15 – 16 Uhr</td>
-      {% capture _unternehmen %}+Forschungszentrum Jülich+Finanz Informatik{% endcapture %}
+      {% capture _unternehmen %}Amprion+Forschungszentrum Jülich+Finanz Informatik{% endcapture %}
       {% assign __unternehmen = _unternehmen | split: '+' %}
       {% for unternehmen_name in __unternehmen %}
       {% assign unternehmen = site.data.unternehmen_2025 | where: "name", unternehmen_name | first %}
