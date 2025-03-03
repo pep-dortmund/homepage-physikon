@@ -37,7 +37,7 @@
     </thead>
     <tr>
       <td>13 – 14 Uhr</td>
-      {% capture _unternehmen %}++{% endcapture %}
+      {% capture _unternehmen %}+Fraunhofer IMS+{% endcapture %}
       {% assign __unternehmen = _unternehmen | split: '+' %}
       {% for unternehmen_name in __unternehmen %}
       {% assign unternehmen = site.data.unternehmen_2025 | where: "name", unternehmen_name | first %}
@@ -49,7 +49,7 @@
     </tr>
     <tr>
       <td>14 – 15 Uhr</td>
-      {% capture _unternehmen %}+COHAUSZ & FLORACK+RI Research Instruments{% endcapture %}
+      {% capture _unternehmen %}Powerlines Energy Germany+COHAUSZ & FLORACK+RI Research Instruments{% endcapture %}
       {% assign __unternehmen = _unternehmen | split: '+' %}
       {% for unternehmen_name in __unternehmen %}
       {% assign unternehmen = site.data.unternehmen_2025 | where: "name", unternehmen_name | first %}
@@ -73,7 +73,7 @@
     </tr>
     <tr>
       <td>16 – 17 Uhr</td>
-      {% capture _unternehmen %}++{% endcapture %}
+      {% capture _unternehmen %}+Infineon+{% endcapture %}
       {% assign __unternehmen = _unternehmen | split: '+' %}
       {% for unternehmen_name in __unternehmen %}
       {% assign unternehmen = site.data.unternehmen_2025 | where: "name", unternehmen_name | first %}
