@@ -61,7 +61,7 @@
     </tr>
     <tr>
       <td>15 – 16 Uhr</td>
-      {% capture _unternehmen %}Amprion+Forschungszentrum Jülich+Finanz Informatik{% endcapture %}
+      {% capture _unternehmen %}Amprion++Finanz Informatik{% endcapture %}
       {% assign __unternehmen = _unternehmen | split: '+' %}
       {% for unternehmen_name in __unternehmen %}
       {% assign unternehmen = site.data.unternehmen_2025 | where: "name", unternehmen_name | first %}
@@ -73,7 +73,7 @@
     </tr>
     <tr>
       <td>16 – 17 Uhr</td>
-      {% capture _unternehmen %}+Infineon+{% endcapture %}
+      {% capture _unternehmen %}+Infineon+Forschungszentrum Jülich{% endcapture %}
       {% assign __unternehmen = _unternehmen | split: '+' %}
       {% for unternehmen_name in __unternehmen %}
       {% assign unternehmen = site.data.unternehmen_2025 | where: "name", unternehmen_name | first %}
