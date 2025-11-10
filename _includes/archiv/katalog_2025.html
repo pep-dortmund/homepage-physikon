@@ -1,0 +1,26 @@
+<div class="container pt-5">
+  <div class="row justify-content-center">
+    <div class="col text-center">
+      <h2 class="h2-fontsize">PhysiKon 2025</h2>
+      <img style="size: 100%" src="/documents/2025_Physikon_Katalog_online_Titel.png" alt="">
+    </div>
+    <div class="row">
+      {% for unternehmen in site.data.archiv.unternehmen_2025 %}
+      <div class="col-xl-3 col-md-4 col-4 grid-col">
+        <a class="mx-auto" href="{{ unternehmen.url }}" target="_blank">
+          <div class=frame>
+            <img class="logo" src="{{ unternehmen.logo }}" alt="">
+          </div>
+        </a>
+      </div>
+      {% endfor %}
+      <div class="col-xl-3 col-md-4 col-4 grid-col"></div>
+      <div class="col-xl-3 col-md-4 col-4 grid-col"></div>
+      <div class="col-xl-3 col-md-4 col-4 grid-col"></div>
+      <div class="col-xl-3 col-md-4 col-4 grid-col"></div>
+    </div>
+
+  </div>
+</div>
+
+<hr class="star-dark">
