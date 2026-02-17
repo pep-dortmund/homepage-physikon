@@ -11,14 +11,14 @@
 
     Wir freuen uns sehr, an dieser Stelle die Unternehmen der PhysiKon 2026 vorstellen zu dürfen.
 
-    Schaut gegen Ende Januar 2026 nochmal vorbei, bis bald!
+    Schaut gegen März 2026 nochmal vorbei, bis bald!
 
     {% comment %}
     <!-- Carousel -->
     <div id="katalog-carousel" class="carousel slide" data-ride="carousel" data-interval="false">
       <div class="carousel-inner">
 
-        {% assign katalog_unternehmen = site.data.unternehmen_2025 | where_exp: "unternehmen", "unternehmen.text and
+        {% assign katalog_unternehmen = site.data.unternehmen_2026 | where_exp: "unternehmen", "unternehmen.text and
         unternehmen.text != ''" %}
         {% for unternehmen in katalog_unternehmen %}
         <div class="carousel-item {%- if forloop.first == true %} active {%- endif -%}"
