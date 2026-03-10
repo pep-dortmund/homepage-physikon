@@ -82,7 +82,7 @@
     "qualifications": "Erforderliche Qualifikationen sind stellenabhängig und können den jeweiligen Ausschreibungen entnommen werden."
   },
   {
-    "name": "Ministerium für Schule und Bildung",
+    "name": "Ministerium für Schule und Bildung des Landes Nordrhein-Westfalen",
     "ad": "/img/empty.png",
     "ad_format": "landscape",
     "title": "",
@@ -90,7 +90,7 @@
     "url": "https://www.lehrkraft-werden.nrw/seiteneinstieg-ins-lehramt",
     "logo": "https://nextcloud.pep-dortmund.org/apps/files_sharing/publicpreview/qmKy5knerAon4q2?file=/&fileId=276768&x=1920&y=1080&a=true&etag=0a666d659b2153021091a67aea1283ce",
     "branche": "Öffentlicher Dienst",
-    "contact": "Persönliche Beratung <br> +49 231 9369 7770 <br> <a href='mailto:beratung@lehrer-werden.nrw.de'>beratung@lehrer-werden.nrw.de</a> <br> <a href='https://www.schulministerium.nrw.de/BP/LEOTexte/Seiteneinstieg/Service_und_Beratung.pdf'>Dokument: Beratung zum Seiteneinstieg</a>",
+    "contact": "Persönliche Beratung <br> +49 231 9369 7770 <br> <a href='mailto:beratung@lehrer-werden.nrw.de'>beratung@lehrer-werden.nrw.de</a> <br> Dokument: <a href='https://www.schulministerium.nrw.de/BP/LEOTexte/Seiteneinstieg/Service_und_Beratung.pdf'>Beratung zum Seiteneinstieg</a>",
     "text": "Flexibilität, Erfahrung oder Lernbereitschaft sind nur einige der Qualitäten, die Sie beim Seiteneinstieg als Lehrerin oder Lehrer mitbringen können. Im Lehramt können Sie ihre Berufserfahrung in einer abwechslungsreichen und erfüllenden Tätigkeit einbringen. Ob Meistertitel, Diplom, Bachelor oder Master, wir verraten Ihnen, wie Sie im Seiteneistieg den Beruf einer Lehrkraft ergreifen können.",
     "employers": "Circa 200.000 Lehrerinnen und Lehrer",
     "locations": "Sitz des Ministeriums: Düsseldorf",
@@ -110,7 +110,7 @@
     "branche": "Maschinenbau, wissenschaftlicher Apparatebau, Semicon",
     "contact": "Annika Selbach <br> <a href='mailto:bewerbung@research-instruments.de'>bewerbung@research-instruments.de</a>",
     "text": "RI Research Instruments steht für Innovation und Hightech. Als modernes, expandierendes und weltweit tätiges Ingenieur- und Fertigungsunternehmen entwickeln und fertigen wir Hochleistungskomponenten und -systeme für Wissenschaft und Industrie – von Prototypen und maßgeschneiderten Komponenten bis hin zur Serienfertigung und schlüsselfertigen Systemen. Unser Ziel: selbst die anspruchsvollsten Anforderungen unserer Kunden zu erfüllen. Denn bei uns lautet die Devise: „Geht nicht, gibt’s nicht!“.",
-    "employers": "> 400",
+    "employers": "Über 400",
     "locations": "Bergisch Gladbach, Dortmund",
     "qualifications": [
       "Technische Expertise",
