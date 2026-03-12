@@ -55,15 +55,15 @@
     "ad_format": "landscape",
     "title": "",
     "caption": "",
-    "url": "https://www.fz-juelich.de/karriere",
+    "url": "https://www.fz-juelich.de/de/karriere",
     "logo": "https://nextcloud.pep-dortmund.org/apps/files_sharing/publicpreview/858oJqmtrms2oPn?file=/&fileId=276872&x=1920&y=1080&a=true&etag=eda198b3868b21462a34a0a7f3cf4823",
     "branche": "Wissenschaft und Forschung",
-    "contact": "Alissa Aarts <br> Personalentwicklung und Recruiting <br> <a href='mailto:a.aarts@fz-juelich.de'>a.aarts@fz-juelich.de</a>",
+    "contact": "Alissa Aarts <br> Personalentwicklung und Recruiting (P-E) <br> <a href='mailto:a.aarts@fz-juelich.de'>a.aarts@fz-juelich.de</a>",
     "text": "Forschung für eine Gesellschaft im Wandel: Das ist unser Antrieb im Forschungszentrum Jülich. Als Mitglied der Helmholtz-Gemeinschaft stellen wir uns den großen gesellschaftlichen Herausforderungen unserer Zeit und erforschen interdisziplinär die digitalisierte Gesellschaft, ein klimaschonendes Energiesystem und nachhaltiges Wirtschaften. Arbeite gemeinsam mit mehr als 7.600 Kolleginnen und Kollegen in einem der größten Forschungszentren Europas und gestalte den Wandel mit uns!",
-    "employers": "Über 7400 Mitarbeiter:innen",
-    "locations": "Jülich, Berlin, Rostock, München-Garching, Düsseldorf, Münster, Erlangen-Nürnberg, Bonn, Hamburg, Freiburg",
+    "employers": "Über 7600 Mitarbeiter:innen",
+    "locations": "Jülich, Aachen, Berlin, Bielefeld, Bonn, Düsseldorf, Duisburg, Erlangen-Nürnberg, Freiburg, Hamburg, Köln, München-Garching, Münster, Rostock, Saarbrücken, Stuttgart",
     "qualifications": [
-      "Die Anforderungen sind je nach Stelle individuell. <br>Grundsätzlich sollten Bewerber:innen im wissenschaftlichen Umfeld arbeiten, Neugier an der Lösung herausfordernder Fragestellungen mitbringen und an der Arbeit in internationalen und interdisziplinären Teams interessiert sein. "
+      "Die Anforderungen sind je nach Stelle individuell. Grundsätzlich sollten Bewerber:innen im wissenschaftlichen Umfeld Neugier an der Lösung herausfordernder Fragestellungen mitbringen und an der Arbeit in internationalen und interdisziplinären Teams interessiert sein."
     ]
   },
   {
@@ -140,5 +140,5 @@
       "Analytisches Denkvermögen",
       "Sichere Kommunikation auf Deutsch und Englisch"
     ]
-  },
+  }
 ]
