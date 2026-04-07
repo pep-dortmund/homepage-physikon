@@ -1,11 +1,26 @@
 [
   {
-    "name": "Conscan",
-    "ad": "https://nextcloud.pep-dortmund.org/apps/files_sharing/publicpreview/DyPH6dZQJnzFyrt?file=/&fileId=276773&x=1920&y=1080&a=true&etag=f449c032f2de2d63c0eb5f25f89124ef",
-    "ad_format": "portrait",
+    "name": "Amprion",
+    "ad": "https://nextcloud.pep-dortmund.org/apps/files_sharing/publicpreview/CXgj76fzJggYXk6?file=/&fileId=279542&x=1919&y=1200&a=true&etag=84579724c1fbd5359007ea2e8a8cac5a",
+    "ad_format": "landscape",
     "title": "",
     "caption": "",
-    "url": "",
+    "url": "http://jobs.amprion.net",
+    "logo": "https://nextcloud.pep-dortmund.org/apps/files_sharing/publicpreview/QLASPQRKsJK5S6t?file=/&fileId=279550&x=1919&y=1200&a=true&etag=2764708df95b76200e7e47b0bda287f0",
+    "branche": "Energie",
+    "contact": "Lena Schiller <br> <a href='mailto:lena.schiller@amprion.net'>lena.schiller@amprion.net</a> <br><br> Link zum Karriereportal: <a href='http://jobs.amprion.net'>jobs.amprion.net</a>",
+    "text": "Die Amprion GmbH ist einer von vier Übertragungsnetzbetreibern in Deutschland. Unser 11.000 Kilometer langes Höchstspannungsnetz transportiert Strom in einem Gebiet von der Nordsee bis zu den Alpen. Unsere Leitungen sind Lebensadern der Gesellschaft: Sie sichern Arbeitsplätze und Lebensqualität von 29 Millionen Menschen. Wir halten das Netz stabil und sicher – und bereiten den Weg für ein klimaverträgliches Energiesystem, indem wir unser Netz ausbauen.",
+    "employers": "3100",
+    "locations": "Dortmund, Brauweiler bei Köln, Hamburg, Hoheneck bei Ludwigsburg und weitere 30 Standorten in Deutschland",
+    "qualifications": "keine"
+  },
+  {
+    "name": "Conscan",
+    "ad": "https://nextcloud.pep-dortmund.org/apps/files_sharing/publicpreview/DyPH6dZQJnzFyrt?file=/&fileId=276773&x=1920&y=1080&a=true&etag=f449c032f2de2d63c0eb5f25f89124ef",
+    "ad_format": "landscape",
+    "title": "",
+    "caption": "",
+    "url": "https://www.conscan.tech/",
     "logo": "https://nextcloud.pep-dortmund.org/public.php/dav/files/rgSr2PyYjPSN4g4/",
     "branche": "3D Scanning. Risserkennung mit KI. BIM & CAD Services. Zu 100% Bauwerkssanierung.",
     "contact": "Nils Altenburg <br> <a href='mailto:info@ifsb.eu'>info@ifsb.eu</a> <br> 039203 690080",
@@ -13,6 +28,25 @@
     "employers": "12",
     "locations": "Dortmund",
     "qualifications": "keine"
+  },
+  {
+    "name": "COHAUSZ & FLORACK",
+    "ad": "https://nextcloud.pep-dortmund.org/apps/files_sharing/publicpreview/rsHrsBamBpowSG2?file=/&fileId=279592&x=1919&y=1200&a=true&etag=43840bb4707f62662e2557ab0d7b2d83",
+    "ad_format": "landscape",
+    "title": "",
+    "caption": "",
+    "url": "https://www.cohausz-florack.de/karriere/",
+    "logo": "https://nextcloud.pep-dortmund.org/apps/files_sharing/publicpreview/s4x8m93SFHJeCTr?file=/&fileId=279600&x=1919&y=1200&a=true&etag=81c5fecd63b20374e8c9c5b7dbcc9432",
+    "branche": "Rechtsberatung, Dienstleistungen",
+    "contact": "Frau Andrea Funk<br> <a href='mailto:bewerbung@cohausz-florack.de'>bewerbung@cohausz-florack.de</a><br>Link zum Karriereportal: <a href='https://www.cohausz-florack.de/karriere/'>cohausz-florack.de/karriere</a>",
+    "text": "COHAUSZ & FLORACK ist eine Gesellschaft aus Patent- und Rechtsanwälten, die sich seit über 70 Jahren für den Schutz von Ideen einsetzt – z. B. in Form von Patenten, Marken und Designs. Wir beraten internationale Konzerne ebenso wie mittelständische Unternehmen aus Deutschland zu allen Fragen rund um gewerblichen Rechtsschutz, Unlauteren Wettbewerb, Urheberrecht und angrenzende Rechtsgebiete. Mit rund 150 Mitarbeitenden fördern wir Innovationen und sorgen dafür, dass unsere Gesellschaft innovationsfreudig bleibt und sich gerne weiterentwickelt.",
+    "employers": "ca. 150",
+    "locations": "Düsseldorf (Haupt- und Ausbildungsstandort), München",
+    "qualifications": [
+      "breite Kenntnisse und Fähigkeiten im technischen/naturwissenschaftlichen Bereich – auch über Ihr Studienfach hinaus",
+      "sehr gute Englischkenntnisse",
+      "Spaß am Formulieren von Texten, die technische/naturwissenschaftliche Zusammenhänge beschreiben"
+    ]
   },
   {
     "name": "dfine",
@@ -82,6 +116,24 @@
     "qualifications": "Erforderliche Qualifikationen sind stellenabhängig und können den jeweiligen Ausschreibungen entnommen werden."
   },
   {
+    "name": "Max Planck School of Photonics",
+    "ad": "https://nextcloud.pep-dortmund.org/apps/files_sharing/publicpreview/Zr7JxzsnLNZ7xdD?file=/&fileId=279580&x=1919&y=1200&a=true&etag=2421e1b451c99838aa666e6768f6406a",
+    "ad_format": "landscape",
+    "title": "",
+    "caption": "",
+    "url": "",
+    "logo": "https://nextcloud.pep-dortmund.org/apps/files_sharing/publicpreview/JxEpDYDxcx3rN4j?file=/&fileId=279571&x=1919&y=1200&a=true&etag=c445bde375488e750ce0eb261beb51ab",
+    "branche": "Graduiertenprogramme an Hochschulen im Bereich Physik, Photonik (für Photonics) und im Bereich Chemie, Biochemie, Materialwissenschaften, Molecular Systems Engineering, Physik, Molekularer Zellbiologie, Bioengineering (für Matter to Life)",
+    "contact": "Emailadressen für Kontakt und Fragen zu Bewerbung:<br>Matter to Life: <a href='mailto:mattertolife@maxplanckschools.de'>mattertolife@maxplanckschools.de</a><br>Photonics: <a href='mailto:photonics@maxplanckschools.de'>photonics@maxplanckschools.de</a><br><br>Links zu unseren Bewerbungsportalen: <a href='https://www.maxplanckschools.org/de/bewerbung'>Matter to Life</a><br><a href='https://photonics.maxplanckschools.org/326441/bewerbung-study-phas'>Photonics</a>",
+    "text": "Die Max Planck Schools sind ein gemeinsames Graduiertenprogramm deutscher Universitäten und außeruniversitärer Forschungseinrichtungen. Seit 2019 bieten wir jungen Talenten die Möglichkeit, ihre Promotion im Rahmen eines einzigartigen Netzwerk zu machen mit frühzeitigem Zugang zu exzellenter Infrastruktur und renommierten Wissenschaftler:innen in drei innovativen Feldern: Cognition, Matter to Life und Photonics.",
+    "employers": "Matter to Life: 12<br>Photonics: 6",
+    "locations": "für Matter fo Life: Universität Göttingen und Universität Heidelberg; für Photonics: Friedrich-Alexander Universität Erlangen-Nürnberg, Friedrich-Schiller-Universität Jena und Karlsruher Institut für Technologie",
+    "qualifications": [
+      "Bachelorabschlüsse in Chemie, Biochemie, Materialwissenschaften, Molecular Systems Engineering, Physik, Molekularer Zellbiologie, Bioengineering (für Matter to Life) und Physik oder Engineering (für Photonics)",
+      "Nachweis über Englisches Sprachniveau: TOEFL, IELTS oder ein äquivalentes Englisch-Zertifikat mindestens auf B2 Niveau"
+    ]
+  },
+  {
     "name": "Ministerium für Schule und Bildung des Landes Nordrhein-Westfalen",
     "ad": "/img/empty.png",
     "ad_format": "landscape",
@@ -140,5 +192,20 @@
       "Analytisches Denkvermögen",
       "Sichere Kommunikation auf Deutsch und Englisch"
     ]
+  },
+  {
+    "name": "Wetter Online",
+    "ad": "/img/empty.png",
+    "ad_format": "landscape",
+    "title": "",
+    "caption": "",
+    "url": "https://wo.wetteronline.de/karriere/alle-stellenangebote/",
+    "logo": "https://nextcloud.pep-dortmund.org/apps/files_sharing/publicpreview/4wyGPkQKPQb6SZP?file=/&fileId=279560&x=1919&y=1200&a=true&etag=68be3b6613d59a26bb809678d1e5a201",
+    "branche": "Wir gehören der Dienstleistungsbranche an, verstehen uns aber als IT-Unternehmen",
+    "contact": "Marie Rentschler<br>Mejgan Baumann<br>Romina Meier<br><br>Bewerbungen sollten direkt über unser <a href='https://wo.wetteronline.de/karriere/alle-stellenangebote/'>Karriereportal</a> erfolgen, alternativ über die Mailadresse <a href='mailto:bewerbung@wetteronline.de'>bewerbung@wetteronline.de</a>",
+    "text": "Rund 160 Mitarbeiter sorgen weltweit bei WetterOnline nicht nur für eine besonders präzise Wettervorhersage, sondern auch für ein gutes Arbeitsklima. Ein engagiertes Team mit vielen Aufgabenbereichen und eigenem Entwicklungsspielraum erwartet dich. Egal, ob du uns an einem unserer vier Standorte (Bonn, Bornheim, Coventry, Miami) oder nach vorheriger Absprache remote bereicherst – wir freuen uns auf deine Unterstützung.",
+    "employers": "160",
+    "locations": "Bonn, Bornheim, Coventry & Miami",
+    "qualifications": "keine"
   }
 ]
