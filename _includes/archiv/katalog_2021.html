@@ -3,27 +3,17 @@
     <div class="col text-center">
       <h2 class="h2-fontsize">PhysiKon 2021</h2>
       <img style="size: 100%" src="/documents/2021_Physikon_Katalog_online_Titel.png" alt="">
+      <p style="margin-bottom: 20px;"></p>
     </div>
-
     <div class="row">
       {% for unternehmen in site.data.archiv.unternehmen_2021 %}
       <div class="col-xl-3 col-md-4 col-4 grid-col">
-        <a class="mx-auto" href="{{ unternehmen.url }}" target="_blank">
-          <div class=frame>
-            <img class="logo" src="{{ unternehmen.logo }}" alt="">
-          </div>
-        </a>
+        <a href="{{ unternehmen.url }}">{{ unternehmen.name }}</a>
+        <p style="margin-bottom: 20px;"></p>
       </div>
       {% endfor %}
-      <div class="col-xl-3 col-md-4 col-4 grid-col"></div>
-      <div class="col-xl-3 col-md-4 col-4 grid-col"></div>
-      <div class="col-xl-3 col-md-4 col-4 grid-col"></div>
-      <div class="col-xl-3 col-md-4 col-4 grid-col"></div>
-      <div class="col-xl-3 col-md-4 col-4 grid-col"></div>
-      <div class="col-xl-3 col-md-4 col-4 grid-col"></div>
 
     </div>
-
   </div>
 </div>
 
